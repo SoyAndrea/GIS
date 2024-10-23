@@ -1,0 +1,3644 @@
+fin_de_semana,hora_date,linea,estacion,total
+False,0,LineaA,Acoyte,1.25
+False,0,LineaA,Carabobo,1.0
+False,0,LineaA,Flores,1.0
+False,0,LineaA,Loria,1.0
+False,0,LineaA,Peru,1.0
+False,0,LineaA,Plaza Miserere,1.0769230769230769
+False,0,LineaA,Rio de Janeiro,2.0
+False,0,LineaB,Carlos Gardel,1.0
+False,0,LineaB,Federico Lacroze,1.0
+False,0,LineaB,Leandro N. Alem,1.0
+False,0,LineaB,Malabia,1.0
+False,0,LineaC,Constitucion,1.0
+False,0,LineaC,Independencia,1.25
+False,0,LineaD,Congreso de Tucuman,1.3333333333333333
+False,0,LineaD,Jose Hernandez,1.0
+False,0,LineaD,Ministro Carranza,1.0
+False,0,LineaD,Olleros,1.0
+False,0,LineaD,Palermo,1.1428571428571428
+False,0,LineaD,Plaza Italia,1.0
+False,0,LineaE,Avenida La Plata,1.4285714285714286
+False,0,LineaE,Boedo,1.0
+False,0,LineaE,Bolivar,1.0
+False,0,LineaE,Catalinas,1.3333333333333333
+False,0,LineaE,Correo Central,1.0
+False,0,LineaE,Emilio Mitre,1.0
+False,0,LineaE,Entre Rios,1.0
+False,0,LineaE,Independencia.H,1.0
+False,0,LineaE,Jujuy,1.0
+False,0,LineaE,Pichincha,1.0
+False,0,LineaE,Pza. de los Virreyes,1.0
+False,0,LineaE,Retiro E,1.7142857142857142
+False,0,LineaE,San Jose,1.0
+False,0,LineaE,Urquiza,1.0
+False,0,LineaE,Varela,5.0
+False,0,LineaH,Cordoba,1.0
+False,0,LineaH,Corrientes,1.0
+False,0,LineaH,Humberto I,1.0
+False,0,LineaH,Las Heras,1.0
+False,0,LineaH,Once,2.5
+False,0,LineaH,Santa Fe,2.0
+False,0,LineaH,Venezuela,1.0
+False,1,LineaA,Acoyte,1.5
+False,1,LineaA,Flores,1.0
+False,1,LineaA,Lima,1.0
+False,1,LineaA,Plaza Miserere,1.0
+False,1,LineaA,Rio de Janeiro,1.0
+False,1,LineaB,Federico Lacroze,1.3333333333333333
+False,1,LineaB,Malabia,1.0
+False,1,LineaB,Pueyrredon,1.0
+False,1,LineaB,Rosas,1.0
+False,1,LineaD,Congreso de Tucuman,1.0
+False,1,LineaD,Pueyrredon.D,1.0
+False,1,LineaE,Avenida La Plata,1.0
+False,1,LineaE,Catalinas,1.5
+False,1,LineaE,Correo Central,2.0
+False,1,LineaE,Pza. de los Virreyes,1.0
+False,1,LineaE,Retiro E,1.4
+False,1,LineaE,Varela,2.0
+False,1,LineaH,Once,1.5
+False,2,LineaA,Acoyte,2.6666666666666665
+False,2,LineaA,Congreso,1.0
+False,2,LineaA,Flores,2.0
+False,2,LineaA,Lima,1.0
+False,2,LineaA,Plaza Miserere,2.0
+False,2,LineaB,Federico Lacroze,1.0
+False,2,LineaB,Leandro N. Alem,1.0
+False,2,LineaB,Pueyrredon,1.3333333333333333
+False,2,LineaB,Rosas,1.0
+False,2,LineaC,Mariano Moreno,1.0
+False,2,LineaD,Catedral,1.0
+False,2,LineaD,Congreso de Tucuman,1.6666666666666667
+False,2,LineaD,Pueyrredon.D,1.0
+False,2,LineaD,Scalabrini Ortiz,1.0
+False,2,LineaE,Catalinas,1.0
+False,2,LineaE,Correo Central,1.0
+False,2,LineaE,Independencia.H,1.0
+False,2,LineaE,Jose Maria Moreno,1.0
+False,2,LineaE,Retiro E,1.8333333333333333
+False,2,LineaE,Varela,1.0
+False,2,LineaH,Once,1.0
+False,3,LineaA,Acoyte,2.3333333333333335
+False,3,LineaA,Plaza Miserere,2.0
+False,3,LineaB,Federico Lacroze,1.0
+False,3,LineaB,Malabia,2.0
+False,3,LineaB,Rosas,1.0
+False,3,LineaD,Catedral,2.0
+False,3,LineaD,Congreso de Tucuman,1.0
+False,3,LineaD,Palermo,1.0
+False,3,LineaD,Plaza Italia,2.0
+False,3,LineaE,Boedo,1.0
+False,3,LineaE,Catalinas,2.0
+False,3,LineaE,Correo Central,1.0
+False,3,LineaE,Independencia.H,1.0
+False,3,LineaE,Pza. de los Virreyes,1.0
+False,3,LineaE,Retiro E,1.75
+False,3,LineaH,Hospitales,2.0
+False,4,LineaA,Acoyte,1.7619047619047619
+False,4,LineaA,Carabobo,1.368421052631579
+False,4,LineaA,Flores,1.0
+False,4,LineaA,Lima,1.0
+False,4,LineaA,Loria,1.0
+False,4,LineaA,Plaza Miserere,3.2857142857142856
+False,4,LineaA,Plaza de Mayo,1.0
+False,4,LineaA,Puan,1.0
+False,4,LineaA,San Pedrito,1.0
+False,4,LineaB,Dorrego,2.0
+False,4,LineaB,Federico Lacroze,5.75
+False,4,LineaB,Leandro N. Alem,2.0
+False,4,LineaB,Pueyrredon,1.5
+False,4,LineaB,Rosas,3.6
+False,4,LineaC,Independencia,1.0
+False,4,LineaD,Bulnes,4.076923076923077
+False,4,LineaD,Callao,1.0
+False,4,LineaD,Congreso de Tucuman,2.6923076923076925
+False,4,LineaD,Facultad de Medicina,1.0
+False,4,LineaD,Ministro Carranza,1.2380952380952381
+False,4,LineaD,Palermo,1.1666666666666667
+False,4,LineaD,Plaza Italia,1.1333333333333333
+False,4,LineaD,Pueyrredon.D,1.25
+False,4,LineaE,Avenida La Plata,3.4761904761904763
+False,4,LineaE,Correo Central,1.3333333333333333
+False,4,LineaE,Independencia.H,1.0
+False,4,LineaE,Jose Maria Moreno,1.0
+False,4,LineaE,Retiro E,2.25
+False,4,LineaE,San Jose,1.0
+False,4,LineaE,Varela,1.0
+False,4,LineaH,Hospitales,1.0
+False,4,LineaH,Once,1.0
+False,4,LineaH,Santa Fe,1.0
+False,5,LineaA,Acoyte,56.95652173913044
+False,5,LineaA,Alberti,10.304347826086957
+False,5,LineaA,Carabobo,49.82608695652174
+False,5,LineaA,Castro Barros,24.08695652173913
+False,5,LineaA,Congreso,42.21739130434783
+False,5,LineaA,Flores,70.52173913043478
+False,5,LineaA,Lima,31.695652173913043
+False,5,LineaA,Loria,32.26086956521739
+False,5,LineaA,Pasco,11.0
+False,5,LineaA,Peru,20.956521739130434
+False,5,LineaA,Piedras,14.869565217391305
+False,5,LineaA,Plaza Miserere,98.82608695652173
+False,5,LineaA,Plaza de Mayo,47.82608695652174
+False,5,LineaA,Primera Junta,85.21739130434783
+False,5,LineaA,Puan,19.08695652173913
+False,5,LineaA,Rio de Janeiro,39.04347826086956
+False,5,LineaA,Saenz PeÃÂ±a ,17.73913043478261
+False,5,LineaA,San Pedrito,190.52173913043478
+False,5,LineaB,Angel Gallardo,35.47826086956522
+False,5,LineaB,Callao.B,47.391304347826086
+False,5,LineaB,Carlos Gardel,31.0
+False,5,LineaB,Carlos Pellegrini,63.43478260869565
+False,5,LineaB,Dorrego,34.73913043478261
+False,5,LineaB,Echeverria,26.52173913043478
+False,5,LineaB,Federico Lacroze,372.8695652173913
+False,5,LineaB,Florida,11.91304347826087
+False,5,LineaB,Leandro N. Alem,168.1304347826087
+False,5,LineaB,Los Incas,47.73913043478261
+False,5,LineaB,Malabia,52.91304347826087
+False,5,LineaB,Medrano,49.91304347826087
+False,5,LineaB,Pasteur,22.08695652173913
+False,5,LineaB,Pueyrredon,42.391304347826086
+False,5,LineaB,Rosas,216.30434782608697
+False,5,LineaB,Tronador,12.636363636363637
+False,5,LineaB,Uruguay,17.391304347826086
+False,5,LineaC,Avenida de Mayo,16.636363636363637
+False,5,LineaC,Constitucion,1470.608695652174
+False,5,LineaC,Diagonal Norte,7.391304347826087
+False,5,LineaC,General San Martin,11.956521739130435
+False,5,LineaC,Independencia,35.52173913043478
+False,5,LineaC,Lavalle,25.52173913043478
+False,5,LineaC,Mariano Moreno,17.608695652173914
+False,5,LineaC,Retiro,268.8695652173913
+False,5,LineaC,San Juan,27.82608695652174
+False,5,LineaD,9 de julio,14.130434782608695
+False,5,LineaD,AgÃÂ¼ero,22.869565217391305
+False,5,LineaD,Bulnes,26.347826086956523
+False,5,LineaD,Callao,21.956521739130434
+False,5,LineaD,Catedral,57.130434782608695
+False,5,LineaD,Congreso de Tucuman,147.82608695652175
+False,5,LineaD,Facultad de Medicina,21.956521739130434
+False,5,LineaD,Jose Hernandez,30.47826086956522
+False,5,LineaD,Juramento,38.69565217391305
+False,5,LineaD,Ministro Carranza,43.73913043478261
+False,5,LineaD,Olleros,27.318181818181817
+False,5,LineaD,Palermo,111.43478260869566
+False,5,LineaD,Plaza Italia,32.69565217391305
+False,5,LineaD,Pueyrredon.D,19.91304347826087
+False,5,LineaD,Scalabrini Ortiz,30.695652173913043
+False,5,LineaD,Tribunales,11.826086956521738
+False,5,LineaE,Avenida La Plata,37.21739130434783
+False,5,LineaE,Boedo,21.869565217391305
+False,5,LineaE,Bolivar,22.347826086956523
+False,5,LineaE,Catalinas,7.318181818181818
+False,5,LineaE,Correo Central,24.608695652173914
+False,5,LineaE,Emilio Mitre,20.0
+False,5,LineaE,Entre Rios,22.391304347826086
+False,5,LineaE,General Belgrano,11.727272727272727
+False,5,LineaE,Independencia.H,34.73913043478261
+False,5,LineaE,Jose Maria Moreno,22.869565217391305
+False,5,LineaE,Jujuy,16.695652173913043
+False,5,LineaE,Medalla Milagrosa,6.318181818181818
+False,5,LineaE,Pichincha,18.347826086956523
+False,5,LineaE,Pza. de los Virreyes,130.86363636363637
+False,5,LineaE,Retiro E,22.434782608695652
+False,5,LineaE,San Jose,12.826086956521738
+False,5,LineaE,Urquiza,19.952380952380953
+False,5,LineaE,Varela,21.095238095238095
+False,5,LineaH,Caseros,36.04347826086956
+False,5,LineaH,Cordoba,15.08695652173913
+False,5,LineaH,Corrientes,18.869565217391305
+False,5,LineaH,Facultad de Derecho,9.26086956521739
+False,5,LineaH,Hospitales,183.8695652173913
+False,5,LineaH,Humberto I,22.391304347826086
+False,5,LineaH,Inclan,32.17391304347826
+False,5,LineaH,Las Heras,22.043478260869566
+False,5,LineaH,Once,119.3913043478261
+False,5,LineaH,Patricios,100.08695652173913
+False,5,LineaH,Santa Fe,28.26086956521739
+False,5,LineaH,Venezuela,42.608695652173914
+False,6,LineaA,Acoyte,376.7391304347826
+False,6,LineaA,Alberti,63.17391304347826
+False,6,LineaA,Carabobo,359.5217391304348
+False,6,LineaA,Castro Barros,198.7826086956522
+False,6,LineaA,Congreso,156.08695652173913
+False,6,LineaA,Flores,507.5217391304348
+False,6,LineaA,Lima,122.6086956521739
+False,6,LineaA,Loria,182.91304347826087
+False,6,LineaA,Pasco,51.34782608695652
+False,6,LineaA,Peru,68.1304347826087
+False,6,LineaA,Piedras,58.04347826086956
+False,6,LineaA,Plaza Miserere,482.2608695652174
+False,6,LineaA,Plaza de Mayo,251.17391304347825
+False,6,LineaA,Primera Junta,458.04347826086956
+False,6,LineaA,Puan,198.7391304347826
+False,6,LineaA,Rio de Janeiro,226.43478260869566
+False,6,LineaA,Saenz PeÃÂ±a ,101.52173913043478
+False,6,LineaA,San Pedrito,1416.5652173913043
+False,6,LineaB,Angel Gallardo,322.95652173913044
+False,6,LineaB,Callao.B,184.3913043478261
+False,6,LineaB,Carlos Gardel,191.47826086956522
+False,6,LineaB,Carlos Pellegrini,331.69565217391306
+False,6,LineaB,Dorrego,221.1304347826087
+False,6,LineaB,Echeverria,261.4347826086956
+False,6,LineaB,Federico Lacroze,1518.5652173913043
+False,6,LineaB,Florida,51.30434782608695
+False,6,LineaB,Leandro N. Alem,579.3913043478261
+False,6,LineaB,Los Incas,352.17391304347825
+False,6,LineaB,Malabia,398.04347826086956
+False,6,LineaB,Medrano,315.6521739130435
+False,6,LineaB,Pasteur,114.26086956521739
+False,6,LineaB,Pueyrredon,204.2173913043478
+False,6,LineaB,Rosas,1540.0434782608695
+False,6,LineaB,Tronador,141.0
+False,6,LineaB,Uruguay,84.95652173913044
+False,6,LineaC,Avenida de Mayo,87.43478260869566
+False,6,LineaC,Constitucion,7627.217391304348
+False,6,LineaC,Diagonal Norte,39.21739130434783
+False,6,LineaC,General San Martin,55.608695652173914
+False,6,LineaC,Independencia,157.91304347826087
+False,6,LineaC,Lavalle,85.73913043478261
+False,6,LineaC,Mariano Moreno,67.78260869565217
+False,6,LineaC,Retiro,1272.391304347826
+False,6,LineaC,San Juan,143.0
+False,6,LineaD,9 de julio,115.26086956521739
+False,6,LineaD,AgÃÂ¼ero,205.04347826086956
+False,6,LineaD,Bulnes,247.69565217391303
+False,6,LineaD,Callao,138.47826086956522
+False,6,LineaD,Catedral,240.08695652173913
+False,6,LineaD,Congreso de Tucuman,1314.608695652174
+False,6,LineaD,Facultad de Medicina,159.47826086956522
+False,6,LineaD,Jose Hernandez,301.7391304347826
+False,6,LineaD,Juramento,376.30434782608694
+False,6,LineaD,Ministro Carranza,326.2608695652174
+False,6,LineaD,Olleros,249.08695652173913
+False,6,LineaD,Palermo,590.0
+False,6,LineaD,Plaza Italia,198.47826086956522
+False,6,LineaD,Pueyrredon.D,115.1304347826087
+False,6,LineaD,Scalabrini Ortiz,243.30434782608697
+False,6,LineaD,Tribunales,71.8695652173913
+False,6,LineaE,Avenida La Plata,149.82608695652175
+False,6,LineaE,Boedo,123.43478260869566
+False,6,LineaE,Bolivar,101.95652173913044
+False,6,LineaE,Catalinas,17.73913043478261
+False,6,LineaE,Correo Central,67.17391304347827
+False,6,LineaE,Emilio Mitre,172.43478260869566
+False,6,LineaE,Entre Rios,130.56521739130434
+False,6,LineaE,General Belgrano,34.0
+False,6,LineaE,Independencia.H,106.47826086956522
+False,6,LineaE,Jose Maria Moreno,143.47826086956522
+False,6,LineaE,Jujuy,102.21739130434783
+False,6,LineaE,Medalla Milagrosa,79.30434782608695
+False,6,LineaE,Pichincha,77.08695652173913
+False,6,LineaE,Pza. de los Virreyes,669.3913043478261
+False,6,LineaE,Retiro E,96.43478260869566
+False,6,LineaE,San Jose,90.1304347826087
+False,6,LineaE,Urquiza,107.43478260869566
+False,6,LineaE,Varela,131.34782608695653
+False,6,LineaH,Caseros,179.43478260869566
+False,6,LineaH,Cordoba,107.47826086956522
+False,6,LineaH,Corrientes,88.91304347826087
+False,6,LineaH,Facultad de Derecho,28.652173913043477
+False,6,LineaH,Hospitales,1153.8260869565217
+False,6,LineaH,Humberto I,155.95652173913044
+False,6,LineaH,Inclan,195.47826086956522
+False,6,LineaH,Las Heras,145.30434782608697
+False,6,LineaH,Once,657.2608695652174
+False,6,LineaH,Patricios,530.304347826087
+False,6,LineaH,Santa Fe,117.3913043478261
+False,6,LineaH,Venezuela,260.39130434782606
+False,7,LineaA,Acoyte,1288.9130434782608
+False,7,LineaA,Alberti,222.0
+False,7,LineaA,Carabobo,1502.4347826086957
+False,7,LineaA,Castro Barros,711.9565217391304
+False,7,LineaA,Congreso,426.0
+False,7,LineaA,Flores,1698.8695652173913
+False,7,LineaA,Lima,259.0
+False,7,LineaA,Loria,538.695652173913
+False,7,LineaA,Pasco,157.47826086956522
+False,7,LineaA,Peru,127.82608695652173
+False,7,LineaA,Piedras,121.26086956521739
+False,7,LineaA,Plaza Miserere,1143.2608695652175
+False,7,LineaA,Plaza de Mayo,522.8260869565217
+False,7,LineaA,Primera Junta,1640.8260869565217
+False,7,LineaA,Puan,899.3478260869565
+False,7,LineaA,Rio de Janeiro,908.304347826087
+False,7,LineaA,Saenz PeÃÂ±a ,281.0869565217391
+False,7,LineaA,San Pedrito,4156.260869565217
+False,7,LineaB,Angel Gallardo,1326.1739130434783
+False,7,LineaB,Callao.B,496.7391304347826
+False,7,LineaB,Carlos Gardel,553.1304347826087
+False,7,LineaB,Carlos Pellegrini,838.5652173913044
+False,7,LineaB,Dorrego,743.7391304347826
+False,7,LineaB,Echeverria,996.4782608695652
+False,7,LineaB,Federico Lacroze,3505.5652173913045
+False,7,LineaB,Florida,141.91304347826087
+False,7,LineaB,Leandro N. Alem,1170.304347826087
+False,7,LineaB,Los Incas,1225.8695652173913
+False,7,LineaB,Malabia,1587.7826086956522
+False,7,LineaB,Medrano,1116.2173913043478
+False,7,LineaB,Pasteur,352.5217391304348
+False,7,LineaB,Pueyrredon,580.7391304347826
+False,7,LineaB,Rosas,4519.304347826087
+False,7,LineaB,Tronador,491.7826086956522
+False,7,LineaB,Uruguay,273.60869565217394
+False,7,LineaC,Avenida de Mayo,186.43478260869566
+False,7,LineaC,Constitucion,11283.173913043478
+False,7,LineaC,Diagonal Norte,107.52173913043478
+False,7,LineaC,General San Martin,181.7826086956522
+False,7,LineaC,Independencia,379.17391304347825
+False,7,LineaC,Lavalle,140.95652173913044
+False,7,LineaC,Mariano Moreno,141.17391304347825
+False,7,LineaC,Retiro,2596.695652173913
+False,7,LineaC,San Juan,337.4347826086956
+False,7,LineaD,9 de julio,316.7826086956522
+False,7,LineaD,AgÃÂ¼ero,957.6521739130435
+False,7,LineaD,Bulnes,1110.5217391304348
+False,7,LineaD,Callao,481.39130434782606
+False,7,LineaD,Catedral,613.0869565217391
+False,7,LineaD,Congreso de Tucuman,4131.304347826087
+False,7,LineaD,Facultad de Medicina,479.8695652173913
+False,7,LineaD,Jose Hernandez,1119.0434782608695
+False,7,LineaD,Juramento,1233.3478260869565
+False,7,LineaD,Ministro Carranza,1091.7391304347825
+False,7,LineaD,Olleros,1051.2608695652175
+False,7,LineaD,Palermo,1465.4347826086957
+False,7,LineaD,Plaza Italia,750.695652173913
+False,7,LineaD,Pueyrredon.D,614.6521739130435
+False,7,LineaD,Scalabrini Ortiz,1119.304347826087
+False,7,LineaD,Tribunales,276.04347826086956
+False,7,LineaE,Avenida La Plata,583.0434782608696
+False,7,LineaE,Boedo,337.3478260869565
+False,7,LineaE,Bolivar,244.69565217391303
+False,7,LineaE,Catalinas,37.17391304347826
+False,7,LineaE,Correo Central,110.65217391304348
+False,7,LineaE,Emilio Mitre,531.695652173913
+False,7,LineaE,Entre Rios,355.17391304347825
+False,7,LineaE,General Belgrano,84.52173913043478
+False,7,LineaE,Independencia.H,264.95652173913044
+False,7,LineaE,Jose Maria Moreno,502.2173913043478
+False,7,LineaE,Jujuy,268.30434782608694
+False,7,LineaE,Medalla Milagrosa,268.82608695652175
+False,7,LineaE,Pichincha,245.69565217391303
+False,7,LineaE,Pza. de los Virreyes,1507.1739130434783
+False,7,LineaE,Retiro E,240.6086956521739
+False,7,LineaE,San Jose,245.08695652173913
+False,7,LineaE,Urquiza,298.6521739130435
+False,7,LineaE,Varela,350.82608695652175
+False,7,LineaH,Caseros,528.7826086956521
+False,7,LineaH,Cordoba,325.8695652173913
+False,7,LineaH,Corrientes,258.95652173913044
+False,7,LineaH,Facultad de Derecho,87.95652173913044
+False,7,LineaH,Hospitales,2577.391304347826
+False,7,LineaH,Humberto I,601.3913043478261
+False,7,LineaH,Inclan,669.2608695652174
+False,7,LineaH,Las Heras,494.39130434782606
+False,7,LineaH,Once,1423.1304347826087
+False,7,LineaH,Patricios,1197.8260869565217
+False,7,LineaH,Santa Fe,431.0
+False,7,LineaH,Venezuela,718.8260869565217
+False,8,LineaA,Acoyte,1629.8260869565217
+False,8,LineaA,Alberti,232.91304347826087
+False,8,LineaA,Carabobo,2130.4347826086955
+False,8,LineaA,Castro Barros,855.1739130434783
+False,8,LineaA,Congreso,604.1739130434783
+False,8,LineaA,Flores,2508.782608695652
+False,8,LineaA,Lima,331.60869565217394
+False,8,LineaA,Loria,685.4347826086956
+False,8,LineaA,Pasco,264.7391304347826
+False,8,LineaA,Peru,152.69565217391303
+False,8,LineaA,Piedras,159.47826086956522
+False,8,LineaA,Plaza Miserere,1612.695652173913
+False,8,LineaA,Plaza de Mayo,571.5217391304348
+False,8,LineaA,Primera Junta,2274.1739130434785
+False,8,LineaA,Puan,1225.9565217391305
+False,8,LineaA,Rio de Janeiro,1250.9565217391305
+False,8,LineaA,Saenz PeÃÂ±a ,370.6521739130435
+False,8,LineaA,San Pedrito,5199.391304347826
+False,8,LineaB,Angel Gallardo,1663.9130434782608
+False,8,LineaB,Callao.B,729.5217391304348
+False,8,LineaB,Carlos Gardel,711.9130434782609
+False,8,LineaB,Carlos Pellegrini,836.1304347826087
+False,8,LineaB,Dorrego,1008.4782608695652
+False,8,LineaB,Echeverria,1395.5217391304348
+False,8,LineaB,Federico Lacroze,4840.782608695652
+False,8,LineaB,Florida,240.2608695652174
+False,8,LineaB,Leandro N. Alem,1210.8695652173913
+False,8,LineaB,Los Incas,1627.3478260869565
+False,8,LineaB,Malabia,2209.6521739130435
+False,8,LineaB,Medrano,1426.1304347826087
+False,8,LineaB,Pasteur,555.1739130434783
+False,8,LineaB,Pueyrredon,838.4347826086956
+False,8,LineaB,Rosas,5806.347826086957
+False,8,LineaB,Tronador,713.7391304347826
+False,8,LineaB,Uruguay,452.2173913043478
+False,8,LineaC,Avenida de Mayo,230.04347826086956
+False,8,LineaC,Constitucion,13760.91304347826
+False,8,LineaC,Diagonal Norte,132.17391304347825
+False,8,LineaC,General San Martin,231.30434782608697
+False,8,LineaC,Independencia,482.2173913043478
+False,8,LineaC,Lavalle,186.7826086956522
+False,8,LineaC,Mariano Moreno,199.8695652173913
+False,8,LineaC,Retiro,4240.521739130435
+False,8,LineaC,San Juan,502.5217391304348
+False,8,LineaD,9 de julio,622.5652173913044
+False,8,LineaD,AgÃÂ¼ero,1214.2608695652175
+False,8,LineaD,Bulnes,1565.5217391304348
+False,8,LineaD,Callao,798.9565217391304
+False,8,LineaD,Catedral,798.9565217391304
+False,8,LineaD,Congreso de Tucuman,5351.521739130435
+False,8,LineaD,Facultad de Medicina,1075.3478260869565
+False,8,LineaD,Jose Hernandez,1612.8695652173913
+False,8,LineaD,Juramento,1864.0
+False,8,LineaD,Ministro Carranza,1502.8260869565217
+False,8,LineaD,Olleros,1564.5652173913043
+False,8,LineaD,Palermo,2092.3478260869565
+False,8,LineaD,Plaza Italia,1147.8695652173913
+False,8,LineaD,Pueyrredon.D,1075.9130434782608
+False,8,LineaD,Scalabrini Ortiz,1671.6521739130435
+False,8,LineaD,Tribunales,539.0434782608696
+False,8,LineaE,Avenida La Plata,709.0869565217391
+False,8,LineaE,Boedo,451.4347826086956
+False,8,LineaE,Bolivar,284.69565217391306
+False,8,LineaE,Catalinas,54.95652173913044
+False,8,LineaE,Correo Central,135.52173913043478
+False,8,LineaE,Emilio Mitre,752.1739130434783
+False,8,LineaE,Entre Rios,445.4782608695652
+False,8,LineaE,General Belgrano,139.3181818181818
+False,8,LineaE,Independencia.H,380.7826086956522
+False,8,LineaE,Jose Maria Moreno,669.5217391304348
+False,8,LineaE,Jujuy,383.95652173913044
+False,8,LineaE,Medalla Milagrosa,335.60869565217394
+False,8,LineaE,Pichincha,311.5217391304348
+False,8,LineaE,Pza. de los Virreyes,1524.5217391304348
+False,8,LineaE,Retiro E,474.8695652173913
+False,8,LineaE,San Jose,284.39130434782606
+False,8,LineaE,Urquiza,373.3478260869565
+False,8,LineaE,Varela,417.4347826086956
+False,8,LineaH,Caseros,752.9565217391304
+False,8,LineaH,Cordoba,521.1304347826087
+False,8,LineaH,Corrientes,372.5217391304348
+False,8,LineaH,Facultad de Derecho,201.52173913043478
+False,8,LineaH,Hospitales,2730.1304347826085
+False,8,LineaH,Humberto I,861.2173913043479
+False,8,LineaH,Inclan,837.9565217391304
+False,8,LineaH,Las Heras,762.3478260869565
+False,8,LineaH,Once,1813.9565217391305
+False,8,LineaH,Patricios,1335.2173913043478
+False,8,LineaH,Santa Fe,690.5217391304348
+False,8,LineaH,Venezuela,993.9130434782609
+False,9,LineaA,Acoyte,1546.304347826087
+False,9,LineaA,Alberti,214.1304347826087
+False,9,LineaA,Carabobo,1450.9565217391305
+False,9,LineaA,Castro Barros,806.3478260869565
+False,9,LineaA,Congreso,613.304347826087
+False,9,LineaA,Flores,1536.7391304347825
+False,9,LineaA,Lima,341.39130434782606
+False,9,LineaA,Loria,648.0
+False,9,LineaA,Pasco,292.39130434782606
+False,9,LineaA,Peru,220.69565217391303
+False,9,LineaA,Piedras,200.2608695652174
+False,9,LineaA,Plaza Miserere,1635.4347826086957
+False,9,LineaA,Plaza de Mayo,574.5652173913044
+False,9,LineaA,Primera Junta,1732.3478260869565
+False,9,LineaA,Puan,903.2608695652174
+False,9,LineaA,Rio de Janeiro,1142.391304347826
+False,9,LineaA,Saenz PeÃÂ±a ,421.5652173913044
+False,9,LineaA,San Pedrito,3396.0434782608695
+False,9,LineaB,Angel Gallardo,1528.608695652174
+False,9,LineaB,Callao.B,801.7391304347826
+False,9,LineaB,Carlos Gardel,693.0
+False,9,LineaB,Carlos Pellegrini,794.3913043478261
+False,9,LineaB,Dorrego,835.6521739130435
+False,9,LineaB,Echeverria,881.0
+False,9,LineaB,Federico Lacroze,3812.086956521739
+False,9,LineaB,Florida,316.60869565217394
+False,9,LineaB,Leandro N. Alem,1026.8695652173913
+False,9,LineaB,Los Incas,1205.5652173913043
+False,9,LineaB,Malabia,2029.5652173913043
+False,9,LineaB,Medrano,1400.1739130434783
+False,9,LineaB,Pasteur,627.2608695652174
+False,9,LineaB,Pueyrredon,871.8695652173913
+False,9,LineaB,Rosas,3759.2608695652175
+False,9,LineaB,Tronador,505.4347826086956
+False,9,LineaB,Uruguay,634.2173913043479
+False,9,LineaC,Avenida de Mayo,241.82608695652175
+False,9,LineaC,Constitucion,10044.04347826087
+False,9,LineaC,Diagonal Norte,172.7391304347826
+False,9,LineaC,General San Martin,232.82608695652175
+False,9,LineaC,Independencia,414.39130434782606
+False,9,LineaC,Lavalle,196.2608695652174
+False,9,LineaC,Mariano Moreno,226.8695652173913
+False,9,LineaC,Retiro,3543.608695652174
+False,9,LineaC,San Juan,480.82608695652175
+False,9,LineaD,9 de julio,582.1304347826087
+False,9,LineaD,AgÃÂ¼ero,1041.7391304347825
+False,9,LineaD,Bulnes,1383.0
+False,9,LineaD,Callao,916.3913043478261
+False,9,LineaD,Catedral,825.6086956521739
+False,9,LineaD,Congreso de Tucuman,3758.608695652174
+False,9,LineaD,Facultad de Medicina,1082.9130434782608
+False,9,LineaD,Jose Hernandez,1175.8695652173913
+False,9,LineaD,Juramento,1384.7826086956522
+False,9,LineaD,Ministro Carranza,1261.7391304347825
+False,9,LineaD,Olleros,1260.1304347826087
+False,9,LineaD,Palermo,1814.6521739130435
+False,9,LineaD,Plaza Italia,956.2608695652174
+False,9,LineaD,Pueyrredon.D,991.8260869565217
+False,9,LineaD,Scalabrini Ortiz,1376.695652173913
+False,9,LineaD,Tribunales,1274.391304347826
+False,9,LineaE,Avenida La Plata,556.2173913043479
+False,9,LineaE,Boedo,470.3181818181818
+False,9,LineaE,Bolivar,301.2608695652174
+False,9,LineaE,Catalinas,72.69565217391305
+False,9,LineaE,Correo Central,153.65217391304347
+False,9,LineaE,Emilio Mitre,512.6086956521739
+False,9,LineaE,Entre Rios,350.7826086956522
+False,9,LineaE,General Belgrano,141.04545454545453
+False,9,LineaE,Independencia.H,405.0
+False,9,LineaE,Jose Maria Moreno,500.77272727272725
+False,9,LineaE,Jujuy,306.8636363636364
+False,9,LineaE,Medalla Milagrosa,242.2608695652174
+False,9,LineaE,Pichincha,239.77272727272728
+False,9,LineaE,Pza. de los Virreyes,980.6086956521739
+False,9,LineaE,Retiro E,422.2608695652174
+False,9,LineaE,San Jose,215.65217391304347
+False,9,LineaE,Urquiza,303.3181818181818
+False,9,LineaE,Varela,278.3636363636364
+False,9,LineaH,Caseros,521.5652173913044
+False,9,LineaH,Cordoba,455.9130434782609
+False,9,LineaH,Corrientes,327.4782608695652
+False,9,LineaH,Facultad de Derecho,261.60869565217394
+False,9,LineaH,Hospitales,1605.1739130434783
+False,9,LineaH,Humberto I,666.3913043478261
+False,9,LineaH,Inclan,572.695652173913
+False,9,LineaH,Las Heras,706.6521739130435
+False,9,LineaH,Once,1583.3478260869565
+False,9,LineaH,Patricios,890.6086956521739
+False,9,LineaH,Santa Fe,607.3478260869565
+False,9,LineaH,Venezuela,786.0
+False,10,LineaA,Acoyte,1113.8260869565217
+False,10,LineaA,Alberti,251.56521739130434
+False,10,LineaA,Carabobo,901.7826086956521
+False,10,LineaA,Castro Barros,679.2608695652174
+False,10,LineaA,Congreso,683.4347826086956
+False,10,LineaA,Flores,934.7826086956521
+False,10,LineaA,Lima,426.17391304347825
+False,10,LineaA,Loria,611.9130434782609
+False,10,LineaA,Pasco,289.7391304347826
+False,10,LineaA,Peru,392.8695652173913
+False,10,LineaA,Piedras,297.8695652173913
+False,10,LineaA,Plaza Miserere,1280.5652173913043
+False,10,LineaA,Plaza de Mayo,627.8695652173913
+False,10,LineaA,Primera Junta,1112.1739130434783
+False,10,LineaA,Puan,571.1739130434783
+False,10,LineaA,Rio de Janeiro,830.8695652173913
+False,10,LineaA,Saenz PeÃÂ±a ,514.1304347826087
+False,10,LineaA,San Pedrito,2035.304347826087
+False,10,LineaB,Angel Gallardo,1273.391304347826
+False,10,LineaB,Callao.B,912.7391304347826
+False,10,LineaB,Carlos Gardel,751.8260869565217
+False,10,LineaB,Carlos Pellegrini,906.2608695652174
+False,10,LineaB,Dorrego,625.8695652173913
+False,10,LineaB,Echeverria,516.695652173913
+False,10,LineaB,Federico Lacroze,2521.9565217391305
+False,10,LineaB,Florida,643.7391304347826
+False,10,LineaB,Leandro N. Alem,937.695652173913
+False,10,LineaB,Los Incas,776.8695652173913
+False,10,LineaB,Malabia,1422.4347826086957
+False,10,LineaB,Medrano,1224.2173913043478
+False,10,LineaB,Pasteur,734.3913043478261
+False,10,LineaB,Pueyrredon,841.9130434782609
+False,10,LineaB,Rosas,2129.217391304348
+False,10,LineaB,Tronador,359.7826086956522
+False,10,LineaB,Uruguay,930.1739130434783
+False,10,LineaC,Avenida de Mayo,319.30434782608694
+False,10,LineaC,Constitucion,6448.347826086957
+False,10,LineaC,Diagonal Norte,237.56521739130434
+False,10,LineaC,General San Martin,296.5217391304348
+False,10,LineaC,Independencia,321.9130434782609
+False,10,LineaC,Lavalle,282.3478260869565
+False,10,LineaC,Mariano Moreno,324.0869565217391
+False,10,LineaC,Retiro,2508.9565217391305
+False,10,LineaC,San Juan,387.0
+False,10,LineaD,9 de julio,552.4782608695652
+False,10,LineaD,AgÃÂ¼ero,792.7826086956521
+False,10,LineaD,Bulnes,1066.0434782608695
+False,10,LineaD,Callao,964.5217391304348
+False,10,LineaD,Catedral,1083.9565217391305
+False,10,LineaD,Congreso de Tucuman,2568.7391304347825
+False,10,LineaD,Facultad de Medicina,1222.7391304347825
+False,10,LineaD,Jose Hernandez,829.6086956521739
+False,10,LineaD,Juramento,1073.7391304347825
+False,10,LineaD,Ministro Carranza,921.3478260869565
+False,10,LineaD,Olleros,960.0869565217391
+False,10,LineaD,Palermo,1352.2608695652175
+False,10,LineaD,Plaza Italia,722.6086956521739
+False,10,LineaD,Pueyrredon.D,713.0
+False,10,LineaD,Scalabrini Ortiz,911.6521739130435
+False,10,LineaD,Tribunales,993.7391304347826
+False,10,LineaE,Avenida La Plata,368.45454545454544
+False,10,LineaE,Boedo,371.40909090909093
+False,10,LineaE,Bolivar,414.0869565217391
+False,10,LineaE,Catalinas,103.43478260869566
+False,10,LineaE,Correo Central,191.65217391304347
+False,10,LineaE,Emilio Mitre,296.8695652173913
+False,10,LineaE,Entre Rios,299.7826086956522
+False,10,LineaE,General Belgrano,159.1818181818182
+False,10,LineaE,Independencia.H,510.60869565217394
+False,10,LineaE,Jose Maria Moreno,266.69565217391306
+False,10,LineaE,Jujuy,218.52173913043478
+False,10,LineaE,Medalla Milagrosa,118.54545454545455
+False,10,LineaE,Pichincha,197.6818181818182
+False,10,LineaE,Pza. de los Virreyes,621.695652173913
+False,10,LineaE,Retiro E,311.04347826086956
+False,10,LineaE,San Jose,186.7826086956522
+False,10,LineaE,Urquiza,238.6818181818182
+False,10,LineaE,Varela,165.5909090909091
+False,10,LineaH,Caseros,379.69565217391306
+False,10,LineaH,Cordoba,446.1304347826087
+False,10,LineaH,Corrientes,304.04347826086956
+False,10,LineaH,Facultad de Derecho,361.3478260869565
+False,10,LineaH,Hospitales,928.8695652173913
+False,10,LineaH,Humberto I,428.0869565217391
+False,10,LineaH,Inclan,383.3478260869565
+False,10,LineaH,Las Heras,681.5217391304348
+False,10,LineaH,Once,1128.391304347826
+False,10,LineaH,Patricios,627.1304347826087
+False,10,LineaH,Santa Fe,596.4347826086956
+False,10,LineaH,Venezuela,623.3478260869565
+False,11,LineaA,Acoyte,1014.8260869565217
+False,11,LineaA,Alberti,301.0869565217391
+False,11,LineaA,Carabobo,762.9565217391304
+False,11,LineaA,Castro Barros,625.4347826086956
+False,11,LineaA,Congreso,840.0434782608696
+False,11,LineaA,Flores,786.4347826086956
+False,11,LineaA,Lima,474.2173913043478
+False,11,LineaA,Loria,599.2608695652174
+False,11,LineaA,Pasco,296.7826086956522
+False,11,LineaA,Peru,551.2173913043479
+False,11,LineaA,Piedras,362.4347826086956
+False,11,LineaA,Plaza Miserere,1219.7826086956522
+False,11,LineaA,Plaza de Mayo,802.3913043478261
+False,11,LineaA,Primera Junta,906.0434782608696
+False,11,LineaA,Puan,502.3478260869565
+False,11,LineaA,Rio de Janeiro,739.2173913043479
+False,11,LineaA,Saenz PeÃÂ±a ,605.3478260869565
+False,11,LineaA,San Pedrito,1812.9565217391305
+False,11,LineaB,Angel Gallardo,1074.1739130434783
+False,11,LineaB,Callao.B,1167.9130434782608
+False,11,LineaB,Carlos Gardel,812.5217391304348
+False,11,LineaB,Carlos Pellegrini,1158.608695652174
+False,11,LineaB,Dorrego,548.6521739130435
+False,11,LineaB,Echeverria,410.17391304347825
+False,11,LineaB,Federico Lacroze,1882.2173913043478
+False,11,LineaB,Florida,954.3478260869565
+False,11,LineaB,Leandro N. Alem,1083.9565217391305
+False,11,LineaB,Los Incas,737.2173913043479
+False,11,LineaB,Malabia,1233.7391304347825
+False,11,LineaB,Medrano,1230.4347826086957
+False,11,LineaB,Pasteur,940.8695652173913
+False,11,LineaB,Pueyrredon,967.9130434782609
+False,11,LineaB,Rosas,1641.304347826087
+False,11,LineaB,Tronador,333.6521739130435
+False,11,LineaB,Uruguay,1249.4347826086957
+False,11,LineaC,Avenida de Mayo,362.1304347826087
+False,11,LineaC,Constitucion,5219.304347826087
+False,11,LineaC,Diagonal Norte,293.2608695652174
+False,11,LineaC,General San Martin,379.7391304347826
+False,11,LineaC,Independencia,380.5652173913044
+False,11,LineaC,Lavalle,366.1304347826087
+False,11,LineaC,Mariano Moreno,389.0869565217391
+False,11,LineaC,Retiro,2011.5652173913043
+False,11,LineaC,San Juan,386.0869565217391
+False,11,LineaD,9 de julio,649.3913043478261
+False,11,LineaD,AgÃÂ¼ero,751.4347826086956
+False,11,LineaD,Bulnes,1059.5652173913043
+False,11,LineaD,Callao,1161.5652173913043
+False,11,LineaD,Catedral,1520.9565217391305
+False,11,LineaD,Congreso de Tucuman,2119.913043478261
+False,11,LineaD,Facultad de Medicina,1484.9565217391305
+False,11,LineaD,Jose Hernandez,798.4347826086956
+False,11,LineaD,Juramento,1066.2173913043478
+False,11,LineaD,Ministro Carranza,848.2173913043479
+False,11,LineaD,Olleros,893.1739130434783
+False,11,LineaD,Palermo,1330.7826086956522
+False,11,LineaD,Plaza Italia,701.1739130434783
+False,11,LineaD,Pueyrredon.D,700.7391304347826
+False,11,LineaD,Scalabrini Ortiz,822.5217391304348
+False,11,LineaD,Tribunales,1217.0
+False,11,LineaE,Avenida La Plata,314.0
+False,11,LineaE,Boedo,317.3478260869565
+False,11,LineaE,Bolivar,572.695652173913
+False,11,LineaE,Catalinas,151.0
+False,11,LineaE,Correo Central,252.3913043478261
+False,11,LineaE,Emilio Mitre,241.08695652173913
+False,11,LineaE,Entre Rios,302.4782608695652
+False,11,LineaE,General Belgrano,188.54545454545453
+False,11,LineaE,Independencia.H,1476.2173913043478
+False,11,LineaE,Jose Maria Moreno,215.82608695652175
+False,11,LineaE,Jujuy,218.82608695652175
+False,11,LineaE,Medalla Milagrosa,92.08695652173913
+False,11,LineaE,Pichincha,164.43478260869566
+False,11,LineaE,Pza. de los Virreyes,527.4782608695652
+False,11,LineaE,Retiro E,254.34782608695653
+False,11,LineaE,San Jose,194.47826086956522
+False,11,LineaE,Urquiza,202.69565217391303
+False,11,LineaE,Varela,160.34782608695653
+False,11,LineaH,Caseros,432.5217391304348
+False,11,LineaH,Cordoba,505.17391304347825
+False,11,LineaH,Corrientes,382.60869565217394
+False,11,LineaH,Facultad de Derecho,555.5652173913044
+False,11,LineaH,Hospitales,813.1304347826087
+False,11,LineaH,Humberto I,424.1304347826087
+False,11,LineaH,Inclan,330.5217391304348
+False,11,LineaH,Las Heras,685.4782608695652
+False,11,LineaH,Once,1077.2173913043478
+False,11,LineaH,Patricios,608.6086956521739
+False,11,LineaH,Santa Fe,667.0
+False,11,LineaH,Venezuela,625.1739130434783
+False,12,LineaA,Acoyte,1214.9130434782608
+False,12,LineaA,Alberti,371.6521739130435
+False,12,LineaA,Carabobo,841.9565217391304
+False,12,LineaA,Castro Barros,742.695652173913
+False,12,LineaA,Congreso,1091.5652173913043
+False,12,LineaA,Flores,878.0869565217391
+False,12,LineaA,Lima,582.8695652173913
+False,12,LineaA,Loria,734.9565217391304
+False,12,LineaA,Pasco,326.2608695652174
+False,12,LineaA,Peru,710.3478260869565
+False,12,LineaA,Piedras,476.30434782608694
+False,12,LineaA,Plaza Miserere,1296.5217391304348
+False,12,LineaA,Plaza de Mayo,1037.3478260869565
+False,12,LineaA,Primera Junta,935.5217391304348
+False,12,LineaA,Puan,534.4782608695652
+False,12,LineaA,Rio de Janeiro,854.7826086956521
+False,12,LineaA,Saenz PeÃÂ±a ,726.8260869565217
+False,12,LineaA,San Pedrito,1879.6521739130435
+False,12,LineaB,Angel Gallardo,1160.7391304347825
+False,12,LineaB,Callao.B,1542.7391304347825
+False,12,LineaB,Carlos Gardel,997.304347826087
+False,12,LineaB,Carlos Pellegrini,1428.304347826087
+False,12,LineaB,Dorrego,636.7826086956521
+False,12,LineaB,Echeverria,402.95652173913044
+False,12,LineaB,Federico Lacroze,1961.8695652173913
+False,12,LineaB,Florida,1281.5217391304348
+False,12,LineaB,Leandro N. Alem,1411.0869565217392
+False,12,LineaB,Los Incas,726.4782608695652
+False,12,LineaB,Malabia,1331.3478260869565
+False,12,LineaB,Medrano,1351.6521739130435
+False,12,LineaB,Pasteur,1208.9130434782608
+False,12,LineaB,Pueyrredon,1083.9130434782608
+False,12,LineaB,Rosas,1597.608695652174
+False,12,LineaB,Tronador,401.6521739130435
+False,12,LineaB,Uruguay,1478.7391304347825
+False,12,LineaC,Avenida de Mayo,389.4782608695652
+False,12,LineaC,Constitucion,4916.217391304348
+False,12,LineaC,Diagonal Norte,375.2608695652174
+False,12,LineaC,General San Martin,462.6521739130435
+False,12,LineaC,Independencia,476.7391304347826
+False,12,LineaC,Lavalle,481.30434782608694
+False,12,LineaC,Mariano Moreno,508.5652173913044
+False,12,LineaC,Retiro,2192.6521739130435
+False,12,LineaC,San Juan,479.8695652173913
+False,12,LineaD,9 de julio,760.7826086956521
+False,12,LineaD,AgÃÂ¼ero,855.9130434782609
+False,12,LineaD,Bulnes,1201.7391304347825
+False,12,LineaD,Callao,1544.391304347826
+False,12,LineaD,Catedral,1918.0
+False,12,LineaD,Congreso de Tucuman,2227.1739130434785
+False,12,LineaD,Facultad de Medicina,2147.0
+False,12,LineaD,Jose Hernandez,900.1739130434783
+False,12,LineaD,Juramento,1192.9565217391305
+False,12,LineaD,Ministro Carranza,945.6521739130435
+False,12,LineaD,Olleros,1063.608695652174
+False,12,LineaD,Palermo,1379.0
+False,12,LineaD,Plaza Italia,815.5652173913044
+False,12,LineaD,Pueyrredon.D,784.1739130434783
+False,12,LineaD,Scalabrini Ortiz,923.8260869565217
+False,12,LineaD,Tribunales,1496.4782608695652
+False,12,LineaE,Avenida La Plata,431.30434782608694
+False,12,LineaE,Boedo,385.8695652173913
+False,12,LineaE,Bolivar,936.695652173913
+False,12,LineaE,Catalinas,206.0
+False,12,LineaE,Correo Central,324.30434782608694
+False,12,LineaE,Emilio Mitre,281.2608695652174
+False,12,LineaE,Entre Rios,420.95652173913044
+False,12,LineaE,General Belgrano,245.95652173913044
+False,12,LineaE,Independencia.H,1449.9130434782608
+False,12,LineaE,Jose Maria Moreno,241.95652173913044
+False,12,LineaE,Jujuy,254.52173913043478
+False,12,LineaE,Medalla Milagrosa,116.04347826086956
+False,12,LineaE,Pichincha,179.6086956521739
+False,12,LineaE,Pza. de los Virreyes,646.1739130434783
+False,12,LineaE,Retiro E,293.17391304347825
+False,12,LineaE,San Jose,241.91304347826087
+False,12,LineaE,Urquiza,288.69565217391306
+False,12,LineaE,Varela,184.91304347826087
+False,12,LineaH,Caseros,610.2608695652174
+False,12,LineaH,Cordoba,654.6086956521739
+False,12,LineaH,Corrientes,479.2173913043478
+False,12,LineaH,Facultad de Derecho,386.60869565217394
+False,12,LineaH,Hospitales,1032.9565217391305
+False,12,LineaH,Humberto I,463.82608695652175
+False,12,LineaH,Inclan,389.2608695652174
+False,12,LineaH,Las Heras,946.6521739130435
+False,12,LineaH,Once,1194.304347826087
+False,12,LineaH,Patricios,737.1304347826087
+False,12,LineaH,Santa Fe,814.9565217391304
+False,12,LineaH,Venezuela,860.0
+False,13,LineaA,Acoyte,1116.3478260869565
+False,13,LineaA,Alberti,387.4347826086956
+False,13,LineaA,Carabobo,822.7391304347826
+False,13,LineaA,Castro Barros,756.0
+False,13,LineaA,Congreso,1215.0434782608695
+False,13,LineaA,Flores,818.695652173913
+False,13,LineaA,Lima,621.1304347826087
+False,13,LineaA,Loria,735.8260869565217
+False,13,LineaA,Pasco,326.95652173913044
+False,13,LineaA,Peru,809.9565217391304
+False,13,LineaA,Piedras,519.1739130434783
+False,13,LineaA,Plaza Miserere,1308.8260869565217
+False,13,LineaA,Plaza de Mayo,1213.3478260869565
+False,13,LineaA,Primera Junta,948.7391304347826
+False,13,LineaA,Puan,586.9130434782609
+False,13,LineaA,Rio de Janeiro,884.9565217391304
+False,13,LineaA,Saenz PeÃÂ±a ,824.9130434782609
+False,13,LineaA,San Pedrito,2002.5652173913043
+False,13,LineaB,Angel Gallardo,1096.9565217391305
+False,13,LineaB,Callao.B,1537.8260869565217
+False,13,LineaB,Carlos Gardel,1045.304347826087
+False,13,LineaB,Carlos Pellegrini,1679.1739130434783
+False,13,LineaB,Dorrego,624.7826086956521
+False,13,LineaB,Echeverria,383.1304347826087
+False,13,LineaB,Federico Lacroze,2087.6521739130435
+False,13,LineaB,Florida,1443.9565217391305
+False,13,LineaB,Leandro N. Alem,1594.9130434782608
+False,13,LineaB,Los Incas,655.6521739130435
+False,13,LineaB,Malabia,1316.0
+False,13,LineaB,Medrano,1264.0
+False,13,LineaB,Pasteur,1194.2608695652175
+False,13,LineaB,Pueyrredon,1112.1739130434783
+False,13,LineaB,Rosas,1654.5652173913043
+False,13,LineaB,Tronador,352.95652173913044
+False,13,LineaB,Uruguay,1673.6521739130435
+False,13,LineaC,Avenida de Mayo,400.6521739130435
+False,13,LineaC,Constitucion,5122.347826086957
+False,13,LineaC,Diagonal Norte,428.8695652173913
+False,13,LineaC,General San Martin,527.6521739130435
+False,13,LineaC,Independencia,404.82608695652175
+False,13,LineaC,Lavalle,590.2608695652174
+False,13,LineaC,Mariano Moreno,519.1739130434783
+False,13,LineaC,Retiro,2508.2608695652175
+False,13,LineaC,San Juan,426.4347826086956
+False,13,LineaD,9 de julio,761.0869565217391
+False,13,LineaD,AgÃÂ¼ero,836.1739130434783
+False,13,LineaD,Bulnes,1240.8260869565217
+False,13,LineaD,Callao,1455.695652173913
+False,13,LineaD,Catedral,2146.7391304347825
+False,13,LineaD,Congreso de Tucuman,2160.478260869565
+False,13,LineaD,Facultad de Medicina,1670.5652173913043
+False,13,LineaD,Jose Hernandez,910.7391304347826
+False,13,LineaD,Juramento,1186.695652173913
+False,13,LineaD,Ministro Carranza,1034.3478260869565
+False,13,LineaD,Olleros,1023.9130434782609
+False,13,LineaD,Palermo,1473.0
+False,13,LineaD,Plaza Italia,821.1304347826087
+False,13,LineaD,Pueyrredon.D,805.6521739130435
+False,13,LineaD,Scalabrini Ortiz,954.1304347826087
+False,13,LineaD,Tribunales,1843.391304347826
+False,13,LineaE,Avenida La Plata,394.9130434782609
+False,13,LineaE,Boedo,343.82608695652175
+False,13,LineaE,Bolivar,820.2173913043479
+False,13,LineaE,Catalinas,242.0
+False,13,LineaE,Correo Central,399.60869565217394
+False,13,LineaE,Emilio Mitre,269.3478260869565
+False,13,LineaE,Entre Rios,381.30434782608694
+False,13,LineaE,General Belgrano,246.7826086956522
+False,13,LineaE,Independencia.H,575.9130434782609
+False,13,LineaE,Jose Maria Moreno,239.7826086956522
+False,13,LineaE,Jujuy,243.52173913043478
+False,13,LineaE,Medalla Milagrosa,111.34782608695652
+False,13,LineaE,Pichincha,165.95652173913044
+False,13,LineaE,Pza. de los Virreyes,574.6086956521739
+False,13,LineaE,Retiro E,324.7826086956522
+False,13,LineaE,San Jose,244.30434782608697
+False,13,LineaE,Urquiza,263.8695652173913
+False,13,LineaE,Varela,136.1304347826087
+False,13,LineaH,Caseros,553.2173913043479
+False,13,LineaH,Cordoba,651.2608695652174
+False,13,LineaH,Corrientes,542.9130434782609
+False,13,LineaH,Facultad de Derecho,419.0869565217391
+False,13,LineaH,Hospitales,1002.3478260869565
+False,13,LineaH,Humberto I,455.7391304347826
+False,13,LineaH,Inclan,392.3478260869565
+False,13,LineaH,Las Heras,947.9130434782609
+False,13,LineaH,Once,1236.1304347826087
+False,13,LineaH,Patricios,783.6521739130435
+False,13,LineaH,Santa Fe,821.3478260869565
+False,13,LineaH,Venezuela,709.9565217391304
+False,14,LineaA,Acoyte,940.4782608695652
+False,14,LineaA,Alberti,393.9130434782609
+False,14,LineaA,Carabobo,693.8260869565217
+False,14,LineaA,Castro Barros,678.1304347826087
+False,14,LineaA,Congreso,1192.695652173913
+False,14,LineaA,Flores,682.6521739130435
+False,14,LineaA,Lima,649.8260869565217
+False,14,LineaA,Loria,638.0434782608696
+False,14,LineaA,Pasco,317.4782608695652
+False,14,LineaA,Peru,1063.1739130434783
+False,14,LineaA,Piedras,626.8260869565217
+False,14,LineaA,Plaza Miserere,1226.9130434782608
+False,14,LineaA,Plaza de Mayo,1269.9565217391305
+False,14,LineaA,Primera Junta,777.0
+False,14,LineaA,Puan,411.1304347826087
+False,14,LineaA,Rio de Janeiro,692.1304347826087
+False,14,LineaA,Saenz PeÃÂ±a ,913.3913043478261
+False,14,LineaA,San Pedrito,1560.5652173913043
+False,14,LineaB,Angel Gallardo,1033.0
+False,14,LineaB,Callao.B,1421.9565217391305
+False,14,LineaB,Carlos Gardel,1062.5217391304348
+False,14,LineaB,Carlos Pellegrini,1691.6521739130435
+False,14,LineaB,Dorrego,606.0869565217391
+False,14,LineaB,Echeverria,318.82608695652175
+False,14,LineaB,Federico Lacroze,1674.0
+False,14,LineaB,Florida,1656.1739130434783
+False,14,LineaB,Leandro N. Alem,1567.0434782608695
+False,14,LineaB,Los Incas,546.4782608695652
+False,14,LineaB,Malabia,1165.608695652174
+False,14,LineaB,Medrano,1179.391304347826
+False,14,LineaB,Pasteur,1171.4782608695652
+False,14,LineaB,Pueyrredon,1096.9130434782608
+False,14,LineaB,Rosas,1359.8695652173913
+False,14,LineaB,Tronador,369.9130434782609
+False,14,LineaB,Uruguay,1647.7826086956522
+False,14,LineaC,Avenida de Mayo,436.1304347826087
+False,14,LineaC,Constitucion,3992.217391304348
+False,14,LineaC,Diagonal Norte,534.2173913043479
+False,14,LineaC,General San Martin,553.9565217391304
+False,14,LineaC,Independencia,367.4782608695652
+False,14,LineaC,Lavalle,734.2173913043479
+False,14,LineaC,Mariano Moreno,581.1304347826087
+False,14,LineaC,Retiro,2513.5652173913045
+False,14,LineaC,San Juan,332.17391304347825
+False,14,LineaD,9 de julio,748.9130434782609
+False,14,LineaD,AgÃÂ¼ero,803.304347826087
+False,14,LineaD,Bulnes,1179.6521739130435
+False,14,LineaD,Callao,1369.4782608695652
+False,14,LineaD,Catedral,2233.1739130434785
+False,14,LineaD,Congreso de Tucuman,1831.391304347826
+False,14,LineaD,Facultad de Medicina,1625.3478260869565
+False,14,LineaD,Jose Hernandez,797.3913043478261
+False,14,LineaD,Juramento,1095.8695652173913
+False,14,LineaD,Ministro Carranza,823.0434782608696
+False,14,LineaD,Olleros,913.2173913043479
+False,14,LineaD,Palermo,1378.0
+False,14,LineaD,Plaza Italia,744.2608695652174
+False,14,LineaD,Pueyrredon.D,840.0
+False,14,LineaD,Scalabrini Ortiz,817.304347826087
+False,14,LineaD,Tribunales,1634.9130434782608
+False,14,LineaE,Avenida La Plata,301.2608695652174
+False,14,LineaE,Boedo,301.8695652173913
+False,14,LineaE,Bolivar,912.1304347826087
+False,14,LineaE,Catalinas,226.8695652173913
+False,14,LineaE,Correo Central,438.1304347826087
+False,14,LineaE,Emilio Mitre,226.56521739130434
+False,14,LineaE,Entre Rios,308.4347826086956
+False,14,LineaE,General Belgrano,264.82608695652175
+False,14,LineaE,Independencia.H,383.60869565217394
+False,14,LineaE,Jose Maria Moreno,208.65217391304347
+False,14,LineaE,Jujuy,217.8695652173913
+False,14,LineaE,Medalla Milagrosa,87.26086956521739
+False,14,LineaE,Pichincha,139.56521739130434
+False,14,LineaE,Pza. de los Virreyes,416.8695652173913
+False,14,LineaE,Retiro E,303.04347826086956
+False,14,LineaE,San Jose,174.52173913043478
+False,14,LineaE,Urquiza,225.56521739130434
+False,14,LineaE,Varela,106.78260869565217
+False,14,LineaH,Caseros,471.5652173913044
+False,14,LineaH,Cordoba,622.2173913043479
+False,14,LineaH,Corrientes,503.4347826086956
+False,14,LineaH,Facultad de Derecho,306.69565217391306
+False,14,LineaH,Hospitales,719.2608695652174
+False,14,LineaH,Humberto I,409.9130434782609
+False,14,LineaH,Inclan,336.5217391304348
+False,14,LineaH,Las Heras,892.695652173913
+False,14,LineaH,Once,1110.4347826086957
+False,14,LineaH,Patricios,702.304347826087
+False,14,LineaH,Santa Fe,926.0
+False,14,LineaH,Venezuela,612.0869565217391
+False,15,LineaA,Acoyte,865.5217391304348
+False,15,LineaA,Alberti,436.7826086956522
+False,15,LineaA,Carabobo,639.6521739130435
+False,15,LineaA,Castro Barros,662.2173913043479
+False,15,LineaA,Congreso,1325.4347826086957
+False,15,LineaA,Flores,594.7826086956521
+False,15,LineaA,Lima,738.8260869565217
+False,15,LineaA,Loria,616.9130434782609
+False,15,LineaA,Pasco,283.5652173913044
+False,15,LineaA,Peru,1443.7391304347825
+False,15,LineaA,Piedras,859.5652173913044
+False,15,LineaA,Plaza Miserere,1067.2608695652175
+False,15,LineaA,Plaza de Mayo,1699.2608695652175
+False,15,LineaA,Primera Junta,707.7391304347826
+False,15,LineaA,Puan,443.17391304347825
+False,15,LineaA,Rio de Janeiro,648.9565217391304
+False,15,LineaA,Saenz PeÃÂ±a ,981.3913043478261
+False,15,LineaA,San Pedrito,1428.6521739130435
+False,15,LineaB,Angel Gallardo,1043.3478260869565
+False,15,LineaB,Callao.B,1559.695652173913
+False,15,LineaB,Carlos Gardel,1120.5217391304348
+False,15,LineaB,Carlos Pellegrini,1902.8260869565217
+False,15,LineaB,Dorrego,697.7391304347826
+False,15,LineaB,Echeverria,332.39130434782606
+False,15,LineaB,Federico Lacroze,1513.6521739130435
+False,15,LineaB,Florida,2071.217391304348
+False,15,LineaB,Leandro N. Alem,1829.0
+False,15,LineaB,Los Incas,550.4347826086956
+False,15,LineaB,Malabia,1178.8695652173913
+False,15,LineaB,Medrano,1211.695652173913
+False,15,LineaB,Pasteur,1185.6521739130435
+False,15,LineaB,Pueyrredon,1079.0869565217392
+False,15,LineaB,Rosas,1201.9565217391305
+False,15,LineaB,Tronador,379.9130434782609
+False,15,LineaB,Uruguay,1705.7826086956522
+False,15,LineaC,Avenida de Mayo,561.8695652173913
+False,15,LineaC,Constitucion,3189.1739130434785
+False,15,LineaC,Diagonal Norte,726.0434782608696
+False,15,LineaC,General San Martin,666.5652173913044
+False,15,LineaC,Independencia,399.69565217391306
+False,15,LineaC,Lavalle,1036.1739130434783
+False,15,LineaC,Mariano Moreno,648.0434782608696
+False,15,LineaC,Retiro,2375.521739130435
+False,15,LineaC,San Juan,356.2173913043478
+False,15,LineaD,9 de julio,854.7826086956521
+False,15,LineaD,AgÃÂ¼ero,806.5652173913044
+False,15,LineaD,Bulnes,1250.8260869565217
+False,15,LineaD,Callao,1442.608695652174
+False,15,LineaD,Catedral,3051.478260869565
+False,15,LineaD,Congreso de Tucuman,1818.4347826086957
+False,15,LineaD,Facultad de Medicina,1598.4347826086957
+False,15,LineaD,Jose Hernandez,781.9565217391304
+False,15,LineaD,Juramento,1148.0
+False,15,LineaD,Ministro Carranza,834.2608695652174
+False,15,LineaD,Olleros,886.0
+False,15,LineaD,Palermo,1303.3478260869565
+False,15,LineaD,Plaza Italia,808.3913043478261
+False,15,LineaD,Pueyrredon.D,833.6521739130435
+False,15,LineaD,Scalabrini Ortiz,885.9130434782609
+False,15,LineaD,Tribunales,1726.2608695652175
+False,15,LineaE,Avenida La Plata,284.04347826086956
+False,15,LineaE,Boedo,280.17391304347825
+False,15,LineaE,Bolivar,1217.5652173913043
+False,15,LineaE,Catalinas,312.2608695652174
+False,15,LineaE,Correo Central,513.3478260869565
+False,15,LineaE,Emilio Mitre,241.6086956521739
+False,15,LineaE,Entre Rios,289.39130434782606
+False,15,LineaE,General Belgrano,341.3478260869565
+False,15,LineaE,Independencia.H,438.5217391304348
+False,15,LineaE,Jose Maria Moreno,197.34782608695653
+False,15,LineaE,Jujuy,216.7391304347826
+False,15,LineaE,Medalla Milagrosa,81.43478260869566
+False,15,LineaE,Pichincha,140.17391304347825
+False,15,LineaE,Pza. de los Virreyes,318.7391304347826
+False,15,LineaE,Retiro E,311.17391304347825
+False,15,LineaE,San Jose,178.52173913043478
+False,15,LineaE,Urquiza,187.69565217391303
+False,15,LineaE,Varela,97.17391304347827
+False,15,LineaH,Caseros,507.8695652173913
+False,15,LineaH,Cordoba,718.7826086956521
+False,15,LineaH,Corrientes,570.4347826086956
+False,15,LineaH,Facultad de Derecho,429.0869565217391
+False,15,LineaH,Hospitales,671.4782608695652
+False,15,LineaH,Humberto I,419.69565217391306
+False,15,LineaH,Inclan,393.7391304347826
+False,15,LineaH,Las Heras,1083.1739130434783
+False,15,LineaH,Once,1100.1304347826087
+False,15,LineaH,Patricios,628.7391304347826
+False,15,LineaH,Santa Fe,1056.4347826086957
+False,15,LineaH,Venezuela,571.5652173913044
+False,16,LineaA,Acoyte,981.1304347826087
+False,16,LineaA,Alberti,493.9130434782609
+False,16,LineaA,Carabobo,747.1304347826087
+False,16,LineaA,Castro Barros,804.6086956521739
+False,16,LineaA,Congreso,1445.0869565217392
+False,16,LineaA,Flores,671.9565217391304
+False,16,LineaA,Lima,848.4782608695652
+False,16,LineaA,Loria,723.2608695652174
+False,16,LineaA,Pasco,288.7826086956522
+False,16,LineaA,Peru,1524.0434782608695
+False,16,LineaA,Piedras,956.6521739130435
+False,16,LineaA,Plaza Miserere,1045.9130434782608
+False,16,LineaA,Plaza de Mayo,2306.6521739130435
+False,16,LineaA,Primera Junta,740.9565217391304
+False,16,LineaA,Puan,523.1304347826087
+False,16,LineaA,Rio de Janeiro,825.9565217391304
+False,16,LineaA,Saenz PeÃÂ±a ,1060.4347826086957
+False,16,LineaA,San Pedrito,1661.2608695652175
+False,16,LineaB,Angel Gallardo,1277.608695652174
+False,16,LineaB,Callao.B,1760.3478260869565
+False,16,LineaB,Carlos Gardel,1297.7391304347825
+False,16,LineaB,Carlos Pellegrini,1940.1739130434783
+False,16,LineaB,Dorrego,917.6086956521739
+False,16,LineaB,Echeverria,413.30434782608694
+False,16,LineaB,Federico Lacroze,1651.695652173913
+False,16,LineaB,Florida,2194.5652173913045
+False,16,LineaB,Leandro N. Alem,2322.913043478261
+False,16,LineaB,Los Incas,704.304347826087
+False,16,LineaB,Malabia,1447.0
+False,16,LineaB,Medrano,1344.3478260869565
+False,16,LineaB,Pasteur,1252.8260869565217
+False,16,LineaB,Pueyrredon,1138.608695652174
+False,16,LineaB,Rosas,1401.1304347826087
+False,16,LineaB,Tronador,517.695652173913
+False,16,LineaB,Uruguay,1763.7826086956522
+False,16,LineaC,Avenida de Mayo,559.5217391304348
+False,16,LineaC,Constitucion,3220.9565217391305
+False,16,LineaC,Diagonal Norte,662.8260869565217
+False,16,LineaC,General San Martin,821.8260869565217
+False,16,LineaC,Independencia,484.4347826086956
+False,16,LineaC,Lavalle,1280.9565217391305
+False,16,LineaC,Mariano Moreno,752.0869565217391
+False,16,LineaC,Retiro,2853.8695652173915
+False,16,LineaC,San Juan,395.9130434782609
+False,16,LineaD,9 de julio,871.3913043478261
+False,16,LineaD,AgÃÂ¼ero,941.9130434782609
+False,16,LineaD,Bulnes,1360.7391304347825
+False,16,LineaD,Callao,1703.4782608695652
+False,16,LineaD,Catedral,3607.782608695652
+False,16,LineaD,Congreso de Tucuman,2187.4347826086955
+False,16,LineaD,Facultad de Medicina,1974.608695652174
+False,16,LineaD,Jose Hernandez,1049.608695652174
+False,16,LineaD,Juramento,1391.0434782608695
+False,16,LineaD,Ministro Carranza,931.5652173913044
+False,16,LineaD,Olleros,1134.0434782608695
+False,16,LineaD,Palermo,1500.1739130434783
+False,16,LineaD,Plaza Italia,1051.5652173913043
+False,16,LineaD,Pueyrredon.D,921.2608695652174
+False,16,LineaD,Scalabrini Ortiz,1001.0434782608696
+False,16,LineaD,Tribunales,1778.2608695652175
+False,16,LineaE,Avenida La Plata,367.4782608695652
+False,16,LineaE,Boedo,292.6521739130435
+False,16,LineaE,Bolivar,1440.304347826087
+False,16,LineaE,Catalinas,475.2173913043478
+False,16,LineaE,Correo Central,598.0434782608696
+False,16,LineaE,Emilio Mitre,238.91304347826087
+False,16,LineaE,Entre Rios,318.7391304347826
+False,16,LineaE,General Belgrano,394.2608695652174
+False,16,LineaE,Independencia.H,540.4782608695652
+False,16,LineaE,Jose Maria Moreno,201.1304347826087
+False,16,LineaE,Jujuy,265.69565217391306
+False,16,LineaE,Medalla Milagrosa,101.17391304347827
+False,16,LineaE,Pichincha,156.34782608695653
+False,16,LineaE,Pza. de los Virreyes,361.2173913043478
+False,16,LineaE,Retiro E,388.1304347826087
+False,16,LineaE,San Jose,209.47826086956522
+False,16,LineaE,Urquiza,283.5217391304348
+False,16,LineaE,Varela,113.1304347826087
+False,16,LineaH,Caseros,611.5217391304348
+False,16,LineaH,Cordoba,822.7391304347826
+False,16,LineaH,Corrientes,649.695652173913
+False,16,LineaH,Facultad de Derecho,568.695652173913
+False,16,LineaH,Hospitales,711.9565217391304
+False,16,LineaH,Humberto I,503.5652173913044
+False,16,LineaH,Inclan,594.6086956521739
+False,16,LineaH,Las Heras,1409.9130434782608
+False,16,LineaH,Once,1104.8695652173913
+False,16,LineaH,Patricios,850.8695652173913
+False,16,LineaH,Santa Fe,1237.9130434782608
+False,16,LineaH,Venezuela,670.6521739130435
+False,17,LineaA,Acoyte,1120.9130434782608
+False,17,LineaA,Alberti,509.8695652173913
+False,17,LineaA,Carabobo,871.3478260869565
+False,17,LineaA,Castro Barros,825.695652173913
+False,17,LineaA,Congreso,1463.8695652173913
+False,17,LineaA,Flores,776.2173913043479
+False,17,LineaA,Lima,993.304347826087
+False,17,LineaA,Loria,782.1739130434783
+False,17,LineaA,Pasco,294.1304347826087
+False,17,LineaA,Peru,2425.391304347826
+False,17,LineaA,Piedras,1465.4782608695652
+False,17,LineaA,Plaza Miserere,1120.7391304347825
+False,17,LineaA,Plaza de Mayo,3607.086956521739
+False,17,LineaA,Primera Junta,843.7391304347826
+False,17,LineaA,Puan,591.4347826086956
+False,17,LineaA,Rio de Janeiro,858.695652173913
+False,17,LineaA,Saenz PeÃÂ±a ,1117.5217391304348
+False,17,LineaA,San Pedrito,2113.0
+False,17,LineaB,Angel Gallardo,1295.6521739130435
+False,17,LineaB,Callao.B,1876.2173913043478
+False,17,LineaB,Carlos Gardel,1313.0
+False,17,LineaB,Carlos Pellegrini,2294.695652173913
+False,17,LineaB,Dorrego,1266.304347826087
+False,17,LineaB,Echeverria,444.3478260869565
+False,17,LineaB,Federico Lacroze,2017.695652173913
+False,17,LineaB,Florida,3286.0434782608695
+False,17,LineaB,Leandro N. Alem,3606.782608695652
+False,17,LineaB,Los Incas,831.1304347826087
+False,17,LineaB,Malabia,1677.2608695652175
+False,17,LineaB,Medrano,1568.2173913043478
+False,17,LineaB,Pasteur,1306.695652173913
+False,17,LineaB,Pueyrredon,1087.0434782608695
+False,17,LineaB,Rosas,1742.608695652174
+False,17,LineaB,Tronador,774.9565217391304
+False,17,LineaB,Uruguay,1733.4347826086957
+False,17,LineaC,Avenida de Mayo,695.3913043478261
+False,17,LineaC,Constitucion,3494.782608695652
+False,17,LineaC,Diagonal Norte,983.7826086956521
+False,17,LineaC,General San Martin,1278.7391304347825
+False,17,LineaC,Independencia,621.695652173913
+False,17,LineaC,Lavalle,1701.608695652174
+False,17,LineaC,Mariano Moreno,1067.1739130434783
+False,17,LineaC,Retiro,3841.478260869565
+False,17,LineaC,San Juan,482.5217391304348
+False,17,LineaD,9 de julio,1104.608695652174
+False,17,LineaD,AgÃÂ¼ero,949.4347826086956
+False,17,LineaD,Bulnes,1404.9565217391305
+False,17,LineaD,Callao,1896.7391304347825
+False,17,LineaD,Catedral,5977.304347826087
+False,17,LineaD,Congreso de Tucuman,2900.695652173913
+False,17,LineaD,Facultad de Medicina,1897.5217391304348
+False,17,LineaD,Jose Hernandez,1166.5652173913043
+False,17,LineaD,Juramento,1566.0434782608695
+False,17,LineaD,Ministro Carranza,1214.6521739130435
+False,17,LineaD,Olleros,1282.9130434782608
+False,17,LineaD,Palermo,1739.0869565217392
+False,17,LineaD,Plaza Italia,1095.0869565217392
+False,17,LineaD,Pueyrredon.D,875.8260869565217
+False,17,LineaD,Scalabrini Ortiz,1099.5652173913043
+False,17,LineaD,Tribunales,1765.4347826086957
+False,17,LineaE,Avenida La Plata,394.8695652173913
+False,17,LineaE,Boedo,333.4347826086956
+False,17,LineaE,Bolivar,2451.6521739130435
+False,17,LineaE,Catalinas,1081.0434782608695
+False,17,LineaE,Correo Central,1090.608695652174
+False,17,LineaE,Emilio Mitre,267.82608695652175
+False,17,LineaE,Entre Rios,377.8695652173913
+False,17,LineaE,General Belgrano,491.4347826086956
+False,17,LineaE,Independencia.H,1036.1304347826087
+False,17,LineaE,Jose Maria Moreno,250.2173913043478
+False,17,LineaE,Jujuy,274.7391304347826
+False,17,LineaE,Medalla Milagrosa,126.81818181818181
+False,17,LineaE,Pichincha,153.04545454545453
+False,17,LineaE,Pza. de los Virreyes,433.3478260869565
+False,17,LineaE,Retiro E,595.2173913043479
+False,17,LineaE,San Jose,204.1304347826087
+False,17,LineaE,Urquiza,219.65217391304347
+False,17,LineaE,Varela,145.45454545454547
+False,17,LineaH,Caseros,901.5652173913044
+False,17,LineaH,Cordoba,913.7391304347826
+False,17,LineaH,Corrientes,700.1739130434783
+False,17,LineaH,Facultad de Derecho,782.7391304347826
+False,17,LineaH,Hospitales,794.2173913043479
+False,17,LineaH,Humberto I,573.4347826086956
+False,17,LineaH,Inclan,509.7391304347826
+False,17,LineaH,Las Heras,1482.7826086956522
+False,17,LineaH,Once,1142.695652173913
+False,17,LineaH,Patricios,1351.7826086956522
+False,17,LineaH,Santa Fe,1309.0434782608695
+False,17,LineaH,Venezuela,696.4782608695652
+False,18,LineaA,Acoyte,1063.2173913043478
+False,18,LineaA,Alberti,480.95652173913044
+False,18,LineaA,Carabobo,763.6086956521739
+False,18,LineaA,Castro Barros,835.6521739130435
+False,18,LineaA,Congreso,1281.608695652174
+False,18,LineaA,Flores,640.2173913043479
+False,18,LineaA,Lima,1055.7391304347825
+False,18,LineaA,Loria,777.0
+False,18,LineaA,Pasco,288.30434782608694
+False,18,LineaA,Peru,2426.2608695652175
+False,18,LineaA,Piedras,1420.1739130434783
+False,18,LineaA,Plaza Miserere,1043.1304347826087
+False,18,LineaA,Plaza de Mayo,3265.8695652173915
+False,18,LineaA,Primera Junta,817.695652173913
+False,18,LineaA,Puan,501.0869565217391
+False,18,LineaA,Rio de Janeiro,779.4782608695652
+False,18,LineaA,Saenz PeÃÂ±a ,948.9565217391304
+False,18,LineaA,San Pedrito,1414.391304347826
+False,18,LineaB,Angel Gallardo,1214.391304347826
+False,18,LineaB,Callao.B,1740.2608695652175
+False,18,LineaB,Carlos Gardel,1365.0
+False,18,LineaB,Carlos Pellegrini,2573.695652173913
+False,18,LineaB,Dorrego,1179.2608695652175
+False,18,LineaB,Echeverria,345.5217391304348
+False,18,LineaB,Federico Lacroze,1776.8260869565217
+False,18,LineaB,Florida,3265.782608695652
+False,18,LineaB,Leandro N. Alem,3840.304347826087
+False,18,LineaB,Los Incas,729.8260869565217
+False,18,LineaB,Malabia,1708.8695652173913
+False,18,LineaB,Medrano,1529.0
+False,18,LineaB,Pasteur,1351.0869565217392
+False,18,LineaB,Pueyrredon,1091.5652173913043
+False,18,LineaB,Rosas,1739.7391304347825
+False,18,LineaB,Tronador,684.3478260869565
+False,18,LineaB,Uruguay,1793.2608695652175
+False,18,LineaC,Avenida de Mayo,607.695652173913
+False,18,LineaC,Constitucion,3423.086956521739
+False,18,LineaC,Diagonal Norte,873.1304347826087
+False,18,LineaC,General San Martin,1368.695652173913
+False,18,LineaC,Independencia,582.8695652173913
+False,18,LineaC,Lavalle,1781.1304347826087
+False,18,LineaC,Mariano Moreno,1043.2173913043478
+False,18,LineaC,Retiro,3829.9565217391305
+False,18,LineaC,San Juan,457.7391304347826
+False,18,LineaD,9 de julio,1066.3478260869565
+False,18,LineaD,AgÃÂ¼ero,894.9130434782609
+False,18,LineaD,Bulnes,1333.304347826087
+False,18,LineaD,Callao,1743.5217391304348
+False,18,LineaD,Catedral,5886.260869565217
+False,18,LineaD,Congreso de Tucuman,3146.3478260869565
+False,18,LineaD,Facultad de Medicina,1837.1304347826087
+False,18,LineaD,Jose Hernandez,1036.695652173913
+False,18,LineaD,Juramento,1651.0869565217392
+False,18,LineaD,Ministro Carranza,1289.8695652173913
+False,18,LineaD,Olleros,1252.1304347826087
+False,18,LineaD,Palermo,1915.2173913043478
+False,18,LineaD,Plaza Italia,1066.5652173913043
+False,18,LineaD,Pueyrredon.D,859.0434782608696
+False,18,LineaD,Scalabrini Ortiz,1114.608695652174
+False,18,LineaD,Tribunales,1984.7826086956522
+False,18,LineaE,Avenida La Plata,373.3478260869565
+False,18,LineaE,Boedo,327.2173913043478
+False,18,LineaE,Bolivar,1869.608695652174
+False,18,LineaE,Catalinas,1393.2608695652175
+False,18,LineaE,Correo Central,1219.695652173913
+False,18,LineaE,Emilio Mitre,202.43478260869566
+False,18,LineaE,Entre Rios,323.7826086956522
+False,18,LineaE,General Belgrano,467.04347826086956
+False,18,LineaE,Independencia.H,794.695652173913
+False,18,LineaE,Jose Maria Moreno,288.4782608695652
+False,18,LineaE,Jujuy,248.1304347826087
+False,18,LineaE,Medalla Milagrosa,106.3913043478261
+False,18,LineaE,Pichincha,141.30434782608697
+False,18,LineaE,Pza. de los Virreyes,358.39130434782606
+False,18,LineaE,Retiro E,627.9130434782609
+False,18,LineaE,San Jose,234.2608695652174
+False,18,LineaE,Urquiza,200.69565217391303
+False,18,LineaE,Varela,110.65217391304348
+False,18,LineaH,Caseros,978.9565217391304
+False,18,LineaH,Cordoba,921.2608695652174
+False,18,LineaH,Corrientes,834.1304347826087
+False,18,LineaH,Facultad de Derecho,1016.1739130434783
+False,18,LineaH,Hospitales,782.0869565217391
+False,18,LineaH,Humberto I,515.2173913043479
+False,18,LineaH,Inclan,410.4347826086956
+False,18,LineaH,Las Heras,1244.0869565217392
+False,18,LineaH,Once,1134.608695652174
+False,18,LineaH,Patricios,1760.695652173913
+False,18,LineaH,Santa Fe,1330.304347826087
+False,18,LineaH,Venezuela,659.0869565217391
+False,19,LineaA,Acoyte,789.1739130434783
+False,19,LineaA,Alberti,372.3478260869565
+False,19,LineaA,Carabobo,501.7391304347826
+False,19,LineaA,Castro Barros,608.9130434782609
+False,19,LineaA,Congreso,1016.304347826087
+False,19,LineaA,Flores,440.17391304347825
+False,19,LineaA,Lima,560.5652173913044
+False,19,LineaA,Loria,507.0
+False,19,LineaA,Pasco,178.56521739130434
+False,19,LineaA,Peru,1071.9130434782608
+False,19,LineaA,Piedras,576.5217391304348
+False,19,LineaA,Plaza Miserere,629.7826086956521
+False,19,LineaA,Plaza de Mayo,1357.2608695652175
+False,19,LineaA,Primera Junta,597.6086956521739
+False,19,LineaA,Puan,455.5217391304348
+False,19,LineaA,Rio de Janeiro,602.0
+False,19,LineaA,Saenz PeÃÂ±a ,614.6521739130435
+False,19,LineaA,San Pedrito,646.1304347826087
+False,19,LineaB,Angel Gallardo,936.3478260869565
+False,19,LineaB,Callao.B,1414.2173913043478
+False,19,LineaB,Carlos Gardel,1169.7826086956522
+False,19,LineaB,Carlos Pellegrini,1668.7826086956522
+False,19,LineaB,Dorrego,666.9565217391304
+False,19,LineaB,Echeverria,286.2608695652174
+False,19,LineaB,Federico Lacroze,1074.2608695652175
+False,19,LineaB,Florida,1821.7391304347825
+False,19,LineaB,Leandro N. Alem,1909.9130434782608
+False,19,LineaB,Los Incas,477.2608695652174
+False,19,LineaB,Malabia,1061.0
+False,19,LineaB,Medrano,1105.0434782608695
+False,19,LineaB,Pasteur,904.9565217391304
+False,19,LineaB,Pueyrredon,744.7826086956521
+False,19,LineaB,Rosas,987.695652173913
+False,19,LineaB,Tronador,296.82608695652175
+False,19,LineaB,Uruguay,1185.1739130434783
+False,19,LineaC,Avenida de Mayo,392.39130434782606
+False,19,LineaC,Constitucion,2042.8695652173913
+False,19,LineaC,Diagonal Norte,462.3478260869565
+False,19,LineaC,General San Martin,752.2173913043479
+False,19,LineaC,Independencia,372.4347826086956
+False,19,LineaC,Lavalle,988.7826086956521
+False,19,LineaC,Mariano Moreno,478.30434782608694
+False,19,LineaC,Retiro,2225.695652173913
+False,19,LineaC,San Juan,309.95652173913044
+False,19,LineaD,9 de julio,560.304347826087
+False,19,LineaD,AgÃÂ¼ero,721.8260869565217
+False,19,LineaD,Bulnes,1188.7826086956522
+False,19,LineaD,Callao,1296.391304347826
+False,19,LineaD,Catedral,2516.217391304348
+False,19,LineaD,Congreso de Tucuman,1651.6521739130435
+False,19,LineaD,Facultad de Medicina,1453.2173913043478
+False,19,LineaD,Jose Hernandez,731.6521739130435
+False,19,LineaD,Juramento,1169.3478260869565
+False,19,LineaD,Ministro Carranza,724.2608695652174
+False,19,LineaD,Olleros,865.8695652173913
+False,19,LineaD,Palermo,1175.304347826087
+False,19,LineaD,Plaza Italia,797.3478260869565
+False,19,LineaD,Pueyrredon.D,691.9565217391304
+False,19,LineaD,Scalabrini Ortiz,829.4347826086956
+False,19,LineaD,Tribunales,1073.695652173913
+False,19,LineaE,Avenida La Plata,241.65217391304347
+False,19,LineaE,Boedo,223.2173913043478
+False,19,LineaE,Bolivar,922.0434782608696
+False,19,LineaE,Catalinas,467.9130434782609
+False,19,LineaE,Correo Central,555.5217391304348
+False,19,LineaE,Emilio Mitre,145.56521739130434
+False,19,LineaE,Entre Rios,229.30434782608697
+False,19,LineaE,General Belgrano,228.82608695652175
+False,19,LineaE,Independencia.H,550.0
+False,19,LineaE,Jose Maria Moreno,167.7826086956522
+False,19,LineaE,Jujuy,167.04347826086956
+False,19,LineaE,Medalla Milagrosa,67.08695652173913
+False,19,LineaE,Pichincha,109.26086956521739
+False,19,LineaE,Pza. de los Virreyes,207.8695652173913
+False,19,LineaE,Retiro E,305.2173913043478
+False,19,LineaE,San Jose,199.30434782608697
+False,19,LineaE,Urquiza,157.34782608695653
+False,19,LineaE,Varela,76.08695652173913
+False,19,LineaH,Caseros,362.2173913043478
+False,19,LineaH,Cordoba,678.6086956521739
+False,19,LineaH,Corrientes,480.82608695652175
+False,19,LineaH,Facultad de Derecho,725.9565217391304
+False,19,LineaH,Hospitales,340.2608695652174
+False,19,LineaH,Humberto I,312.8695652173913
+False,19,LineaH,Inclan,243.56521739130434
+False,19,LineaH,Las Heras,976.2608695652174
+False,19,LineaH,Once,753.7826086956521
+False,19,LineaH,Patricios,634.5652173913044
+False,19,LineaH,Santa Fe,1058.9130434782608
+False,19,LineaH,Venezuela,435.60869565217394
+False,20,LineaA,Acoyte,654.5217391304348
+False,20,LineaA,Alberti,357.69565217391306
+False,20,LineaA,Carabobo,390.82608695652175
+False,20,LineaA,Castro Barros,521.9565217391304
+False,20,LineaA,Congreso,881.2173913043479
+False,20,LineaA,Flores,308.9130434782609
+False,20,LineaA,Lima,380.5217391304348
+False,20,LineaA,Loria,396.8695652173913
+False,20,LineaA,Pasco,153.91304347826087
+False,20,LineaA,Peru,742.6086956521739
+False,20,LineaA,Piedras,413.1304347826087
+False,20,LineaA,Plaza Miserere,375.7391304347826
+False,20,LineaA,Plaza de Mayo,741.7391304347826
+False,20,LineaA,Primera Junta,439.7391304347826
+False,20,LineaA,Puan,320.2173913043478
+False,20,LineaA,Rio de Janeiro,468.6521739130435
+False,20,LineaA,Saenz PeÃÂ±a ,433.60869565217394
+False,20,LineaA,San Pedrito,404.60869565217394
+False,20,LineaB,Angel Gallardo,716.9130434782609
+False,20,LineaB,Callao.B,1294.9565217391305
+False,20,LineaB,Carlos Gardel,1047.2608695652175
+False,20,LineaB,Carlos Pellegrini,1339.5652173913043
+False,20,LineaB,Dorrego,388.0
+False,20,LineaB,Echeverria,199.6086956521739
+False,20,LineaB,Federico Lacroze,704.3913043478261
+False,20,LineaB,Florida,1217.7391304347825
+False,20,LineaB,Leandro N. Alem,1181.608695652174
+False,20,LineaB,Los Incas,314.0
+False,20,LineaB,Malabia,928.2608695652174
+False,20,LineaB,Medrano,934.4347826086956
+False,20,LineaB,Pasteur,695.5217391304348
+False,20,LineaB,Pueyrredon,422.3478260869565
+False,20,LineaB,Rosas,748.0434782608696
+False,20,LineaB,Tronador,180.8695652173913
+False,20,LineaB,Uruguay,868.695652173913
+False,20,LineaC,Avenida de Mayo,330.1304347826087
+False,20,LineaC,Constitucion,1552.7391304347825
+False,20,LineaC,Diagonal Norte,401.5217391304348
+False,20,LineaC,General San Martin,403.1304347826087
+False,20,LineaC,Independencia,294.4782608695652
+False,20,LineaC,Lavalle,671.1739130434783
+False,20,LineaC,Mariano Moreno,341.60869565217394
+False,20,LineaC,Retiro,1295.4347826086957
+False,20,LineaC,San Juan,307.30434782608694
+False,20,LineaD,9 de julio,257.69565217391306
+False,20,LineaD,AgÃÂ¼ero,581.695652173913
+False,20,LineaD,Bulnes,982.0869565217391
+False,20,LineaD,Callao,1180.4347826086957
+False,20,LineaD,Catedral,1373.0
+False,20,LineaD,Congreso de Tucuman,1103.2173913043478
+False,20,LineaD,Facultad de Medicina,1719.2173913043478
+False,20,LineaD,Jose Hernandez,563.0
+False,20,LineaD,Juramento,955.1739130434783
+False,20,LineaD,Ministro Carranza,493.0
+False,20,LineaD,Olleros,658.4347826086956
+False,20,LineaD,Palermo,812.2173913043479
+False,20,LineaD,Plaza Italia,551.0
+False,20,LineaD,Pueyrredon.D,576.1304347826087
+False,20,LineaD,Scalabrini Ortiz,666.695652173913
+False,20,LineaD,Tribunales,724.7391304347826
+False,20,LineaE,Avenida La Plata,167.34782608695653
+False,20,LineaE,Boedo,177.7391304347826
+False,20,LineaE,Bolivar,614.6086956521739
+False,20,LineaE,Catalinas,249.1304347826087
+False,20,LineaE,Correo Central,324.8695652173913
+False,20,LineaE,Emilio Mitre,142.17391304347825
+False,20,LineaE,Entre Rios,181.2173913043478
+False,20,LineaE,General Belgrano,181.0
+False,20,LineaE,Independencia.H,871.5217391304348
+False,20,LineaE,Jose Maria Moreno,130.2608695652174
+False,20,LineaE,Jujuy,141.7826086956522
+False,20,LineaE,Medalla Milagrosa,45.43478260869565
+False,20,LineaE,Pichincha,88.34782608695652
+False,20,LineaE,Pza. de los Virreyes,179.43478260869566
+False,20,LineaE,Retiro E,171.7391304347826
+False,20,LineaE,San Jose,215.95652173913044
+False,20,LineaE,Urquiza,120.82608695652173
+False,20,LineaE,Varela,53.47826086956522
+False,20,LineaH,Caseros,213.7826086956522
+False,20,LineaH,Cordoba,437.2173913043478
+False,20,LineaH,Corrientes,293.7826086956522
+False,20,LineaH,Facultad de Derecho,870.9130434782609
+False,20,LineaH,Hospitales,197.56521739130434
+False,20,LineaH,Humberto I,238.2608695652174
+False,20,LineaH,Inclan,158.2608695652174
+False,20,LineaH,Las Heras,877.8695652173913
+False,20,LineaH,Once,489.39130434782606
+False,20,LineaH,Patricios,434.6521739130435
+False,20,LineaH,Santa Fe,862.695652173913
+False,20,LineaH,Venezuela,320.3478260869565
+False,21,LineaA,Acoyte,405.69565217391306
+False,21,LineaA,Alberti,201.0
+False,21,LineaA,Carabobo,235.95652173913044
+False,21,LineaA,Castro Barros,391.30434782608694
+False,21,LineaA,Congreso,599.4782608695652
+False,21,LineaA,Flores,177.3913043478261
+False,21,LineaA,Lima,263.69565217391306
+False,21,LineaA,Loria,354.82608695652175
+False,21,LineaA,Pasco,87.0
+False,21,LineaA,Peru,488.39130434782606
+False,21,LineaA,Piedras,456.04347826086956
+False,21,LineaA,Plaza Miserere,253.43478260869566
+False,21,LineaA,Plaza de Mayo,490.30434782608694
+False,21,LineaA,Primera Junta,258.4347826086956
+False,21,LineaA,Puan,274.17391304347825
+False,21,LineaA,Rio de Janeiro,339.7391304347826
+False,21,LineaA,Saenz PeÃÂ±a ,277.1304347826087
+False,21,LineaA,San Pedrito,259.5652173913044
+False,21,LineaB,Angel Gallardo,468.39130434782606
+False,21,LineaB,Callao.B,999.5652173913044
+False,21,LineaB,Carlos Gardel,861.695652173913
+False,21,LineaB,Carlos Pellegrini,1076.7826086956522
+False,21,LineaB,Dorrego,271.5652173913044
+False,21,LineaB,Echeverria,107.73913043478261
+False,21,LineaB,Federico Lacroze,457.30434782608694
+False,21,LineaB,Florida,724.695652173913
+False,21,LineaB,Leandro N. Alem,791.5652173913044
+False,21,LineaB,Los Incas,186.3913043478261
+False,21,LineaB,Malabia,556.0434782608696
+False,21,LineaB,Medrano,729.4347826086956
+False,21,LineaB,Pasteur,467.04347826086956
+False,21,LineaB,Pueyrredon,204.7391304347826
+False,21,LineaB,Rosas,451.3478260869565
+False,21,LineaB,Tronador,149.52173913043478
+False,21,LineaB,Uruguay,550.1739130434783
+False,21,LineaC,Avenida de Mayo,283.6521739130435
+False,21,LineaC,Constitucion,1009.9565217391304
+False,21,LineaC,Diagonal Norte,402.9130434782609
+False,21,LineaC,General San Martin,330.4347826086956
+False,21,LineaC,Independencia,275.30434782608694
+False,21,LineaC,Lavalle,516.4782608695652
+False,21,LineaC,Mariano Moreno,193.95652173913044
+False,21,LineaC,Retiro,878.2173913043479
+False,21,LineaC,San Juan,348.1304347826087
+False,21,LineaD,9 de julio,172.47826086956522
+False,21,LineaD,AgÃÂ¼ero,321.69565217391306
+False,21,LineaD,Bulnes,629.2608695652174
+False,21,LineaD,Callao,911.1739130434783
+False,21,LineaD,Catedral,816.2173913043479
+False,21,LineaD,Congreso de Tucuman,620.6086956521739
+False,21,LineaD,Facultad de Medicina,1248.0434782608695
+False,21,LineaD,Jose Hernandez,284.2173913043478
+False,21,LineaD,Juramento,548.1739130434783
+False,21,LineaD,Ministro Carranza,346.2173913043478
+False,21,LineaD,Olleros,383.0
+False,21,LineaD,Palermo,640.695652173913
+False,21,LineaD,Plaza Italia,390.0
+False,21,LineaD,Pueyrredon.D,341.2608695652174
+False,21,LineaD,Scalabrini Ortiz,389.60869565217394
+False,21,LineaD,Tribunales,431.6521739130435
+False,21,LineaE,Avenida La Plata,116.08695652173913
+False,21,LineaE,Boedo,118.26086956521739
+False,21,LineaE,Bolivar,352.04347826086956
+False,21,LineaE,Catalinas,122.6086956521739
+False,21,LineaE,Correo Central,291.4347826086956
+False,21,LineaE,Emilio Mitre,93.6086956521739
+False,21,LineaE,Entre Rios,127.21739130434783
+False,21,LineaE,General Belgrano,160.08695652173913
+False,21,LineaE,Independencia.H,1123.608695652174
+False,21,LineaE,Jose Maria Moreno,89.52173913043478
+False,21,LineaE,Jujuy,105.6086956521739
+False,21,LineaE,Medalla Milagrosa,32.56521739130435
+False,21,LineaE,Pichincha,71.21739130434783
+False,21,LineaE,Pza. de los Virreyes,90.30434782608695
+False,21,LineaE,Retiro E,135.56521739130434
+False,21,LineaE,San Jose,185.52173913043478
+False,21,LineaE,Urquiza,106.73913043478261
+False,21,LineaE,Varela,30.17391304347826
+False,21,LineaH,Caseros,102.3913043478261
+False,21,LineaH,Cordoba,350.7826086956522
+False,21,LineaH,Corrientes,168.34782608695653
+False,21,LineaH,Facultad de Derecho,822.7826086956521
+False,21,LineaH,Hospitales,103.26086956521739
+False,21,LineaH,Humberto I,153.7826086956522
+False,21,LineaH,Inclan,102.43478260869566
+False,21,LineaH,Las Heras,640.6521739130435
+False,21,LineaH,Once,310.4782608695652
+False,21,LineaH,Patricios,226.1304347826087
+False,21,LineaH,Santa Fe,497.60869565217394
+False,21,LineaH,Venezuela,230.7391304347826
+False,22,LineaA,Acoyte,196.08695652173913
+False,22,LineaA,Alberti,104.73913043478261
+False,22,LineaA,Carabobo,128.56521739130434
+False,22,LineaA,Castro Barros,200.1304347826087
+False,22,LineaA,Congreso,351.7391304347826
+False,22,LineaA,Flores,106.43478260869566
+False,22,LineaA,Lima,187.17391304347825
+False,22,LineaA,Loria,156.8695652173913
+False,22,LineaA,Pasco,28.391304347826086
+False,22,LineaA,Peru,191.30434782608697
+False,22,LineaA,Piedras,142.8695652173913
+False,22,LineaA,Plaza Miserere,170.2173913043478
+False,22,LineaA,Plaza de Mayo,226.08695652173913
+False,22,LineaA,Primera Junta,128.2608695652174
+False,22,LineaA,Puan,86.21739130434783
+False,22,LineaA,Rio de Janeiro,151.82608695652175
+False,22,LineaA,Saenz PeÃÂ±a ,112.21739130434783
+False,22,LineaA,San Pedrito,125.73913043478261
+False,22,LineaB,Angel Gallardo,230.47826086956522
+False,22,LineaB,Callao.B,583.0
+False,22,LineaB,Carlos Gardel,754.304347826087
+False,22,LineaB,Carlos Pellegrini,706.3478260869565
+False,22,LineaB,Dorrego,159.56521739130434
+False,22,LineaB,Echeverria,54.391304347826086
+False,22,LineaB,Federico Lacroze,303.30434782608694
+False,22,LineaB,Florida,274.5652173913044
+False,22,LineaB,Leandro N. Alem,412.39130434782606
+False,22,LineaB,Los Incas,103.8695652173913
+False,22,LineaB,Malabia,294.3478260869565
+False,22,LineaB,Medrano,396.0869565217391
+False,22,LineaB,Pasteur,308.5652173913044
+False,22,LineaB,Pueyrredon,93.30434782608695
+False,22,LineaB,Rosas,268.2173913043478
+False,22,LineaB,Tronador,121.6086956521739
+False,22,LineaB,Uruguay,401.6521739130435
+False,22,LineaC,Avenida de Mayo,97.1304347826087
+False,22,LineaC,Constitucion,544.4347826086956
+False,22,LineaC,Diagonal Norte,118.47826086956522
+False,22,LineaC,General San Martin,135.82608695652175
+False,22,LineaC,Independencia,185.6086956521739
+False,22,LineaC,Lavalle,171.43478260869566
+False,22,LineaC,Mariano Moreno,100.8695652173913
+False,22,LineaC,Retiro,506.7826086956522
+False,22,LineaC,San Juan,199.04347826086956
+False,22,LineaD,9 de julio,96.56521739130434
+False,22,LineaD,AgÃÂ¼ero,139.1304347826087
+False,22,LineaD,Bulnes,367.69565217391306
+False,22,LineaD,Callao,416.4782608695652
+False,22,LineaD,Catedral,348.5652173913044
+False,22,LineaD,Congreso de Tucuman,290.2173913043478
+False,22,LineaD,Facultad de Medicina,741.2608695652174
+False,22,LineaD,Jose Hernandez,139.04347826086956
+False,22,LineaD,Juramento,279.5217391304348
+False,22,LineaD,Ministro Carranza,164.7391304347826
+False,22,LineaD,Olleros,206.3913043478261
+False,22,LineaD,Palermo,383.1304347826087
+False,22,LineaD,Plaza Italia,203.52173913043478
+False,22,LineaD,Pueyrredon.D,154.65217391304347
+False,22,LineaD,Scalabrini Ortiz,192.95652173913044
+False,22,LineaD,Tribunales,231.95652173913044
+False,22,LineaE,Avenida La Plata,58.73913043478261
+False,22,LineaE,Boedo,65.3913043478261
+False,22,LineaE,Bolivar,325.0869565217391
+False,22,LineaE,Catalinas,61.78260869565217
+False,22,LineaE,Correo Central,114.3913043478261
+False,22,LineaE,Emilio Mitre,53.52173913043478
+False,22,LineaE,Entre Rios,91.73913043478261
+False,22,LineaE,General Belgrano,54.43478260869565
+False,22,LineaE,Independencia.H,1082.9565217391305
+False,22,LineaE,Jose Maria Moreno,50.391304347826086
+False,22,LineaE,Jujuy,76.0
+False,22,LineaE,Medalla Milagrosa,12.347826086956522
+False,22,LineaE,Pichincha,34.78260869565217
+False,22,LineaE,Pza. de los Virreyes,53.73913043478261
+False,22,LineaE,Retiro E,66.43478260869566
+False,22,LineaE,San Jose,70.8695652173913
+False,22,LineaE,Urquiza,37.78260869565217
+False,22,LineaE,Varela,14.521739130434783
+False,22,LineaH,Caseros,47.47826086956522
+False,22,LineaH,Cordoba,215.65217391304347
+False,22,LineaH,Corrientes,109.21739130434783
+False,22,LineaH,Facultad de Derecho,222.95652173913044
+False,22,LineaH,Hospitales,51.56521739130435
+False,22,LineaH,Humberto I,82.95652173913044
+False,22,LineaH,Inclan,64.91304347826087
+False,22,LineaH,Las Heras,397.30434782608694
+False,22,LineaH,Once,176.30434782608697
+False,22,LineaH,Patricios,125.73913043478261
+False,22,LineaH,Santa Fe,222.2173913043478
+False,22,LineaH,Venezuela,100.21739130434783
+False,23,LineaA,Acoyte,16.17391304347826
+False,23,LineaA,Alberti,19.217391304347824
+False,23,LineaA,Carabobo,7.043478260869565
+False,23,LineaA,Castro Barros,14.08695652173913
+False,23,LineaA,Congreso,61.73913043478261
+False,23,LineaA,Flores,4.521739130434782
+False,23,LineaA,Lima,34.78260869565217
+False,23,LineaA,Loria,22.91304347826087
+False,23,LineaA,Pasco,3.4347826086956523
+False,23,LineaA,Peru,36.91304347826087
+False,23,LineaA,Piedras,36.17391304347826
+False,23,LineaA,Plaza Miserere,28.652173913043477
+False,23,LineaA,Plaza de Mayo,39.65217391304348
+False,23,LineaA,Primera Junta,9.227272727272727
+False,23,LineaA,Puan,5.863636363636363
+False,23,LineaA,Rio de Janeiro,18.652173913043477
+False,23,LineaA,Saenz PeÃÂ±a ,19.347826086956523
+False,23,LineaA,San Pedrito,6.956521739130435
+False,23,LineaB,Angel Gallardo,28.565217391304348
+False,23,LineaB,Callao.B,83.6086956521739
+False,23,LineaB,Carlos Gardel,78.3913043478261
+False,23,LineaB,Carlos Pellegrini,136.7391304347826
+False,23,LineaB,Dorrego,19.869565217391305
+False,23,LineaB,Echeverria,1.875
+False,23,LineaB,Federico Lacroze,37.52173913043478
+False,23,LineaB,Florida,40.869565217391305
+False,23,LineaB,Leandro N. Alem,121.36363636363636
+False,23,LineaB,Los Incas,5.260869565217392
+False,23,LineaB,Malabia,31.565217391304348
+False,23,LineaB,Medrano,49.608695652173914
+False,23,LineaB,Pasteur,27.82608695652174
+False,23,LineaB,Pueyrredon,18.0
+False,23,LineaB,Rosas,3.25
+False,23,LineaB,Tronador,4.608695652173913
+False,23,LineaB,Uruguay,71.65217391304348
+False,23,LineaC,Avenida de Mayo,11.304347826086957
+False,23,LineaC,Constitucion,40.26086956521739
+False,23,LineaC,Diagonal Norte,20.73913043478261
+False,23,LineaC,General San Martin,11.173913043478262
+False,23,LineaC,Independencia,18.043478260869566
+False,23,LineaC,Lavalle,11.304347826086957
+False,23,LineaC,Mariano Moreno,9.91304347826087
+False,23,LineaC,Retiro,49.95652173913044
+False,23,LineaC,San Juan,18.08695652173913
+False,23,LineaD,9 de julio,19.130434782608695
+False,23,LineaD,AgÃÂ¼ero,28.043478260869566
+False,23,LineaD,Bulnes,32.26086956521739
+False,23,LineaD,Callao,55.47826086956522
+False,23,LineaD,Catedral,38.47826086956522
+False,23,LineaD,Congreso de Tucuman,9.347826086956522
+False,23,LineaD,Facultad de Medicina,63.17391304347826
+False,23,LineaD,Jose Hernandez,6.954545454545454
+False,23,LineaD,Juramento,3.4782608695652173
+False,23,LineaD,Ministro Carranza,13.869565217391305
+False,23,LineaD,Olleros,5.9523809523809526
+False,23,LineaD,Palermo,18.695652173913043
+False,23,LineaD,Plaza Italia,17.0
+False,23,LineaD,Pueyrredon.D,30.347826086956523
+False,23,LineaD,Scalabrini Ortiz,24.434782608695652
+False,23,LineaD,Tribunales,28.217391304347824
+False,23,LineaE,Avenida La Plata,8.956521739130435
+False,23,LineaE,Boedo,9.08695652173913
+False,23,LineaE,Bolivar,21.565217391304348
+False,23,LineaE,Catalinas,11.347826086956522
+False,23,LineaE,Correo Central,28.608695652173914
+False,23,LineaE,Emilio Mitre,2.6842105263157894
+False,23,LineaE,Entre Rios,18.73913043478261
+False,23,LineaE,General Belgrano,8.454545454545455
+False,23,LineaE,Independencia.H,29.17391304347826
+False,23,LineaE,Jose Maria Moreno,4.7727272727272725
+False,23,LineaE,Jujuy,13.434782608695652
+False,23,LineaE,Medalla Milagrosa,1.375
+False,23,LineaE,Pichincha,4.476190476190476
+False,23,LineaE,Pza. de los Virreyes,1.6875
+False,23,LineaE,Retiro E,13.695652173913043
+False,23,LineaE,San Jose,10.272727272727273
+False,23,LineaE,Urquiza,5.130434782608695
+False,23,LineaE,Varela,1.8888888888888888
+False,23,LineaH,Caseros,12.434782608695652
+False,23,LineaH,Cordoba,24.26086956521739
+False,23,LineaH,Corrientes,28.391304347826086
+False,23,LineaH,Facultad de Derecho,40.34782608695652
+False,23,LineaH,Hospitales,9.565217391304348
+False,23,LineaH,Humberto I,25.043478260869566
+False,23,LineaH,Inclan,13.652173913043478
+False,23,LineaH,Las Heras,64.73913043478261
+False,23,LineaH,Once,40.56521739130435
+False,23,LineaH,Patricios,29.391304347826086
+False,23,LineaH,Santa Fe,43.95652173913044
+False,23,LineaH,Venezuela,14.782608695652174
+True,0,LineaA,Alberti,3.0
+True,0,LineaA,Castro Barros,1.0
+True,0,LineaA,Congreso,2.3333333333333335
+True,0,LineaA,Flores,3.0
+True,0,LineaA,Lima,3.0
+True,0,LineaA,Loria,1.6666666666666667
+True,0,LineaA,Plaza Miserere,2.6666666666666665
+True,0,LineaA,Primera Junta,2.0
+True,0,LineaA,Puan,1.0
+True,0,LineaA,San Pedrito,8.0
+True,0,LineaB,Angel Gallardo,1.0
+True,0,LineaB,Carlos Gardel,1.0
+True,0,LineaB,Carlos Pellegrini,5.0
+True,0,LineaB,Dorrego,1.0
+True,0,LineaB,Federico Lacroze,1.5
+True,0,LineaB,Malabia,2.0
+True,0,LineaB,Pasteur,1.0
+True,0,LineaB,Rosas,1.0
+True,0,LineaB,Tronador,3.0
+True,0,LineaC,Constitucion,1.0
+True,0,LineaC,Diagonal Norte,2.0
+True,0,LineaC,Independencia,1.0
+True,0,LineaD,Bulnes,1.5
+True,0,LineaD,Congreso de Tucuman,2.8
+True,0,LineaD,Jose Hernandez,2.0
+True,0,LineaD,Ministro Carranza,1.5
+True,0,LineaD,Olleros,1.0
+True,0,LineaD,Plaza Italia,1.0
+True,0,LineaD,Scalabrini Ortiz,2.5
+True,0,LineaD,Tribunales,1.0
+True,0,LineaE,Avenida La Plata,1.8333333333333333
+True,0,LineaE,Boedo,1.0
+True,0,LineaE,Bolivar,1.0
+True,0,LineaE,Catalinas,1.5
+True,0,LineaE,Correo Central,3.3333333333333335
+True,0,LineaE,Entre Rios,1.0
+True,0,LineaE,General Belgrano,1.0
+True,0,LineaE,Jujuy,2.3333333333333335
+True,0,LineaE,Pichincha,1.0
+True,0,LineaE,Pza. de los Virreyes,1.0
+True,0,LineaE,Retiro E,1.5
+True,0,LineaE,Urquiza,1.0
+True,0,LineaE,Varela,1.0
+True,0,LineaH,Cordoba,1.6666666666666667
+True,0,LineaH,Corrientes,3.5
+True,0,LineaH,Hospitales,3.0
+True,0,LineaH,Humberto I,2.0
+True,0,LineaH,Inclan,1.5
+True,0,LineaH,Las Heras,2.0
+True,0,LineaH,Once,2.0
+True,0,LineaH,Patricios,4.0
+True,0,LineaH,Santa Fe,1.0
+True,0,LineaH,Venezuela,1.0
+True,1,LineaA,Carabobo,1.0
+True,1,LineaA,Plaza Miserere,1.0
+True,1,LineaB,Federico Lacroze,2.5
+True,1,LineaD,AgÃÂ¼ero,1.0
+True,1,LineaD,Congreso de Tucuman,8.0
+True,1,LineaE,Avenida La Plata,1.0
+True,1,LineaE,Retiro E,1.5
+True,2,LineaA,Acoyte,1.0
+True,2,LineaA,Peru,7.0
+True,2,LineaA,Piedras,5.0
+True,2,LineaA,Plaza de Mayo,3.0
+True,2,LineaB,Federico Lacroze,1.0
+True,2,LineaB,Leandro N. Alem,1.0
+True,2,LineaB,Pueyrredon,1.0
+True,2,LineaB,Rosas,1.0
+True,2,LineaC,Mariano Moreno,4.0
+True,2,LineaD,Catedral,1.0
+True,2,LineaD,Congreso de Tucuman,1.3333333333333333
+True,2,LineaD,Ministro Carranza,1.0
+True,2,LineaD,Pueyrredon.D,1.0
+True,2,LineaE,Correo Central,1.0
+True,2,LineaE,Retiro E,1.0
+True,3,LineaA,Lima,9.0
+True,3,LineaA,Piedras,3.0
+True,3,LineaA,Rio de Janeiro,1.0
+True,3,LineaA,Saenz PeÃÂ±a ,3.0
+True,3,LineaB,Federico Lacroze,2.0
+True,3,LineaD,Congreso de Tucuman,1.0
+True,3,LineaE,Retiro E,2.0
+True,4,LineaA,Acoyte,1.0
+True,4,LineaA,Alberti,8.0
+True,4,LineaA,Congreso,7.0
+True,4,LineaA,Pasco,3.0
+True,4,LineaA,Plaza Miserere,1.4
+True,4,LineaB,Pueyrredon,2.0
+True,4,LineaC,San Juan,1.0
+True,4,LineaD,Congreso de Tucuman,1.6666666666666667
+True,4,LineaD,Ministro Carranza,1.0
+True,4,LineaE,Avenida La Plata,1.0
+True,4,LineaE,Catalinas,1.0
+True,4,LineaE,Jose Maria Moreno,1.0
+True,4,LineaE,Retiro E,1.5
+True,5,LineaA,Acoyte,5.0
+True,5,LineaA,Alberti,6.0
+True,5,LineaA,Carabobo,3.8
+True,5,LineaA,Castro Barros,3.5
+True,5,LineaA,Congreso,11.666666666666666
+True,5,LineaA,Flores,6.0
+True,5,LineaA,Lima,6.5
+True,5,LineaA,Loria,6.0
+True,5,LineaA,Peru,9.666666666666666
+True,5,LineaA,Piedras,6.666666666666667
+True,5,LineaA,Plaza Miserere,15.75
+True,5,LineaA,Plaza de Mayo,8.2
+True,5,LineaA,Primera Junta,8.25
+True,5,LineaA,Puan,3.6666666666666665
+True,5,LineaA,Rio de Janeiro,6.333333333333333
+True,5,LineaA,Saenz PeÃÂ±a ,1.0
+True,5,LineaA,San Pedrito,21.666666666666668
+True,5,LineaB,Angel Gallardo,3.3333333333333335
+True,5,LineaB,Callao.B,12.0
+True,5,LineaB,Carlos Gardel,10.333333333333334
+True,5,LineaB,Carlos Pellegrini,29.666666666666668
+True,5,LineaB,Dorrego,10.0
+True,5,LineaB,Echeverria,1.3333333333333333
+True,5,LineaB,Federico Lacroze,67.33333333333333
+True,5,LineaB,Florida,1.75
+True,5,LineaB,Leandro N. Alem,38.0
+True,5,LineaB,Los Incas,7.0
+True,5,LineaB,Malabia,3.6666666666666665
+True,5,LineaB,Medrano,39.333333333333336
+True,5,LineaB,Pasteur,2.3333333333333335
+True,5,LineaB,Pueyrredon,7.666666666666667
+True,5,LineaB,Rosas,16.428571428571427
+True,5,LineaB,Tronador,2.0
+True,5,LineaB,Uruguay,6.0
+True,5,LineaC,Avenida de Mayo,3.3333333333333335
+True,5,LineaC,Constitucion,192.33333333333334
+True,5,LineaC,Diagonal Norte,1.6666666666666667
+True,5,LineaC,General San Martin,2.857142857142857
+True,5,LineaC,Independencia,11.142857142857142
+True,5,LineaC,Lavalle,10.333333333333334
+True,5,LineaC,Mariano Moreno,4.0
+True,5,LineaC,Retiro,71.33333333333333
+True,5,LineaC,San Juan,10.333333333333334
+True,5,LineaD,9 de julio,3.75
+True,5,LineaD,AgÃÂ¼ero,6.0
+True,5,LineaD,Bulnes,7.0
+True,5,LineaD,Callao,2.3333333333333335
+True,5,LineaD,Catedral,7.75
+True,5,LineaD,Congreso de Tucuman,11.875
+True,5,LineaD,Facultad de Medicina,2.0
+True,5,LineaD,Jose Hernandez,5.333333333333333
+True,5,LineaD,Juramento,5.666666666666667
+True,5,LineaD,Ministro Carranza,5.5
+True,5,LineaD,Olleros,7.0
+True,5,LineaD,Palermo,17.666666666666668
+True,5,LineaD,Plaza Italia,8.75
+True,5,LineaD,Pueyrredon.D,2.3333333333333335
+True,5,LineaD,Scalabrini Ortiz,5.666666666666667
+True,5,LineaD,Tribunales,3.0
+True,5,LineaE,Avenida La Plata,5.5
+True,5,LineaE,Boedo,2.75
+True,5,LineaE,Bolivar,6.333333333333333
+True,5,LineaE,Catalinas,2.6666666666666665
+True,5,LineaE,Correo Central,4.75
+True,5,LineaE,Emilio Mitre,2.3333333333333335
+True,5,LineaE,Entre Rios,5.666666666666667
+True,5,LineaE,General Belgrano,8.0
+True,5,LineaE,Independencia.H,4.125
+True,5,LineaE,Jose Maria Moreno,4.0
+True,5,LineaE,Jujuy,3.3333333333333335
+True,5,LineaE,Medalla Milagrosa,2.0
+True,5,LineaE,Pichincha,2.0
+True,5,LineaE,Pza. de los Virreyes,28.666666666666668
+True,5,LineaE,Retiro E,3.75
+True,5,LineaE,San Jose,2.25
+True,5,LineaE,Urquiza,1.3333333333333333
+True,5,LineaE,Varela,1.3333333333333333
+True,5,LineaH,Caseros,6.333333333333333
+True,5,LineaH,Cordoba,2.3333333333333335
+True,5,LineaH,Corrientes,3.5
+True,5,LineaH,Facultad de Derecho,2.3333333333333335
+True,5,LineaH,Hospitales,26.333333333333332
+True,5,LineaH,Humberto I,4.0
+True,5,LineaH,Inclan,3.0
+True,5,LineaH,Las Heras,13.0
+True,5,LineaH,Once,9.666666666666666
+True,5,LineaH,Patricios,15.666666666666666
+True,5,LineaH,Santa Fe,5.0
+True,5,LineaH,Venezuela,6.0
+True,6,LineaA,Acoyte,37.42857142857143
+True,6,LineaA,Alberti,25.5
+True,6,LineaA,Carabobo,74.0
+True,6,LineaA,Castro Barros,37.6
+True,6,LineaA,Congreso,69.75
+True,6,LineaA,Flores,108.0
+True,6,LineaA,Lima,38.4
+True,6,LineaA,Loria,55.25
+True,6,LineaA,Pasco,10.2
+True,6,LineaA,Peru,43.25
+True,6,LineaA,Piedras,25.5
+True,6,LineaA,Plaza Miserere,80.0
+True,6,LineaA,Plaza de Mayo,91.75
+True,6,LineaA,Primera Junta,70.6
+True,6,LineaA,Puan,38.0
+True,6,LineaA,Rio de Janeiro,46.4
+True,6,LineaA,Saenz PeÃÂ±a ,34.75
+True,6,LineaA,San Pedrito,179.25
+True,6,LineaB,Angel Gallardo,64.75
+True,6,LineaB,Callao.B,83.5
+True,6,LineaB,Carlos Gardel,91.75
+True,6,LineaB,Carlos Pellegrini,123.4
+True,6,LineaB,Dorrego,90.66666666666667
+True,6,LineaB,Echeverria,26.25
+True,6,LineaB,Federico Lacroze,159.42857142857142
+True,6,LineaB,Florida,27.75
+True,6,LineaB,Leandro N. Alem,190.25
+True,6,LineaB,Los Incas,55.25
+True,6,LineaB,Malabia,83.75
+True,6,LineaB,Medrano,134.5
+True,6,LineaB,Pasteur,38.5
+True,6,LineaB,Pueyrredon,62.0
+True,6,LineaB,Rosas,138.16666666666666
+True,6,LineaB,Tronador,35.5
+True,6,LineaB,Uruguay,34.25
+True,6,LineaC,Avenida de Mayo,68.33333333333333
+True,6,LineaC,Constitucion,1555.5
+True,6,LineaC,Diagonal Norte,17.75
+True,6,LineaC,General San Martin,33.0
+True,6,LineaC,Independencia,69.25
+True,6,LineaC,Lavalle,49.75
+True,6,LineaC,Mariano Moreno,33.5
+True,6,LineaC,Retiro,488.75
+True,6,LineaC,San Juan,36.25
+True,6,LineaD,9 de julio,19.5
+True,6,LineaD,AgÃÂ¼ero,53.75
+True,6,LineaD,Bulnes,54.0
+True,6,LineaD,Callao,34.2
+True,6,LineaD,Catedral,50.8
+True,6,LineaD,Congreso de Tucuman,88.71428571428571
+True,6,LineaD,Facultad de Medicina,62.5
+True,6,LineaD,Jose Hernandez,42.75
+True,6,LineaD,Juramento,56.75
+True,6,LineaD,Ministro Carranza,37.57142857142857
+True,6,LineaD,Olleros,64.33333333333333
+True,6,LineaD,Palermo,184.25
+True,6,LineaD,Plaza Italia,84.25
+True,6,LineaD,Pueyrredon.D,35.5
+True,6,LineaD,Scalabrini Ortiz,64.25
+True,6,LineaD,Tribunales,29.333333333333332
+True,6,LineaE,Avenida La Plata,16.5
+True,6,LineaE,Boedo,37.666666666666664
+True,6,LineaE,Bolivar,30.25
+True,6,LineaE,Catalinas,18.0
+True,6,LineaE,Correo Central,22.166666666666668
+True,6,LineaE,Emilio Mitre,32.0
+True,6,LineaE,Entre Rios,35.5
+True,6,LineaE,General Belgrano,20.0
+True,6,LineaE,Independencia.H,39.0
+True,6,LineaE,Jose Maria Moreno,25.75
+True,6,LineaE,Jujuy,25.75
+True,6,LineaE,Medalla Milagrosa,13.666666666666666
+True,6,LineaE,Pichincha,23.75
+True,6,LineaE,Pza. de los Virreyes,135.0
+True,6,LineaE,Retiro E,28.0
+True,6,LineaE,San Jose,36.666666666666664
+True,6,LineaE,Urquiza,17.4
+True,6,LineaE,Varela,22.2
+True,6,LineaH,Caseros,43.2
+True,6,LineaH,Cordoba,34.0
+True,6,LineaH,Corrientes,31.666666666666668
+True,6,LineaH,Facultad de Derecho,10.6
+True,6,LineaH,Hospitales,203.6
+True,6,LineaH,Humberto I,43.0
+True,6,LineaH,Inclan,47.75
+True,6,LineaH,Las Heras,59.75
+True,6,LineaH,Once,195.75
+True,6,LineaH,Patricios,155.75
+True,6,LineaH,Santa Fe,47.5
+True,6,LineaH,Venezuela,61.0
+True,7,LineaA,Acoyte,90.25
+True,7,LineaA,Alberti,37.285714285714285
+True,7,LineaA,Carabobo,96.75
+True,7,LineaA,Castro Barros,62.875
+True,7,LineaA,Congreso,91.625
+True,7,LineaA,Flores,111.125
+True,7,LineaA,Lima,56.125
+True,7,LineaA,Loria,68.375
+True,7,LineaA,Pasco,20.5
+True,7,LineaA,Peru,38.375
+True,7,LineaA,Piedras,28.625
+True,7,LineaA,Plaza Miserere,147.25
+True,7,LineaA,Plaza de Mayo,105.0
+True,7,LineaA,Primera Junta,114.75
+True,7,LineaA,Puan,48.57142857142857
+True,7,LineaA,Rio de Janeiro,77.0
+True,7,LineaA,Saenz PeÃÂ±a ,52.5
+True,7,LineaA,San Pedrito,268.75
+True,7,LineaB,Angel Gallardo,98.0
+True,7,LineaB,Callao.B,73.5
+True,7,LineaB,Carlos Gardel,85.125
+True,7,LineaB,Carlos Pellegrini,158.5
+True,7,LineaB,Dorrego,68.75
+True,7,LineaB,Echeverria,47.0
+True,7,LineaB,Federico Lacroze,395.125
+True,7,LineaB,Florida,27.75
+True,7,LineaB,Leandro N. Alem,178.75
+True,7,LineaB,Los Incas,84.0
+True,7,LineaB,Malabia,121.5
+True,7,LineaB,Medrano,126.75
+True,7,LineaB,Pasteur,43.5
+True,7,LineaB,Pueyrredon,81.375
+True,7,LineaB,Rosas,299.375
+True,7,LineaB,Tronador,40.875
+True,7,LineaB,Uruguay,40.125
+True,7,LineaC,Avenida de Mayo,54.0
+True,7,LineaC,Constitucion,1655.375
+True,7,LineaC,Diagonal Norte,15.0
+True,7,LineaC,General San Martin,27.714285714285715
+True,7,LineaC,Independencia,53.75
+True,7,LineaC,Lavalle,43.142857142857146
+True,7,LineaC,Mariano Moreno,25.714285714285715
+True,7,LineaC,Retiro,539.75
+True,7,LineaC,San Juan,45.142857142857146
+True,7,LineaD,9 de julio,32.625
+True,7,LineaD,AgÃÂ¼ero,74.625
+True,7,LineaD,Bulnes,90.375
+True,7,LineaD,Callao,53.625
+True,7,LineaD,Catedral,65.75
+True,7,LineaD,Congreso de Tucuman,266.75
+True,7,LineaD,Facultad de Medicina,64.42857142857143
+True,7,LineaD,Jose Hernandez,73.75
+True,7,LineaD,Juramento,100.875
+True,7,LineaD,Ministro Carranza,83.0
+True,7,LineaD,Olleros,64.125
+True,7,LineaD,Palermo,197.5
+True,7,LineaD,Plaza Italia,75.25
+True,7,LineaD,Pueyrredon.D,43.375
+True,7,LineaD,Scalabrini Ortiz,82.375
+True,7,LineaD,Tribunales,31.142857142857142
+True,7,LineaE,Avenida La Plata,42.0
+True,7,LineaE,Boedo,32.125
+True,7,LineaE,Bolivar,36.375
+True,7,LineaE,Catalinas,9.5
+True,7,LineaE,Correo Central,24.0
+True,7,LineaE,Emilio Mitre,33.375
+True,7,LineaE,Entre Rios,38.5
+True,7,LineaE,General Belgrano,15.714285714285714
+True,7,LineaE,Independencia.H,38.625
+True,7,LineaE,Jose Maria Moreno,37.857142857142854
+True,7,LineaE,Jujuy,30.714285714285715
+True,7,LineaE,Medalla Milagrosa,18.375
+True,7,LineaE,Pichincha,22.75
+True,7,LineaE,Pza. de los Virreyes,159.875
+True,7,LineaE,Retiro E,47.375
+True,7,LineaE,San Jose,31.571428571428573
+True,7,LineaE,Urquiza,23.857142857142858
+True,7,LineaE,Varela,25.5
+True,7,LineaH,Caseros,66.85714285714286
+True,7,LineaH,Cordoba,43.25
+True,7,LineaH,Corrientes,33.714285714285715
+True,7,LineaH,Facultad de Derecho,16.5
+True,7,LineaH,Hospitales,315.125
+True,7,LineaH,Humberto I,61.5
+True,7,LineaH,Inclan,57.5
+True,7,LineaH,Las Heras,64.75
+True,7,LineaH,Once,193.625
+True,7,LineaH,Patricios,155.5
+True,7,LineaH,Santa Fe,63.0
+True,7,LineaH,Venezuela,87.25
+True,8,LineaA,Acoyte,202.5
+True,8,LineaA,Alberti,103.0
+True,8,LineaA,Carabobo,205.125
+True,8,LineaA,Castro Barros,161.5
+True,8,LineaA,Congreso,175.75
+True,8,LineaA,Flores,241.0
+True,8,LineaA,Lima,126.5
+True,8,LineaA,Loria,162.25
+True,8,LineaA,Pasco,47.25
+True,8,LineaA,Peru,66.5
+True,8,LineaA,Piedras,54.5
+True,8,LineaA,Plaza Miserere,322.5
+True,8,LineaA,Plaza de Mayo,177.0
+True,8,LineaA,Primera Junta,245.0
+True,8,LineaA,Puan,102.875
+True,8,LineaA,Rio de Janeiro,171.0
+True,8,LineaA,Saenz PeÃÂ±a ,119.375
+True,8,LineaA,San Pedrito,542.25
+True,8,LineaB,Angel Gallardo,226.875
+True,8,LineaB,Callao.B,172.125
+True,8,LineaB,Carlos Gardel,174.5
+True,8,LineaB,Carlos Pellegrini,273.375
+True,8,LineaB,Dorrego,130.0
+True,8,LineaB,Echeverria,110.0
+True,8,LineaB,Federico Lacroze,701.125
+True,8,LineaB,Florida,55.75
+True,8,LineaB,Leandro N. Alem,280.75
+True,8,LineaB,Los Incas,177.875
+True,8,LineaB,Malabia,273.625
+True,8,LineaB,Medrano,267.75
+True,8,LineaB,Pasteur,111.625
+True,8,LineaB,Pueyrredon,166.375
+True,8,LineaB,Rosas,594.625
+True,8,LineaB,Tronador,65.25
+True,8,LineaB,Uruguay,91.875
+True,8,LineaC,Avenida de Mayo,78.75
+True,8,LineaC,Constitucion,2804.25
+True,8,LineaC,Diagonal Norte,30.125
+True,8,LineaC,General San Martin,57.75
+True,8,LineaC,Independencia,107.0
+True,8,LineaC,Lavalle,82.375
+True,8,LineaC,Mariano Moreno,53.25
+True,8,LineaC,Retiro,992.75
+True,8,LineaC,San Juan,108.625
+True,8,LineaD,9 de julio,56.875
+True,8,LineaD,AgÃÂ¼ero,180.625
+True,8,LineaD,Bulnes,203.875
+True,8,LineaD,Callao,126.625
+True,8,LineaD,Catedral,128.25
+True,8,LineaD,Congreso de Tucuman,534.75
+True,8,LineaD,Facultad de Medicina,159.25
+True,8,LineaD,Jose Hernandez,166.125
+True,8,LineaD,Juramento,219.125
+True,8,LineaD,Ministro Carranza,194.875
+True,8,LineaD,Olleros,162.0
+True,8,LineaD,Palermo,358.25
+True,8,LineaD,Plaza Italia,155.125
+True,8,LineaD,Pueyrredon.D,102.125
+True,8,LineaD,Scalabrini Ortiz,194.375
+True,8,LineaD,Tribunales,86.375
+True,8,LineaE,Avenida La Plata,98.0
+True,8,LineaE,Boedo,89.625
+True,8,LineaE,Bolivar,98.75
+True,8,LineaE,Catalinas,16.875
+True,8,LineaE,Correo Central,39.125
+True,8,LineaE,Emilio Mitre,68.875
+True,8,LineaE,Entre Rios,83.75
+True,8,LineaE,General Belgrano,32.625
+True,8,LineaE,Independencia.H,80.125
+True,8,LineaE,Jose Maria Moreno,65.71428571428571
+True,8,LineaE,Jujuy,75.25
+True,8,LineaE,Medalla Milagrosa,34.75
+True,8,LineaE,Pichincha,46.75
+True,8,LineaE,Pza. de los Virreyes,235.25
+True,8,LineaE,Retiro E,77.125
+True,8,LineaE,San Jose,60.875
+True,8,LineaE,Urquiza,55.625
+True,8,LineaE,Varela,55.625
+True,8,LineaH,Caseros,128.875
+True,8,LineaH,Cordoba,100.125
+True,8,LineaH,Corrientes,72.625
+True,8,LineaH,Facultad de Derecho,30.125
+True,8,LineaH,Hospitales,469.25
+True,8,LineaH,Humberto I,139.125
+True,8,LineaH,Inclan,148.0
+True,8,LineaH,Las Heras,139.125
+True,8,LineaH,Once,383.125
+True,8,LineaH,Patricios,282.0
+True,8,LineaH,Santa Fe,144.875
+True,8,LineaH,Venezuela,201.625
+True,9,LineaA,Acoyte,248.375
+True,9,LineaA,Alberti,121.42857142857143
+True,9,LineaA,Carabobo,224.875
+True,9,LineaA,Castro Barros,223.25
+True,9,LineaA,Congreso,239.0
+True,9,LineaA,Flores,264.25
+True,9,LineaA,Lima,162.625
+True,9,LineaA,Loria,194.125
+True,9,LineaA,Pasco,59.875
+True,9,LineaA,Peru,73.5
+True,9,LineaA,Piedras,68.875
+True,9,LineaA,Plaza Miserere,320.0
+True,9,LineaA,Plaza de Mayo,172.5
+True,9,LineaA,Primera Junta,324.5
+True,9,LineaA,Puan,144.5
+True,9,LineaA,Rio de Janeiro,232.875
+True,9,LineaA,Saenz PeÃÂ±a ,153.625
+True,9,LineaA,San Pedrito,611.75
+True,9,LineaB,Angel Gallardo,308.25
+True,9,LineaB,Callao.B,223.75
+True,9,LineaB,Carlos Gardel,231.125
+True,9,LineaB,Carlos Pellegrini,333.5
+True,9,LineaB,Dorrego,176.5
+True,9,LineaB,Echeverria,132.75
+True,9,LineaB,Federico Lacroze,768.875
+True,9,LineaB,Florida,84.25
+True,9,LineaB,Leandro N. Alem,299.125
+True,9,LineaB,Los Incas,216.5
+True,9,LineaB,Malabia,356.375
+True,9,LineaB,Medrano,327.125
+True,9,LineaB,Pasteur,174.25
+True,9,LineaB,Pueyrredon,208.25
+True,9,LineaB,Rosas,684.375
+True,9,LineaB,Tronador,95.25
+True,9,LineaB,Uruguay,133.375
+True,9,LineaC,Avenida de Mayo,91.875
+True,9,LineaC,Constitucion,2729.0
+True,9,LineaC,Diagonal Norte,40.25
+True,9,LineaC,General San Martin,78.375
+True,9,LineaC,Independencia,140.0
+True,9,LineaC,Lavalle,83.75
+True,9,LineaC,Mariano Moreno,67.75
+True,9,LineaC,Retiro,964.75
+True,9,LineaC,San Juan,126.75
+True,9,LineaD,9 de julio,64.875
+True,9,LineaD,AgÃÂ¼ero,227.875
+True,9,LineaD,Bulnes,246.125
+True,9,LineaD,Callao,186.0
+True,9,LineaD,Catedral,158.5
+True,9,LineaD,Congreso de Tucuman,624.5
+True,9,LineaD,Facultad de Medicina,212.625
+True,9,LineaD,Jose Hernandez,198.25
+True,9,LineaD,Juramento,260.75
+True,9,LineaD,Ministro Carranza,265.25
+True,9,LineaD,Olleros,215.0
+True,9,LineaD,Palermo,438.625
+True,9,LineaD,Plaza Italia,192.25
+True,9,LineaD,Pueyrredon.D,144.0
+True,9,LineaD,Scalabrini Ortiz,236.0
+True,9,LineaD,Tribunales,100.5
+True,9,LineaE,Avenida La Plata,120.0
+True,9,LineaE,Boedo,113.0
+True,9,LineaE,Bolivar,83.375
+True,9,LineaE,Catalinas,18.5
+True,9,LineaE,Correo Central,44.0
+True,9,LineaE,Emilio Mitre,83.25
+True,9,LineaE,Entre Rios,97.375
+True,9,LineaE,General Belgrano,40.375
+True,9,LineaE,Independencia.H,110.125
+True,9,LineaE,Jose Maria Moreno,83.71428571428571
+True,9,LineaE,Jujuy,99.0
+True,9,LineaE,Medalla Milagrosa,36.875
+True,9,LineaE,Pichincha,58.375
+True,9,LineaE,Pza. de los Virreyes,223.25
+True,9,LineaE,Retiro E,69.0
+True,9,LineaE,San Jose,67.625
+True,9,LineaE,Urquiza,74.375
+True,9,LineaE,Varela,52.5
+True,9,LineaH,Caseros,137.75
+True,9,LineaH,Cordoba,125.125
+True,9,LineaH,Corrientes,104.125
+True,9,LineaH,Facultad de Derecho,30.75
+True,9,LineaH,Hospitales,428.375
+True,9,LineaH,Humberto I,190.125
+True,9,LineaH,Inclan,184.5
+True,9,LineaH,Las Heras,186.25
+True,9,LineaH,Once,406.5
+True,9,LineaH,Patricios,273.625
+True,9,LineaH,Santa Fe,179.5
+True,9,LineaH,Venezuela,251.625
+True,10,LineaA,Acoyte,310.25
+True,10,LineaA,Alberti,133.625
+True,10,LineaA,Carabobo,263.125
+True,10,LineaA,Castro Barros,273.375
+True,10,LineaA,Congreso,286.125
+True,10,LineaA,Flores,286.25
+True,10,LineaA,Lima,184.75
+True,10,LineaA,Loria,238.75
+True,10,LineaA,Pasco,82.125
+True,10,LineaA,Peru,104.25
+True,10,LineaA,Piedras,81.5
+True,10,LineaA,Plaza Miserere,362.25
+True,10,LineaA,Plaza de Mayo,163.625
+True,10,LineaA,Primera Junta,318.0
+True,10,LineaA,Puan,167.75
+True,10,LineaA,Rio de Janeiro,287.0
+True,10,LineaA,Saenz PeÃÂ±a ,168.875
+True,10,LineaA,San Pedrito,657.375
+True,10,LineaB,Angel Gallardo,387.125
+True,10,LineaB,Callao.B,300.0
+True,10,LineaB,Carlos Gardel,307.25
+True,10,LineaB,Carlos Pellegrini,422.25
+True,10,LineaB,Dorrego,201.875
+True,10,LineaB,Echeverria,141.125
+True,10,LineaB,Federico Lacroze,769.0
+True,10,LineaB,Florida,134.75
+True,10,LineaB,Leandro N. Alem,267.625
+True,10,LineaB,Los Incas,224.0
+True,10,LineaB,Malabia,406.25
+True,10,LineaB,Medrano,440.625
+True,10,LineaB,Pasteur,251.375
+True,10,LineaB,Pueyrredon,280.125
+True,10,LineaB,Rosas,656.375
+True,10,LineaB,Tronador,126.125
+True,10,LineaB,Uruguay,195.375
+True,10,LineaC,Avenida de Mayo,114.0
+True,10,LineaC,Constitucion,2429.25
+True,10,LineaC,Diagonal Norte,53.375
+True,10,LineaC,General San Martin,108.0
+True,10,LineaC,Independencia,159.25
+True,10,LineaC,Lavalle,110.25
+True,10,LineaC,Mariano Moreno,89.5
+True,10,LineaC,Retiro,906.5
+True,10,LineaC,San Juan,140.0
+True,10,LineaD,9 de julio,84.0
+True,10,LineaD,AgÃÂ¼ero,281.5
+True,10,LineaD,Bulnes,338.75
+True,10,LineaD,Callao,234.375
+True,10,LineaD,Catedral,178.125
+True,10,LineaD,Congreso de Tucuman,670.25
+True,10,LineaD,Facultad de Medicina,279.75
+True,10,LineaD,Jose Hernandez,227.0
+True,10,LineaD,Juramento,330.25
+True,10,LineaD,Ministro Carranza,288.5
+True,10,LineaD,Olleros,246.625
+True,10,LineaD,Palermo,432.75
+True,10,LineaD,Plaza Italia,267.5
+True,10,LineaD,Pueyrredon.D,182.625
+True,10,LineaD,Scalabrini Ortiz,300.0
+True,10,LineaD,Tribunales,157.125
+True,10,LineaE,Avenida La Plata,138.625
+True,10,LineaE,Boedo,135.625
+True,10,LineaE,Bolivar,97.75
+True,10,LineaE,Catalinas,24.875
+True,10,LineaE,Correo Central,55.5
+True,10,LineaE,Emilio Mitre,87.75
+True,10,LineaE,Entre Rios,122.5
+True,10,LineaE,General Belgrano,49.75
+True,10,LineaE,Independencia.H,124.0
+True,10,LineaE,Jose Maria Moreno,92.85714285714286
+True,10,LineaE,Jujuy,111.625
+True,10,LineaE,Medalla Milagrosa,39.0
+True,10,LineaE,Pichincha,76.0
+True,10,LineaE,Pza. de los Virreyes,237.875
+True,10,LineaE,Retiro E,92.75
+True,10,LineaE,San Jose,74.625
+True,10,LineaE,Urquiza,82.125
+True,10,LineaE,Varela,64.75
+True,10,LineaH,Caseros,153.25
+True,10,LineaH,Cordoba,147.125
+True,10,LineaH,Corrientes,132.375
+True,10,LineaH,Facultad de Derecho,54.5
+True,10,LineaH,Hospitales,349.25
+True,10,LineaH,Humberto I,196.25
+True,10,LineaH,Inclan,171.125
+True,10,LineaH,Las Heras,235.625
+True,10,LineaH,Once,452.625
+True,10,LineaH,Patricios,282.125
+True,10,LineaH,Santa Fe,231.625
+True,10,LineaH,Venezuela,250.875
+True,11,LineaA,Acoyte,385.625
+True,11,LineaA,Alberti,187.0
+True,11,LineaA,Carabobo,314.0
+True,11,LineaA,Castro Barros,313.375
+True,11,LineaA,Congreso,302.0
+True,11,LineaA,Flores,319.375
+True,11,LineaA,Lima,161.25
+True,11,LineaA,Loria,257.5
+True,11,LineaA,Pasco,107.125
+True,11,LineaA,Peru,122.875
+True,11,LineaA,Piedras,89.375
+True,11,LineaA,Plaza Miserere,421.5
+True,11,LineaA,Plaza de Mayo,160.75
+True,11,LineaA,Primera Junta,377.625
+True,11,LineaA,Puan,207.0
+True,11,LineaA,Rio de Janeiro,320.125
+True,11,LineaA,Saenz PeÃÂ±a ,181.375
+True,11,LineaA,San Pedrito,844.75
+True,11,LineaB,Angel Gallardo,424.5
+True,11,LineaB,Callao.B,374.375
+True,11,LineaB,Carlos Gardel,422.5
+True,11,LineaB,Carlos Pellegrini,513.0
+True,11,LineaB,Dorrego,258.25
+True,11,LineaB,Echeverria,158.5
+True,11,LineaB,Federico Lacroze,763.0
+True,11,LineaB,Florida,195.0
+True,11,LineaB,Leandro N. Alem,290.5
+True,11,LineaB,Los Incas,262.0
+True,11,LineaB,Malabia,483.25
+True,11,LineaB,Medrano,570.0
+True,11,LineaB,Pasteur,381.5
+True,11,LineaB,Pueyrredon,438.0
+True,11,LineaB,Rosas,704.375
+True,11,LineaB,Tronador,122.0
+True,11,LineaB,Uruguay,240.0
+True,11,LineaC,Avenida de Mayo,102.75
+True,11,LineaC,Constitucion,2536.0
+True,11,LineaC,Diagonal Norte,68.625
+True,11,LineaC,General San Martin,123.375
+True,11,LineaC,Independencia,173.25
+True,11,LineaC,Lavalle,148.125
+True,11,LineaC,Mariano Moreno,108.375
+True,11,LineaC,Retiro,967.25
+True,11,LineaC,San Juan,164.375
+True,11,LineaD,9 de julio,92.75
+True,11,LineaD,AgÃÂ¼ero,337.625
+True,11,LineaD,Bulnes,468.25
+True,11,LineaD,Callao,302.5
+True,11,LineaD,Catedral,226.75
+True,11,LineaD,Congreso de Tucuman,718.125
+True,11,LineaD,Facultad de Medicina,361.5
+True,11,LineaD,Jose Hernandez,267.25
+True,11,LineaD,Juramento,437.625
+True,11,LineaD,Ministro Carranza,331.75
+True,11,LineaD,Olleros,321.0
+True,11,LineaD,Palermo,525.625
+True,11,LineaD,Plaza Italia,331.25
+True,11,LineaD,Pueyrredon.D,236.375
+True,11,LineaD,Scalabrini Ortiz,346.875
+True,11,LineaD,Tribunales,178.25
+True,11,LineaE,Avenida La Plata,149.625
+True,11,LineaE,Boedo,164.75
+True,11,LineaE,Bolivar,118.75
+True,11,LineaE,Catalinas,31.25
+True,11,LineaE,Correo Central,65.875
+True,11,LineaE,Emilio Mitre,125.0
+True,11,LineaE,Entre Rios,130.5
+True,11,LineaE,General Belgrano,63.625
+True,11,LineaE,Independencia.H,136.0
+True,11,LineaE,Jose Maria Moreno,113.71428571428571
+True,11,LineaE,Jujuy,119.0
+True,11,LineaE,Medalla Milagrosa,50.125
+True,11,LineaE,Pichincha,75.5
+True,11,LineaE,Pza. de los Virreyes,210.5
+True,11,LineaE,Retiro E,95.625
+True,11,LineaE,San Jose,76.25
+True,11,LineaE,Urquiza,94.25
+True,11,LineaE,Varela,66.5
+True,11,LineaH,Caseros,162.25
+True,11,LineaH,Cordoba,194.125
+True,11,LineaH,Corrientes,210.625
+True,11,LineaH,Facultad de Derecho,90.375
+True,11,LineaH,Hospitales,305.5
+True,11,LineaH,Humberto I,205.375
+True,11,LineaH,Inclan,181.125
+True,11,LineaH,Las Heras,283.625
+True,11,LineaH,Once,544.125
+True,11,LineaH,Patricios,283.5
+True,11,LineaH,Santa Fe,299.875
+True,11,LineaH,Venezuela,279.25
+True,12,LineaA,Acoyte,452.125
+True,12,LineaA,Alberti,197.75
+True,12,LineaA,Carabobo,351.0
+True,12,LineaA,Castro Barros,330.5
+True,12,LineaA,Congreso,338.0
+True,12,LineaA,Flores,389.75
+True,12,LineaA,Lima,188.75
+True,12,LineaA,Loria,283.5
+True,12,LineaA,Pasco,114.125
+True,12,LineaA,Peru,159.5
+True,12,LineaA,Piedras,112.375
+True,12,LineaA,Plaza Miserere,509.5
+True,12,LineaA,Plaza de Mayo,206.125
+True,12,LineaA,Primera Junta,410.375
+True,12,LineaA,Puan,222.375
+True,12,LineaA,Rio de Janeiro,358.75
+True,12,LineaA,Saenz PeÃÂ±a ,200.125
+True,12,LineaA,San Pedrito,1076.75
+True,12,LineaB,Angel Gallardo,505.625
+True,12,LineaB,Callao.B,433.125
+True,12,LineaB,Carlos Gardel,544.625
+True,12,LineaB,Carlos Pellegrini,570.75
+True,12,LineaB,Dorrego,292.25
+True,12,LineaB,Echeverria,178.0
+True,12,LineaB,Federico Lacroze,762.625
+True,12,LineaB,Florida,246.625
+True,12,LineaB,Leandro N. Alem,344.125
+True,12,LineaB,Los Incas,296.375
+True,12,LineaB,Malabia,586.0
+True,12,LineaB,Medrano,598.875
+True,12,LineaB,Pasteur,488.625
+True,12,LineaB,Pueyrredon,537.75
+True,12,LineaB,Rosas,748.0
+True,12,LineaB,Tronador,149.75
+True,12,LineaB,Uruguay,297.625
+True,12,LineaC,Avenida de Mayo,104.75
+True,12,LineaC,Constitucion,2295.125
+True,12,LineaC,Diagonal Norte,91.375
+True,12,LineaC,General San Martin,139.375
+True,12,LineaC,Independencia,213.375
+True,12,LineaC,Lavalle,180.125
+True,12,LineaC,Mariano Moreno,113.625
+True,12,LineaC,Retiro,1068.125
+True,12,LineaC,San Juan,172.625
+True,12,LineaD,9 de julio,113.625
+True,12,LineaD,AgÃÂ¼ero,381.125
+True,12,LineaD,Bulnes,539.375
+True,12,LineaD,Callao,337.125
+True,12,LineaD,Catedral,314.125
+True,12,LineaD,Congreso de Tucuman,823.375
+True,12,LineaD,Facultad de Medicina,412.625
+True,12,LineaD,Jose Hernandez,336.375
+True,12,LineaD,Juramento,523.5
+True,12,LineaD,Ministro Carranza,408.125
+True,12,LineaD,Olleros,373.75
+True,12,LineaD,Palermo,610.75
+True,12,LineaD,Plaza Italia,400.125
+True,12,LineaD,Pueyrredon.D,261.75
+True,12,LineaD,Scalabrini Ortiz,416.75
+True,12,LineaD,Tribunales,220.875
+True,12,LineaE,Avenida La Plata,167.375
+True,12,LineaE,Boedo,182.875
+True,12,LineaE,Bolivar,161.0
+True,12,LineaE,Catalinas,48.0
+True,12,LineaE,Correo Central,105.75
+True,12,LineaE,Emilio Mitre,141.375
+True,12,LineaE,Entre Rios,154.125
+True,12,LineaE,General Belgrano,66.625
+True,12,LineaE,Independencia.H,186.5
+True,12,LineaE,Jose Maria Moreno,130.14285714285714
+True,12,LineaE,Jujuy,144.625
+True,12,LineaE,Medalla Milagrosa,61.875
+True,12,LineaE,Pichincha,91.75
+True,12,LineaE,Pza. de los Virreyes,246.25
+True,12,LineaE,Retiro E,110.625
+True,12,LineaE,San Jose,77.625
+True,12,LineaE,Urquiza,106.0
+True,12,LineaE,Varela,71.75
+True,12,LineaH,Caseros,176.5
+True,12,LineaH,Cordoba,218.0
+True,12,LineaH,Corrientes,256.875
+True,12,LineaH,Facultad de Derecho,121.75
+True,12,LineaH,Hospitales,329.625
+True,12,LineaH,Humberto I,224.75
+True,12,LineaH,Inclan,183.625
+True,12,LineaH,Las Heras,375.125
+True,12,LineaH,Once,663.25
+True,12,LineaH,Patricios,283.5
+True,12,LineaH,Santa Fe,355.375
+True,12,LineaH,Venezuela,295.875
+True,13,LineaA,Acoyte,458.5
+True,13,LineaA,Alberti,216.5
+True,13,LineaA,Carabobo,362.375
+True,13,LineaA,Castro Barros,327.625
+True,13,LineaA,Congreso,374.75
+True,13,LineaA,Flores,408.75
+True,13,LineaA,Lima,207.25
+True,13,LineaA,Loria,275.75
+True,13,LineaA,Pasco,134.125
+True,13,LineaA,Peru,251.5
+True,13,LineaA,Piedras,139.5
+True,13,LineaA,Plaza Miserere,607.25
+True,13,LineaA,Plaza de Mayo,238.125
+True,13,LineaA,Primera Junta,398.5
+True,13,LineaA,Puan,237.625
+True,13,LineaA,Rio de Janeiro,343.125
+True,13,LineaA,Saenz PeÃÂ±a ,212.875
+True,13,LineaA,San Pedrito,1341.875
+True,13,LineaB,Angel Gallardo,445.625
+True,13,LineaB,Callao.B,517.875
+True,13,LineaB,Carlos Gardel,618.875
+True,13,LineaB,Carlos Pellegrini,632.625
+True,13,LineaB,Dorrego,319.25
+True,13,LineaB,Echeverria,173.0
+True,13,LineaB,Federico Lacroze,801.0
+True,13,LineaB,Florida,314.0
+True,13,LineaB,Leandro N. Alem,365.75
+True,13,LineaB,Los Incas,288.375
+True,13,LineaB,Malabia,604.25
+True,13,LineaB,Medrano,588.0
+True,13,LineaB,Pasteur,534.375
+True,13,LineaB,Pueyrredon,607.25
+True,13,LineaB,Rosas,733.125
+True,13,LineaB,Tronador,147.375
+True,13,LineaB,Uruguay,348.5
+True,13,LineaC,Avenida de Mayo,121.625
+True,13,LineaC,Constitucion,2286.0
+True,13,LineaC,Diagonal Norte,110.25
+True,13,LineaC,General San Martin,140.5
+True,13,LineaC,Independencia,221.0
+True,13,LineaC,Lavalle,208.375
+True,13,LineaC,Mariano Moreno,118.625
+True,13,LineaC,Retiro,1182.25
+True,13,LineaC,San Juan,168.25
+True,13,LineaD,9 de julio,119.75
+True,13,LineaD,AgÃÂ¼ero,366.5
+True,13,LineaD,Bulnes,549.5
+True,13,LineaD,Callao,420.0
+True,13,LineaD,Catedral,380.5
+True,13,LineaD,Congreso de Tucuman,845.0
+True,13,LineaD,Facultad de Medicina,447.875
+True,13,LineaD,Jose Hernandez,390.125
+True,13,LineaD,Juramento,602.875
+True,13,LineaD,Ministro Carranza,394.0
+True,13,LineaD,Olleros,392.375
+True,13,LineaD,Palermo,662.375
+True,13,LineaD,Plaza Italia,405.75
+True,13,LineaD,Pueyrredon.D,260.25
+True,13,LineaD,Scalabrini Ortiz,414.0
+True,13,LineaD,Tribunales,247.375
+True,13,LineaE,Avenida La Plata,167.625
+True,13,LineaE,Boedo,191.875
+True,13,LineaE,Bolivar,267.5
+True,13,LineaE,Catalinas,45.875
+True,13,LineaE,Correo Central,104.375
+True,13,LineaE,Emilio Mitre,144.625
+True,13,LineaE,Entre Rios,147.625
+True,13,LineaE,General Belgrano,60.625
+True,13,LineaE,Independencia.H,209.125
+True,13,LineaE,Jose Maria Moreno,135.75
+True,13,LineaE,Jujuy,137.375
+True,13,LineaE,Medalla Milagrosa,59.25
+True,13,LineaE,Pichincha,92.25
+True,13,LineaE,Pza. de los Virreyes,268.375
+True,13,LineaE,Retiro E,117.25
+True,13,LineaE,San Jose,99.375
+True,13,LineaE,Urquiza,107.875
+True,13,LineaE,Varela,71.625
+True,13,LineaH,Caseros,168.75
+True,13,LineaH,Cordoba,234.375
+True,13,LineaH,Corrientes,310.625
+True,13,LineaH,Facultad de Derecho,145.0
+True,13,LineaH,Hospitales,325.875
+True,13,LineaH,Humberto I,227.25
+True,13,LineaH,Inclan,169.5
+True,13,LineaH,Las Heras,368.0
+True,13,LineaH,Once,721.125
+True,13,LineaH,Patricios,299.25
+True,13,LineaH,Santa Fe,363.0
+True,13,LineaH,Venezuela,284.375
+True,14,LineaA,Acoyte,444.625
+True,14,LineaA,Alberti,170.875
+True,14,LineaA,Carabobo,348.125
+True,14,LineaA,Castro Barros,302.75
+True,14,LineaA,Congreso,308.625
+True,14,LineaA,Flores,388.875
+True,14,LineaA,Lima,173.875
+True,14,LineaA,Loria,268.125
+True,14,LineaA,Pasco,117.125
+True,14,LineaA,Peru,205.875
+True,14,LineaA,Piedras,110.5
+True,14,LineaA,Plaza Miserere,605.0
+True,14,LineaA,Plaza de Mayo,201.0
+True,14,LineaA,Primera Junta,370.375
+True,14,LineaA,Puan,193.125
+True,14,LineaA,Rio de Janeiro,317.75
+True,14,LineaA,Saenz PeÃÂ±a ,190.875
+True,14,LineaA,San Pedrito,1150.75
+True,14,LineaB,Angel Gallardo,428.625
+True,14,LineaB,Callao.B,443.25
+True,14,LineaB,Carlos Gardel,691.625
+True,14,LineaB,Carlos Pellegrini,616.0
+True,14,LineaB,Dorrego,290.0
+True,14,LineaB,Echeverria,153.0
+True,14,LineaB,Federico Lacroze,761.0
+True,14,LineaB,Florida,312.875
+True,14,LineaB,Leandro N. Alem,320.0
+True,14,LineaB,Los Incas,256.0
+True,14,LineaB,Malabia,549.875
+True,14,LineaB,Medrano,482.0
+True,14,LineaB,Pasteur,381.5
+True,14,LineaB,Pueyrredon,485.625
+True,14,LineaB,Rosas,708.0
+True,14,LineaB,Tronador,127.375
+True,14,LineaB,Uruguay,266.875
+True,14,LineaC,Avenida de Mayo,118.0
+True,14,LineaC,Constitucion,2009.375
+True,14,LineaC,Diagonal Norte,82.0
+True,14,LineaC,General San Martin,144.125
+True,14,LineaC,Independencia,198.875
+True,14,LineaC,Lavalle,186.25
+True,14,LineaC,Mariano Moreno,97.625
+True,14,LineaC,Retiro,1170.375
+True,14,LineaC,San Juan,154.625
+True,14,LineaD,9 de julio,121.125
+True,14,LineaD,AgÃÂ¼ero,338.0
+True,14,LineaD,Bulnes,523.75
+True,14,LineaD,Callao,325.375
+True,14,LineaD,Catedral,331.625
+True,14,LineaD,Congreso de Tucuman,791.375
+True,14,LineaD,Facultad de Medicina,341.375
+True,14,LineaD,Jose Hernandez,325.125
+True,14,LineaD,Juramento,606.25
+True,14,LineaD,Ministro Carranza,348.5
+True,14,LineaD,Olleros,396.5
+True,14,LineaD,Palermo,668.0
+True,14,LineaD,Plaza Italia,451.0
+True,14,LineaD,Pueyrredon.D,254.0
+True,14,LineaD,Scalabrini Ortiz,373.5
+True,14,LineaD,Tribunales,207.0
+True,14,LineaE,Avenida La Plata,166.25
+True,14,LineaE,Boedo,171.375
+True,14,LineaE,Bolivar,168.375
+True,14,LineaE,Catalinas,45.0
+True,14,LineaE,Correo Central,131.5
+True,14,LineaE,Emilio Mitre,137.5
+True,14,LineaE,Entre Rios,144.625
+True,14,LineaE,General Belgrano,57.0
+True,14,LineaE,Independencia.H,146.125
+True,14,LineaE,Jose Maria Moreno,114.875
+True,14,LineaE,Jujuy,146.75
+True,14,LineaE,Medalla Milagrosa,53.75
+True,14,LineaE,Pichincha,89.125
+True,14,LineaE,Pza. de los Virreyes,248.25
+True,14,LineaE,Retiro E,108.5
+True,14,LineaE,San Jose,82.25
+True,14,LineaE,Urquiza,107.75
+True,14,LineaE,Varela,72.875
+True,14,LineaH,Caseros,149.0
+True,14,LineaH,Cordoba,204.375
+True,14,LineaH,Corrientes,253.0
+True,14,LineaH,Facultad de Derecho,119.875
+True,14,LineaH,Hospitales,289.75
+True,14,LineaH,Humberto I,214.75
+True,14,LineaH,Inclan,178.875
+True,14,LineaH,Las Heras,350.25
+True,14,LineaH,Once,677.5
+True,14,LineaH,Patricios,284.5
+True,14,LineaH,Santa Fe,333.75
+True,14,LineaH,Venezuela,270.5
+True,15,LineaA,Acoyte,477.375
+True,15,LineaA,Alberti,157.125
+True,15,LineaA,Carabobo,374.375
+True,15,LineaA,Castro Barros,317.125
+True,15,LineaA,Congreso,317.625
+True,15,LineaA,Flores,385.75
+True,15,LineaA,Lima,183.875
+True,15,LineaA,Loria,266.625
+True,15,LineaA,Pasco,111.375
+True,15,LineaA,Peru,235.75
+True,15,LineaA,Piedras,139.5
+True,15,LineaA,Plaza Miserere,554.875
+True,15,LineaA,Plaza de Mayo,261.0
+True,15,LineaA,Primera Junta,377.25
+True,15,LineaA,Puan,217.625
+True,15,LineaA,Rio de Janeiro,319.25
+True,15,LineaA,Saenz PeÃÂ±a ,182.875
+True,15,LineaA,San Pedrito,954.875
+True,15,LineaB,Angel Gallardo,471.25
+True,15,LineaB,Callao.B,413.125
+True,15,LineaB,Carlos Gardel,794.25
+True,15,LineaB,Carlos Pellegrini,488.75
+True,15,LineaB,Dorrego,283.25
+True,15,LineaB,Echeverria,172.875
+True,15,LineaB,Federico Lacroze,816.125
+True,15,LineaB,Florida,354.5
+True,15,LineaB,Leandro N. Alem,361.375
+True,15,LineaB,Los Incas,287.25
+True,15,LineaB,Malabia,576.5
+True,15,LineaB,Medrano,497.625
+True,15,LineaB,Pasteur,294.625
+True,15,LineaB,Pueyrredon,406.75
+True,15,LineaB,Rosas,829.5
+True,15,LineaB,Tronador,138.375
+True,15,LineaB,Uruguay,327.625
+True,15,LineaC,Avenida de Mayo,156.25
+True,15,LineaC,Constitucion,2105.125
+True,15,LineaC,Diagonal Norte,92.25
+True,15,LineaC,General San Martin,144.25
+True,15,LineaC,Independencia,216.75
+True,15,LineaC,Lavalle,221.375
+True,15,LineaC,Mariano Moreno,112.125
+True,15,LineaC,Retiro,1072.0
+True,15,LineaC,San Juan,145.875
+True,15,LineaD,9 de julio,92.875
+True,15,LineaD,AgÃÂ¼ero,346.875
+True,15,LineaD,Bulnes,584.75
+True,15,LineaD,Callao,314.75
+True,15,LineaD,Catedral,417.375
+True,15,LineaD,Congreso de Tucuman,886.875
+True,15,LineaD,Facultad de Medicina,314.75
+True,15,LineaD,Jose Hernandez,335.25
+True,15,LineaD,Juramento,722.875
+True,15,LineaD,Ministro Carranza,354.0
+True,15,LineaD,Olleros,450.375
+True,15,LineaD,Palermo,700.375
+True,15,LineaD,Plaza Italia,562.875
+True,15,LineaD,Pueyrredon.D,248.875
+True,15,LineaD,Scalabrini Ortiz,426.375
+True,15,LineaD,Tribunales,243.0
+True,15,LineaE,Avenida La Plata,174.375
+True,15,LineaE,Boedo,185.875
+True,15,LineaE,Bolivar,191.125
+True,15,LineaE,Catalinas,40.625
+True,15,LineaE,Correo Central,154.5
+True,15,LineaE,Emilio Mitre,125.625
+True,15,LineaE,Entre Rios,148.5
+True,15,LineaE,General Belgrano,64.125
+True,15,LineaE,Independencia.H,142.125
+True,15,LineaE,Jose Maria Moreno,115.875
+True,15,LineaE,Jujuy,125.875
+True,15,LineaE,Medalla Milagrosa,63.5
+True,15,LineaE,Pichincha,83.0
+True,15,LineaE,Pza. de los Virreyes,255.375
+True,15,LineaE,Retiro E,117.875
+True,15,LineaE,San Jose,80.625
+True,15,LineaE,Urquiza,101.25
+True,15,LineaE,Varela,70.75
+True,15,LineaH,Caseros,155.25
+True,15,LineaH,Cordoba,167.5
+True,15,LineaH,Corrientes,206.5
+True,15,LineaH,Facultad de Derecho,127.125
+True,15,LineaH,Hospitales,300.75
+True,15,LineaH,Humberto I,218.125
+True,15,LineaH,Inclan,190.5
+True,15,LineaH,Las Heras,357.0
+True,15,LineaH,Once,611.0
+True,15,LineaH,Patricios,286.25
+True,15,LineaH,Santa Fe,302.75
+True,15,LineaH,Venezuela,249.75
+True,16,LineaA,Acoyte,550.375
+True,16,LineaA,Alberti,148.875
+True,16,LineaA,Carabobo,418.0
+True,16,LineaA,Castro Barros,323.875
+True,16,LineaA,Congreso,333.375
+True,16,LineaA,Flores,401.75
+True,16,LineaA,Lima,200.5
+True,16,LineaA,Loria,274.25
+True,16,LineaA,Pasco,113.0
+True,16,LineaA,Peru,254.625
+True,16,LineaA,Piedras,120.625
+True,16,LineaA,Plaza Miserere,584.125
+True,16,LineaA,Plaza de Mayo,304.25
+True,16,LineaA,Primera Junta,458.75
+True,16,LineaA,Puan,254.125
+True,16,LineaA,Rio de Janeiro,367.125
+True,16,LineaA,Saenz PeÃÂ±a ,189.875
+True,16,LineaA,San Pedrito,833.375
+True,16,LineaB,Angel Gallardo,503.125
+True,16,LineaB,Callao.B,424.25
+True,16,LineaB,Carlos Gardel,990.25
+True,16,LineaB,Carlos Pellegrini,532.125
+True,16,LineaB,Dorrego,318.0
+True,16,LineaB,Echeverria,225.625
+True,16,LineaB,Federico Lacroze,874.625
+True,16,LineaB,Florida,368.875
+True,16,LineaB,Leandro N. Alem,450.375
+True,16,LineaB,Los Incas,316.25
+True,16,LineaB,Malabia,637.125
+True,16,LineaB,Medrano,585.375
+True,16,LineaB,Pasteur,300.625
+True,16,LineaB,Pueyrredon,381.875
+True,16,LineaB,Rosas,893.625
+True,16,LineaB,Tronador,166.875
+True,16,LineaB,Uruguay,329.5
+True,16,LineaC,Avenida de Mayo,165.125
+True,16,LineaC,Constitucion,2224.875
+True,16,LineaC,Diagonal Norte,91.71428571428571
+True,16,LineaC,General San Martin,148.125
+True,16,LineaC,Independencia,212.125
+True,16,LineaC,Lavalle,208.875
+True,16,LineaC,Mariano Moreno,107.0
+True,16,LineaC,Retiro,1199.0
+True,16,LineaC,San Juan,153.75
+True,16,LineaD,9 de julio,115.5
+True,16,LineaD,AgÃÂ¼ero,413.0
+True,16,LineaD,Bulnes,662.75
+True,16,LineaD,Callao,334.25
+True,16,LineaD,Catedral,459.875
+True,16,LineaD,Congreso de Tucuman,1105.5
+True,16,LineaD,Facultad de Medicina,325.125
+True,16,LineaD,Jose Hernandez,438.625
+True,16,LineaD,Juramento,855.125
+True,16,LineaD,Ministro Carranza,439.75
+True,16,LineaD,Olleros,541.75
+True,16,LineaD,Palermo,844.0
+True,16,LineaD,Plaza Italia,745.75
+True,16,LineaD,Pueyrredon.D,273.0
+True,16,LineaD,Scalabrini Ortiz,501.125
+True,16,LineaD,Tribunales,248.875
+True,16,LineaE,Avenida La Plata,163.25
+True,16,LineaE,Boedo,173.125
+True,16,LineaE,Bolivar,228.0
+True,16,LineaE,Catalinas,51.875
+True,16,LineaE,Correo Central,202.625
+True,16,LineaE,Emilio Mitre,144.75
+True,16,LineaE,Entre Rios,154.375
+True,16,LineaE,General Belgrano,66.0
+True,16,LineaE,Independencia.H,161.25
+True,16,LineaE,Jose Maria Moreno,137.125
+True,16,LineaE,Jujuy,147.25
+True,16,LineaE,Medalla Milagrosa,59.375
+True,16,LineaE,Pichincha,81.25
+True,16,LineaE,Pza. de los Virreyes,239.125
+True,16,LineaE,Retiro E,138.75
+True,16,LineaE,San Jose,91.625
+True,16,LineaE,Urquiza,104.375
+True,16,LineaE,Varela,74.75
+True,16,LineaH,Caseros,169.0
+True,16,LineaH,Cordoba,168.0
+True,16,LineaH,Corrientes,216.625
+True,16,LineaH,Facultad de Derecho,198.875
+True,16,LineaH,Hospitales,309.625
+True,16,LineaH,Humberto I,236.0
+True,16,LineaH,Inclan,185.5
+True,16,LineaH,Las Heras,459.125
+True,16,LineaH,Once,612.125
+True,16,LineaH,Patricios,272.625
+True,16,LineaH,Santa Fe,319.0
+True,16,LineaH,Venezuela,258.75
+True,17,LineaA,Acoyte,478.125
+True,17,LineaA,Alberti,136.125
+True,17,LineaA,Carabobo,351.875
+True,17,LineaA,Castro Barros,272.0
+True,17,LineaA,Congreso,329.0
+True,17,LineaA,Flores,354.0
+True,17,LineaA,Lima,205.0
+True,17,LineaA,Loria,234.5
+True,17,LineaA,Pasco,98.875
+True,17,LineaA,Peru,286.14285714285717
+True,17,LineaA,Piedras,98.25
+True,17,LineaA,Plaza Miserere,447.5
+True,17,LineaA,Plaza de Mayo,315.375
+True,17,LineaA,Primera Junta,373.875
+True,17,LineaA,Puan,218.875
+True,17,LineaA,Rio de Janeiro,342.875
+True,17,LineaA,Saenz PeÃÂ±a ,181.5
+True,17,LineaA,San Pedrito,656.75
+True,17,LineaB,Angel Gallardo,492.125
+True,17,LineaB,Callao.B,432.375
+True,17,LineaB,Carlos Gardel,1060.375
+True,17,LineaB,Carlos Pellegrini,673.0
+True,17,LineaB,Dorrego,316.5
+True,17,LineaB,Echeverria,188.5
+True,17,LineaB,Federico Lacroze,736.5
+True,17,LineaB,Florida,370.0
+True,17,LineaB,Leandro N. Alem,575.25
+True,17,LineaB,Los Incas,271.0
+True,17,LineaB,Malabia,607.5
+True,17,LineaB,Medrano,550.5
+True,17,LineaB,Pasteur,277.125
+True,17,LineaB,Pueyrredon,344.125
+True,17,LineaB,Rosas,734.125
+True,17,LineaB,Tronador,127.5
+True,17,LineaB,Uruguay,341.75
+True,17,LineaC,Avenida de Mayo,153.625
+True,17,LineaC,Constitucion,2339.5
+True,17,LineaC,Diagonal Norte,82.25
+True,17,LineaC,General San Martin,153.625
+True,17,LineaC,Independencia,238.57142857142858
+True,17,LineaC,Lavalle,211.25
+True,17,LineaC,Mariano Moreno,107.25
+True,17,LineaC,Retiro,1314.125
+True,17,LineaC,San Juan,168.5
+True,17,LineaD,9 de julio,117.375
+True,17,LineaD,AgÃÂ¼ero,345.25
+True,17,LineaD,Bulnes,652.5
+True,17,LineaD,Callao,324.25
+True,17,LineaD,Catedral,469.0
+True,17,LineaD,Congreso de Tucuman,935.25
+True,17,LineaD,Facultad de Medicina,289.875
+True,17,LineaD,Jose Hernandez,357.875
+True,17,LineaD,Juramento,852.0
+True,17,LineaD,Ministro Carranza,372.0
+True,17,LineaD,Olleros,455.125
+True,17,LineaD,Palermo,848.5
+True,17,LineaD,Plaza Italia,924.875
+True,17,LineaD,Pueyrredon.D,264.75
+True,17,LineaD,Scalabrini Ortiz,472.875
+True,17,LineaD,Tribunales,267.25
+True,17,LineaE,Avenida La Plata,145.5
+True,17,LineaE,Boedo,163.875
+True,17,LineaE,Bolivar,243.0
+True,17,LineaE,Catalinas,53.125
+True,17,LineaE,Correo Central,258.25
+True,17,LineaE,Emilio Mitre,143.375
+True,17,LineaE,Entre Rios,131.375
+True,17,LineaE,General Belgrano,62.125
+True,17,LineaE,Independencia.H,145.75
+True,17,LineaE,Jose Maria Moreno,114.5
+True,17,LineaE,Jujuy,126.375
+True,17,LineaE,Medalla Milagrosa,61.625
+True,17,LineaE,Pichincha,92.5
+True,17,LineaE,Pza. de los Virreyes,214.875
+True,17,LineaE,Retiro E,144.375
+True,17,LineaE,San Jose,75.0
+True,17,LineaE,Urquiza,90.75
+True,17,LineaE,Varela,71.875
+True,17,LineaH,Caseros,199.625
+True,17,LineaH,Cordoba,153.625
+True,17,LineaH,Corrientes,214.75
+True,17,LineaH,Facultad de Derecho,294.75
+True,17,LineaH,Hospitales,225.0
+True,17,LineaH,Humberto I,199.875
+True,17,LineaH,Inclan,170.25
+True,17,LineaH,Las Heras,474.25
+True,17,LineaH,Once,520.75
+True,17,LineaH,Patricios,266.5
+True,17,LineaH,Santa Fe,314.25
+True,17,LineaH,Venezuela,203.375
+True,18,LineaA,Acoyte,460.0
+True,18,LineaA,Alberti,134.0
+True,18,LineaA,Carabobo,320.2857142857143
+True,18,LineaA,Castro Barros,274.14285714285717
+True,18,LineaA,Congreso,314.375
+True,18,LineaA,Flores,300.85714285714283
+True,18,LineaA,Lima,274.57142857142856
+True,18,LineaA,Loria,256.2857142857143
+True,18,LineaA,Pasco,78.85714285714286
+True,18,LineaA,Peru,325.57142857142856
+True,18,LineaA,Piedras,126.14285714285714
+True,18,LineaA,Plaza Miserere,371.0
+True,18,LineaA,Plaza de Mayo,409.5
+True,18,LineaA,Primera Junta,317.7142857142857
+True,18,LineaA,Puan,153.57142857142858
+True,18,LineaA,Rio de Janeiro,285.85714285714283
+True,18,LineaA,Saenz PeÃÂ±a ,177.28571428571428
+True,18,LineaA,San Pedrito,460.625
+True,18,LineaB,Angel Gallardo,527.5714285714286
+True,18,LineaB,Callao.B,470.7142857142857
+True,18,LineaB,Carlos Gardel,1097.4285714285713
+True,18,LineaB,Carlos Pellegrini,811.0
+True,18,LineaB,Dorrego,291.5
+True,18,LineaB,Echeverria,173.57142857142858
+True,18,LineaB,Federico Lacroze,633.25
+True,18,LineaB,Florida,405.0
+True,18,LineaB,Leandro N. Alem,558.125
+True,18,LineaB,Los Incas,229.625
+True,18,LineaB,Malabia,535.125
+True,18,LineaB,Medrano,483.875
+True,18,LineaB,Pasteur,237.28571428571428
+True,18,LineaB,Pueyrredon,288.57142857142856
+True,18,LineaB,Rosas,742.0
+True,18,LineaB,Tronador,124.5
+True,18,LineaB,Uruguay,463.0
+True,18,LineaC,Avenida de Mayo,215.57142857142858
+True,18,LineaC,Constitucion,1949.75
+True,18,LineaC,Diagonal Norte,81.0
+True,18,LineaC,General San Martin,129.0
+True,18,LineaC,Independencia,224.57142857142858
+True,18,LineaC,Lavalle,238.0
+True,18,LineaC,Mariano Moreno,110.85714285714286
+True,18,LineaC,Retiro,1150.125
+True,18,LineaC,San Juan,164.14285714285714
+True,18,LineaD,9 de julio,159.42857142857142
+True,18,LineaD,AgÃÂ¼ero,265.375
+True,18,LineaD,Bulnes,617.8571428571429
+True,18,LineaD,Callao,316.2857142857143
+True,18,LineaD,Catedral,491.75
+True,18,LineaD,Congreso de Tucuman,751.125
+True,18,LineaD,Facultad de Medicina,233.75
+True,18,LineaD,Jose Hernandez,299.375
+True,18,LineaD,Juramento,722.5
+True,18,LineaD,Ministro Carranza,291.125
+True,18,LineaD,Olleros,375.25
+True,18,LineaD,Palermo,799.625
+True,18,LineaD,Plaza Italia,1057.4285714285713
+True,18,LineaD,Pueyrredon.D,185.375
+True,18,LineaD,Scalabrini Ortiz,398.625
+True,18,LineaD,Tribunales,449.14285714285717
+True,18,LineaE,Avenida La Plata,151.28571428571428
+True,18,LineaE,Boedo,154.14285714285714
+True,18,LineaE,Bolivar,271.0
+True,18,LineaE,Catalinas,62.75
+True,18,LineaE,Correo Central,303.57142857142856
+True,18,LineaE,Emilio Mitre,160.14285714285714
+True,18,LineaE,Entre Rios,118.57142857142857
+True,18,LineaE,General Belgrano,76.71428571428571
+True,18,LineaE,Independencia.H,152.85714285714286
+True,18,LineaE,Jose Maria Moreno,113.0
+True,18,LineaE,Jujuy,116.14285714285714
+True,18,LineaE,Medalla Milagrosa,46.714285714285715
+True,18,LineaE,Pichincha,81.42857142857143
+True,18,LineaE,Pza. de los Virreyes,182.42857142857142
+True,18,LineaE,Retiro E,170.42857142857142
+True,18,LineaE,San Jose,74.85714285714286
+True,18,LineaE,Urquiza,84.71428571428571
+True,18,LineaE,Varela,57.142857142857146
+True,18,LineaH,Caseros,120.75
+True,18,LineaH,Cordoba,132.625
+True,18,LineaH,Corrientes,158.625
+True,18,LineaH,Facultad de Derecho,411.0
+True,18,LineaH,Hospitales,178.625
+True,18,LineaH,Humberto I,149.25
+True,18,LineaH,Inclan,136.375
+True,18,LineaH,Las Heras,566.5714285714286
+True,18,LineaH,Once,411.5
+True,18,LineaH,Patricios,237.375
+True,18,LineaH,Santa Fe,265.0
+True,18,LineaH,Venezuela,178.25
+True,19,LineaA,Acoyte,470.2857142857143
+True,19,LineaA,Alberti,144.28571428571428
+True,19,LineaA,Carabobo,300.2857142857143
+True,19,LineaA,Castro Barros,293.57142857142856
+True,19,LineaA,Congreso,358.375
+True,19,LineaA,Flores,276.14285714285717
+True,19,LineaA,Lima,461.0
+True,19,LineaA,Loria,242.0
+True,19,LineaA,Pasco,74.28571428571429
+True,19,LineaA,Peru,328.2857142857143
+True,19,LineaA,Piedras,213.14285714285714
+True,19,LineaA,Plaza Miserere,340.75
+True,19,LineaA,Plaza de Mayo,399.0
+True,19,LineaA,Primera Junta,280.75
+True,19,LineaA,Puan,166.42857142857142
+True,19,LineaA,Rio de Janeiro,305.2857142857143
+True,19,LineaA,Saenz PeÃÂ±a ,307.14285714285717
+True,19,LineaA,San Pedrito,487.57142857142856
+True,19,LineaB,Angel Gallardo,559.7142857142857
+True,19,LineaB,Callao.B,668.5714285714286
+True,19,LineaB,Carlos Gardel,1270.857142857143
+True,19,LineaB,Carlos Pellegrini,763.5
+True,19,LineaB,Dorrego,319.57142857142856
+True,19,LineaB,Echeverria,198.14285714285714
+True,19,LineaB,Federico Lacroze,578.5
+True,19,LineaB,Florida,604.8571428571429
+True,19,LineaB,Leandro N. Alem,666.5714285714286
+True,19,LineaB,Los Incas,266.85714285714283
+True,19,LineaB,Malabia,641.8571428571429
+True,19,LineaB,Medrano,498.0
+True,19,LineaB,Pasteur,222.0
+True,19,LineaB,Pueyrredon,314.7142857142857
+True,19,LineaB,Rosas,758.8571428571429
+True,19,LineaB,Tronador,124.14285714285714
+True,19,LineaB,Uruguay,686.2857142857143
+True,19,LineaC,Avenida de Mayo,299.42857142857144
+True,19,LineaC,Constitucion,2306.285714285714
+True,19,LineaC,Diagonal Norte,67.71428571428571
+True,19,LineaC,General San Martin,193.42857142857142
+True,19,LineaC,Independencia,236.33333333333334
+True,19,LineaC,Lavalle,201.33333333333334
+True,19,LineaC,Mariano Moreno,126.28571428571429
+True,19,LineaC,Retiro,1342.4285714285713
+True,19,LineaC,San Juan,147.71428571428572
+True,19,LineaD,9 de julio,113.25
+True,19,LineaD,AgÃÂ¼ero,294.7142857142857
+True,19,LineaD,Bulnes,673.2857142857143
+True,19,LineaD,Callao,438.2857142857143
+True,19,LineaD,Catedral,629.1428571428571
+True,19,LineaD,Congreso de Tucuman,833.0
+True,19,LineaD,Facultad de Medicina,280.14285714285717
+True,19,LineaD,Jose Hernandez,307.2857142857143
+True,19,LineaD,Juramento,831.8571428571429
+True,19,LineaD,Ministro Carranza,350.2857142857143
+True,19,LineaD,Olleros,389.625
+True,19,LineaD,Palermo,968.5714285714286
+True,19,LineaD,Plaza Italia,988.7142857142857
+True,19,LineaD,Pueyrredon.D,211.28571428571428
+True,19,LineaD,Scalabrini Ortiz,469.57142857142856
+True,19,LineaD,Tribunales,191.14285714285714
+True,19,LineaE,Avenida La Plata,132.57142857142858
+True,19,LineaE,Boedo,161.57142857142858
+True,19,LineaE,Bolivar,336.85714285714283
+True,19,LineaE,Catalinas,60.625
+True,19,LineaE,Correo Central,412.85714285714283
+True,19,LineaE,Emilio Mitre,170.0
+True,19,LineaE,Entre Rios,123.42857142857143
+True,19,LineaE,General Belgrano,91.85714285714286
+True,19,LineaE,Independencia.H,169.14285714285714
+True,19,LineaE,Jose Maria Moreno,115.28571428571429
+True,19,LineaE,Jujuy,107.0
+True,19,LineaE,Medalla Milagrosa,54.142857142857146
+True,19,LineaE,Pichincha,69.71428571428571
+True,19,LineaE,Pza. de los Virreyes,163.14285714285714
+True,19,LineaE,Retiro E,167.85714285714286
+True,19,LineaE,San Jose,75.57142857142857
+True,19,LineaE,Urquiza,82.0
+True,19,LineaE,Varela,51.857142857142854
+True,19,LineaH,Caseros,126.71428571428571
+True,19,LineaH,Cordoba,159.14285714285714
+True,19,LineaH,Corrientes,179.28571428571428
+True,19,LineaH,Facultad de Derecho,396.14285714285717
+True,19,LineaH,Hospitales,203.0
+True,19,LineaH,Humberto I,187.71428571428572
+True,19,LineaH,Inclan,155.28571428571428
+True,19,LineaH,Las Heras,600.4285714285714
+True,19,LineaH,Once,448.7142857142857
+True,19,LineaH,Patricios,263.0
+True,19,LineaH,Santa Fe,374.42857142857144
+True,19,LineaH,Venezuela,172.71428571428572
+True,20,LineaA,Acoyte,414.2857142857143
+True,20,LineaA,Alberti,148.57142857142858
+True,20,LineaA,Carabobo,289.57142857142856
+True,20,LineaA,Castro Barros,251.57142857142858
+True,20,LineaA,Congreso,358.14285714285717
+True,20,LineaA,Flores,254.42857142857142
+True,20,LineaA,Lima,258.0
+True,20,LineaA,Loria,204.85714285714286
+True,20,LineaA,Pasco,60.0
+True,20,LineaA,Peru,241.71428571428572
+True,20,LineaA,Piedras,98.0
+True,20,LineaA,Plaza Miserere,282.875
+True,20,LineaA,Plaza de Mayo,303.85714285714283
+True,20,LineaA,Primera Junta,283.85714285714283
+True,20,LineaA,Puan,139.14285714285714
+True,20,LineaA,Rio de Janeiro,264.42857142857144
+True,20,LineaA,Saenz PeÃÂ±a ,182.14285714285714
+True,20,LineaA,San Pedrito,366.2857142857143
+True,20,LineaB,Angel Gallardo,399.85714285714283
+True,20,LineaB,Callao.B,621.1428571428571
+True,20,LineaB,Carlos Gardel,1089.857142857143
+True,20,LineaB,Carlos Pellegrini,709.5714285714286
+True,20,LineaB,Dorrego,239.71428571428572
+True,20,LineaB,Echeverria,175.28571428571428
+True,20,LineaB,Federico Lacroze,525.0
+True,20,LineaB,Florida,387.0
+True,20,LineaB,Leandro N. Alem,727.5714285714286
+True,20,LineaB,Los Incas,235.57142857142858
+True,20,LineaB,Malabia,580.5714285714286
+True,20,LineaB,Medrano,446.375
+True,20,LineaB,Pasteur,228.0
+True,20,LineaB,Pueyrredon,228.85714285714286
+True,20,LineaB,Rosas,717.1428571428571
+True,20,LineaB,Tronador,112.14285714285714
+True,20,LineaB,Uruguay,431.42857142857144
+True,20,LineaC,Avenida de Mayo,177.0
+True,20,LineaC,Constitucion,1706.7142857142858
+True,20,LineaC,Diagonal Norte,54.857142857142854
+True,20,LineaC,General San Martin,129.85714285714286
+True,20,LineaC,Independencia,194.16666666666666
+True,20,LineaC,Lavalle,173.28571428571428
+True,20,LineaC,Mariano Moreno,95.14285714285714
+True,20,LineaC,Retiro,1157.0
+True,20,LineaC,San Juan,102.71428571428571
+True,20,LineaD,9 de julio,99.75
+True,20,LineaD,AgÃÂ¼ero,297.85714285714283
+True,20,LineaD,Bulnes,618.7142857142857
+True,20,LineaD,Callao,401.14285714285717
+True,20,LineaD,Catedral,371.42857142857144
+True,20,LineaD,Congreso de Tucuman,878.0
+True,20,LineaD,Facultad de Medicina,226.42857142857142
+True,20,LineaD,Jose Hernandez,349.7142857142857
+True,20,LineaD,Juramento,884.8571428571429
+True,20,LineaD,Ministro Carranza,289.14285714285717
+True,20,LineaD,Olleros,381.0
+True,20,LineaD,Palermo,775.2857142857143
+True,20,LineaD,Plaza Italia,732.2857142857143
+True,20,LineaD,Pueyrredon.D,228.57142857142858
+True,20,LineaD,Scalabrini Ortiz,399.57142857142856
+True,20,LineaD,Tribunales,167.57142857142858
+True,20,LineaE,Avenida La Plata,132.57142857142858
+True,20,LineaE,Boedo,146.28571428571428
+True,20,LineaE,Bolivar,214.42857142857142
+True,20,LineaE,Catalinas,47.285714285714285
+True,20,LineaE,Correo Central,302.57142857142856
+True,20,LineaE,Emilio Mitre,145.28571428571428
+True,20,LineaE,Entre Rios,112.42857142857143
+True,20,LineaE,General Belgrano,61.142857142857146
+True,20,LineaE,Independencia.H,120.71428571428571
+True,20,LineaE,Jose Maria Moreno,102.14285714285714
+True,20,LineaE,Jujuy,105.42857142857143
+True,20,LineaE,Medalla Milagrosa,37.142857142857146
+True,20,LineaE,Pichincha,60.714285714285715
+True,20,LineaE,Pza. de los Virreyes,136.71428571428572
+True,20,LineaE,Retiro E,170.71428571428572
+True,20,LineaE,San Jose,72.42857142857143
+True,20,LineaE,Urquiza,74.28571428571429
+True,20,LineaE,Varela,44.142857142857146
+True,20,LineaH,Caseros,112.85714285714286
+True,20,LineaH,Cordoba,141.57142857142858
+True,20,LineaH,Corrientes,167.42857142857142
+True,20,LineaH,Facultad de Derecho,231.71428571428572
+True,20,LineaH,Hospitales,166.14285714285714
+True,20,LineaH,Humberto I,156.71428571428572
+True,20,LineaH,Inclan,129.57142857142858
+True,20,LineaH,Las Heras,555.4285714285714
+True,20,LineaH,Once,389.7142857142857
+True,20,LineaH,Patricios,179.0
+True,20,LineaH,Santa Fe,390.42857142857144
+True,20,LineaH,Venezuela,140.85714285714286
+True,21,LineaA,Acoyte,251.28571428571428
+True,21,LineaA,Alberti,84.71428571428571
+True,21,LineaA,Carabobo,188.71428571428572
+True,21,LineaA,Castro Barros,172.71428571428572
+True,21,LineaA,Congreso,253.0
+True,21,LineaA,Flores,171.71428571428572
+True,21,LineaA,Lima,147.14285714285714
+True,21,LineaA,Loria,153.71428571428572
+True,21,LineaA,Pasco,37.0
+True,21,LineaA,Peru,143.0
+True,21,LineaA,Piedras,71.71428571428571
+True,21,LineaA,Plaza Miserere,229.375
+True,21,LineaA,Plaza de Mayo,176.0
+True,21,LineaA,Primera Junta,191.42857142857142
+True,21,LineaA,Puan,96.71428571428571
+True,21,LineaA,Rio de Janeiro,164.28571428571428
+True,21,LineaA,Saenz PeÃÂ±a ,133.85714285714286
+True,21,LineaA,San Pedrito,256.2857142857143
+True,21,LineaB,Angel Gallardo,291.85714285714283
+True,21,LineaB,Callao.B,358.42857142857144
+True,21,LineaB,Carlos Gardel,902.8571428571429
+True,21,LineaB,Carlos Pellegrini,705.0
+True,21,LineaB,Dorrego,148.0
+True,21,LineaB,Echeverria,98.0
+True,21,LineaB,Federico Lacroze,384.625
+True,21,LineaB,Florida,217.0
+True,21,LineaB,Leandro N. Alem,470.14285714285717
+True,21,LineaB,Los Incas,166.71428571428572
+True,21,LineaB,Malabia,358.0
+True,21,LineaB,Medrano,373.7142857142857
+True,21,LineaB,Pasteur,128.28571428571428
+True,21,LineaB,Pueyrredon,140.71428571428572
+True,21,LineaB,Rosas,402.625
+True,21,LineaB,Tronador,78.14285714285714
+True,21,LineaB,Uruguay,285.2857142857143
+True,21,LineaC,Avenida de Mayo,123.14285714285714
+True,21,LineaC,Constitucion,1401.857142857143
+True,21,LineaC,Diagonal Norte,58.714285714285715
+True,21,LineaC,General San Martin,79.85714285714286
+True,21,LineaC,Independencia,143.85714285714286
+True,21,LineaC,Lavalle,161.57142857142858
+True,21,LineaC,Mariano Moreno,66.14285714285714
+True,21,LineaC,Retiro,795.5714285714286
+True,21,LineaC,San Juan,84.85714285714286
+True,21,LineaD,9 de julio,86.875
+True,21,LineaD,AgÃÂ¼ero,203.71428571428572
+True,21,LineaD,Bulnes,467.42857142857144
+True,21,LineaD,Callao,233.28571428571428
+True,21,LineaD,Catedral,167.75
+True,21,LineaD,Congreso de Tucuman,484.7142857142857
+True,21,LineaD,Facultad de Medicina,140.42857142857142
+True,21,LineaD,Jose Hernandez,176.57142857142858
+True,21,LineaD,Juramento,455.85714285714283
+True,21,LineaD,Ministro Carranza,207.28571428571428
+True,21,LineaD,Olleros,253.25
+True,21,LineaD,Palermo,573.8571428571429
+True,21,LineaD,Plaza Italia,533.2857142857143
+True,21,LineaD,Pueyrredon.D,161.0
+True,21,LineaD,Scalabrini Ortiz,266.85714285714283
+True,21,LineaD,Tribunales,151.71428571428572
+True,21,LineaE,Avenida La Plata,87.57142857142857
+True,21,LineaE,Boedo,96.85714285714286
+True,21,LineaE,Bolivar,134.42857142857142
+True,21,LineaE,Catalinas,27.625
+True,21,LineaE,Correo Central,272.85714285714283
+True,21,LineaE,Emilio Mitre,79.71428571428571
+True,21,LineaE,Entre Rios,85.85714285714286
+True,21,LineaE,General Belgrano,34.57142857142857
+True,21,LineaE,Independencia.H,80.85714285714286
+True,21,LineaE,Jose Maria Moreno,70.0
+True,21,LineaE,Jujuy,71.42857142857143
+True,21,LineaE,Medalla Milagrosa,26.857142857142858
+True,21,LineaE,Pichincha,39.857142857142854
+True,21,LineaE,Pza. de los Virreyes,74.14285714285714
+True,21,LineaE,Retiro E,99.71428571428571
+True,21,LineaE,San Jose,44.42857142857143
+True,21,LineaE,Urquiza,63.142857142857146
+True,21,LineaE,Varela,24.285714285714285
+True,21,LineaH,Caseros,63.42857142857143
+True,21,LineaH,Cordoba,117.14285714285714
+True,21,LineaH,Corrientes,101.71428571428571
+True,21,LineaH,Facultad de Derecho,140.85714285714286
+True,21,LineaH,Hospitales,101.28571428571429
+True,21,LineaH,Humberto I,110.28571428571429
+True,21,LineaH,Inclan,87.14285714285714
+True,21,LineaH,Las Heras,384.85714285714283
+True,21,LineaH,Once,286.2857142857143
+True,21,LineaH,Patricios,134.0
+True,21,LineaH,Santa Fe,242.85714285714286
+True,21,LineaH,Venezuela,107.85714285714286
+True,22,LineaA,Acoyte,90.375
+True,22,LineaA,Alberti,44.42857142857143
+True,22,LineaA,Carabobo,65.71428571428571
+True,22,LineaA,Castro Barros,71.0
+True,22,LineaA,Congreso,125.71428571428571
+True,22,LineaA,Flores,70.14285714285714
+True,22,LineaA,Lima,83.0
+True,22,LineaA,Loria,67.71428571428571
+True,22,LineaA,Pasco,18.285714285714285
+True,22,LineaA,Peru,57.714285714285715
+True,22,LineaA,Piedras,34.142857142857146
+True,22,LineaA,Plaza Miserere,95.75
+True,22,LineaA,Plaza de Mayo,83.71428571428571
+True,22,LineaA,Primera Junta,79.42857142857143
+True,22,LineaA,Puan,36.714285714285715
+True,22,LineaA,Rio de Janeiro,81.85714285714286
+True,22,LineaA,Saenz PeÃÂ±a ,65.14285714285714
+True,22,LineaA,San Pedrito,110.0
+True,22,LineaB,Angel Gallardo,101.875
+True,22,LineaB,Callao.B,163.0
+True,22,LineaB,Carlos Gardel,487.625
+True,22,LineaB,Carlos Pellegrini,356.375
+True,22,LineaB,Dorrego,76.0
+True,22,LineaB,Echeverria,40.333333333333336
+True,22,LineaB,Federico Lacroze,142.375
+True,22,LineaB,Florida,64.75
+True,22,LineaB,Leandro N. Alem,168.875
+True,22,LineaB,Los Incas,48.142857142857146
+True,22,LineaB,Malabia,152.42857142857142
+True,22,LineaB,Medrano,127.375
+True,22,LineaB,Pasteur,46.75
+True,22,LineaB,Pueyrredon,49.125
+True,22,LineaB,Rosas,148.83333333333334
+True,22,LineaB,Tronador,31.25
+True,22,LineaB,Uruguay,190.625
+True,22,LineaC,Avenida de Mayo,34.57142857142857
+True,22,LineaC,Constitucion,377.57142857142856
+True,22,LineaC,Diagonal Norte,22.625
+True,22,LineaC,General San Martin,26.142857142857142
+True,22,LineaC,Independencia,63.0
+True,22,LineaC,Lavalle,58.857142857142854
+True,22,LineaC,Mariano Moreno,27.857142857142858
+True,22,LineaC,Retiro,225.875
+True,22,LineaC,San Juan,38.714285714285715
+True,22,LineaD,9 de julio,44.875
+True,22,LineaD,AgÃÂ¼ero,83.28571428571429
+True,22,LineaD,Bulnes,236.57142857142858
+True,22,LineaD,Callao,84.85714285714286
+True,22,LineaD,Catedral,59.5
+True,22,LineaD,Congreso de Tucuman,143.42857142857142
+True,22,LineaD,Facultad de Medicina,52.875
+True,22,LineaD,Jose Hernandez,63.75
+True,22,LineaD,Juramento,108.75
+True,22,LineaD,Ministro Carranza,75.0
+True,22,LineaD,Olleros,73.125
+True,22,LineaD,Palermo,189.28571428571428
+True,22,LineaD,Plaza Italia,114.625
+True,22,LineaD,Pueyrredon.D,70.28571428571429
+True,22,LineaD,Scalabrini Ortiz,110.42857142857143
+True,22,LineaD,Tribunales,109.28571428571429
+True,22,LineaE,Avenida La Plata,33.125
+True,22,LineaE,Boedo,34.375
+True,22,LineaE,Bolivar,45.0
+True,22,LineaE,Catalinas,18.25
+True,22,LineaE,Correo Central,60.0
+True,22,LineaE,Emilio Mitre,41.57142857142857
+True,22,LineaE,Entre Rios,33.125
+True,22,LineaE,General Belgrano,19.125
+True,22,LineaE,Independencia.H,33.25
+True,22,LineaE,Jose Maria Moreno,27.428571428571427
+True,22,LineaE,Jujuy,30.125
+True,22,LineaE,Medalla Milagrosa,10.8
+True,22,LineaE,Pichincha,17.5
+True,22,LineaE,Pza. de los Virreyes,28.428571428571427
+True,22,LineaE,Retiro E,34.625
+True,22,LineaE,San Jose,17.857142857142858
+True,22,LineaE,Urquiza,25.0
+True,22,LineaE,Varela,8.5
+True,22,LineaH,Caseros,30.285714285714285
+True,22,LineaH,Cordoba,59.714285714285715
+True,22,LineaH,Corrientes,64.85714285714286
+True,22,LineaH,Facultad de Derecho,49.0
+True,22,LineaH,Hospitales,38.42857142857143
+True,22,LineaH,Humberto I,59.0
+True,22,LineaH,Inclan,58.57142857142857
+True,22,LineaH,Las Heras,243.0
+True,22,LineaH,Once,154.85714285714286
+True,22,LineaH,Patricios,64.14285714285714
+True,22,LineaH,Santa Fe,106.57142857142857
+True,22,LineaH,Venezuela,43.285714285714285
+True,23,LineaA,Acoyte,32.5
+True,23,LineaA,Alberti,27.0
+True,23,LineaA,Carabobo,36.0
+True,23,LineaA,Castro Barros,24.333333333333332
+True,23,LineaA,Congreso,70.0
+True,23,LineaA,Flores,27.5
+True,23,LineaA,Lima,60.0
+True,23,LineaA,Loria,32.333333333333336
+True,23,LineaA,Pasco,6.0
+True,23,LineaA,Peru,23.5
+True,23,LineaA,Piedras,37.666666666666664
+True,23,LineaA,Plaza Miserere,24.428571428571427
+True,23,LineaA,Plaza de Mayo,61.666666666666664
+True,23,LineaA,Primera Junta,27.5
+True,23,LineaA,Puan,13.5
+True,23,LineaA,Rio de Janeiro,23.75
+True,23,LineaA,Saenz PeÃÂ±a ,34.333333333333336
+True,23,LineaA,San Pedrito,44.0
+True,23,LineaB,Angel Gallardo,42.5
+True,23,LineaB,Callao.B,129.0
+True,23,LineaB,Carlos Gardel,209.33333333333334
+True,23,LineaB,Carlos Pellegrini,203.0
+True,23,LineaB,Dorrego,25.333333333333332
+True,23,LineaB,Echeverria,18.666666666666668
+True,23,LineaB,Federico Lacroze,66.6
+True,23,LineaB,Florida,39.2
+True,23,LineaB,Leandro N. Alem,218.33333333333334
+True,23,LineaB,Los Incas,34.0
+True,23,LineaB,Malabia,50.0
+True,23,LineaB,Medrano,69.33333333333333
+True,23,LineaB,Pasteur,38.666666666666664
+True,23,LineaB,Pueyrredon,27.333333333333332
+True,23,LineaB,Rosas,20.428571428571427
+True,23,LineaB,Tronador,19.0
+True,23,LineaB,Uruguay,161.66666666666666
+True,23,LineaC,Avenida de Mayo,23.666666666666668
+True,23,LineaC,Constitucion,97.0
+True,23,LineaC,Diagonal Norte,12.666666666666666
+True,23,LineaC,General San Martin,16.0
+True,23,LineaC,Independencia,24.0
+True,23,LineaC,Lavalle,20.0
+True,23,LineaC,Mariano Moreno,12.666666666666666
+True,23,LineaC,Retiro,82.0
+True,23,LineaC,San Juan,15.666666666666666
+True,23,LineaD,9 de julio,32.666666666666664
+True,23,LineaD,AgÃÂ¼ero,41.333333333333336
+True,23,LineaD,Bulnes,69.0
+True,23,LineaD,Callao,41.5
+True,23,LineaD,Catedral,37.75
+True,23,LineaD,Congreso de Tucuman,25.166666666666668
+True,23,LineaD,Facultad de Medicina,25.333333333333332
+True,23,LineaD,Jose Hernandez,17.166666666666668
+True,23,LineaD,Juramento,59.333333333333336
+True,23,LineaD,Ministro Carranza,35.666666666666664
+True,23,LineaD,Olleros,46.333333333333336
+True,23,LineaD,Palermo,62.666666666666664
+True,23,LineaD,Plaza Italia,69.66666666666667
+True,23,LineaD,Pueyrredon.D,18.8
+True,23,LineaD,Scalabrini Ortiz,57.333333333333336
+True,23,LineaD,Tribunales,58.333333333333336
+True,23,LineaE,Avenida La Plata,16.25
+True,23,LineaE,Boedo,11.6
+True,23,LineaE,Bolivar,31.0
+True,23,LineaE,Catalinas,8.333333333333334
+True,23,LineaE,Correo Central,31.75
+True,23,LineaE,Emilio Mitre,9.0
+True,23,LineaE,Entre Rios,20.666666666666668
+True,23,LineaE,General Belgrano,10.666666666666666
+True,23,LineaE,Independencia.H,15.333333333333334
+True,23,LineaE,Jose Maria Moreno,7.6
+True,23,LineaE,Jujuy,18.333333333333332
+True,23,LineaE,Medalla Milagrosa,3.0
+True,23,LineaE,Pichincha,9.666666666666666
+True,23,LineaE,Pza. de los Virreyes,8.75
+True,23,LineaE,Retiro E,11.8
+True,23,LineaE,San Jose,7.666666666666667
+True,23,LineaE,Urquiza,8.333333333333334
+True,23,LineaE,Varela,5.0
+True,23,LineaH,Caseros,15.666666666666666
+True,23,LineaH,Cordoba,23.666666666666668
+True,23,LineaH,Corrientes,23.25
+True,23,LineaH,Facultad de Derecho,25.0
+True,23,LineaH,Hospitales,14.666666666666666
+True,23,LineaH,Humberto I,28.0
+True,23,LineaH,Inclan,28.333333333333332
+True,23,LineaH,Las Heras,80.5
+True,23,LineaH,Once,52.0
+True,23,LineaH,Patricios,29.666666666666668
+True,23,LineaH,Santa Fe,50.666666666666664
+True,23,LineaH,Venezuela,13.666666666666666
